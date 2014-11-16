@@ -1,6 +1,6 @@
 var main = function() {
-  $('.icon-menu').click(function() {
-    $('.menu').animate({
+  $('.icon-panel').click(function() {
+    $('.top-panel').animate({
         top: '0px'
     }, 300);
     
@@ -10,7 +10,7 @@ var main = function() {
   });
   
   $('.icon-close').click(function() {
-      $('.menu').animate({
+      $('.top-panel').animate({
           top: '-323px'
       }, 300);
       
