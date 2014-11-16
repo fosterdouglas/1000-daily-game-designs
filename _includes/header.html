@@ -1,5 +1,22 @@
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<div class="menu">
   <div class="container">
-    <a href="#" class="navbar-brand">{{ site.title }}</a>
+    <div class="col-md-6">
+      <img src="/img/foster.jpg">
+    </div>
+    <div class="col-md-6">
+      <h2>Hey, I'm Foster.</h2>
+      <p>I'm a game designer and digital creative. I believe in diversity, collaboration, honest feedback, and innovation. I'm also really in to video games, outer space, and Top Gear.</p>
+      <button class="btn"><div class="icon-close">close</div></button>
+    </div>
+  </div>
+</div>
+<nav class="navbar navbar-inverse" role="navigation">
+  <div class="container">
+    <a href="{{ site.baseurl }}/" class="navbar-brand">{{ site.title }}</a>
+    <div class="navbar-right">
+      <div class="icon-menu">
+        <button class="btn"><span class="glyphicon glyphicon-flash"></span>About</button>
+      </div>
+    </div>
   </div>
 </nav>

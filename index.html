@@ -4,30 +4,16 @@ layout: default
 
 <h2>Interactive/Game Concepts</h2>
 <div class="row">
+  {% for post in site.posts %}
   <div class="col-sm-4">
     <div class="thumbnail">
       <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
+      <a class="caption" href="{{ post.url }}">
+        <p class="vertical-center">{{ post.title }}</p>
       </a>
     </div>
   </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
-      </a>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
-      </a>
-    </div>
-  </div>
+  {% endfor %}
 </div>
 
 <h2>Art and Design</h2>
