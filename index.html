@@ -6,8 +6,8 @@ layout: default
 <div class="row">
   {% for post in site.posts %}
   <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
+    <div class="project">
+      <a href="#"><img src="holder.js/100%x200/text: "></a>
       <a class="caption" href="{{ post.url }}">
         <p class="vertical-center">{{ post.title }}</p>
       </a>
@@ -18,67 +18,28 @@ layout: default
 
 <h2>Art and Design</h2>
 <div class="row">
+  {% for post in site.posts %}
   <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
+    <div class="project">
+      <a href="#"><img src="holder.js/100%x200/text: "></a>
+      <a class="caption" href="{{ post.url }}">
+        <p class="vertical-center">{{ post.title }}</p>
       </a>
     </div>
   </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
-      </a>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
-      </a>
-    </div>
-  </div>
+  {% endfor %}
 </div>
 
 <h2>Other Projects</h2>
 <div class="row">
+  {% for post in site.posts %}
   <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
+    <div class="project">
+      <a href="#"><img src="holder.js/100%x200/text: "></a>
+      <a class="caption" href="{{ post.url }}">
+        <p class="vertical-center">{{ post.title }}</p>
       </a>
     </div>
   </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
-      </a>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="thumbnail">
-      <a href="#"><img src="img/kitten.jpg"></a>
-      <a class="caption" href="#">
-        <p class="vertical-center">Project Title</p>
-      </a>
-    </div>
-  </div>
+  {% endfor %}
 </div>
-
-<!--
-	{% for post in site.posts %}
-		<article>
-			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-			<p>{{ post.date | date: "%b %-d, %Y" }}</p>
-			{{ post.content }}
-		</article>
-		<hr>
-	{% endfor %}
--->

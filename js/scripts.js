@@ -1,19 +1,12 @@
 var main = function() {
   $('.icon-panel').click(function() {
-    $('.top-panel').animate({
-        top: '0px'
-    }, 300);
-    
+    var height = $('.top-panel').height();
     $('body').animate({
-        top: '323px'
-    }, 300);
+        top: height
+    }, 300, 'linear');
   });
   
   $('.icon-close').click(function() {
-      $('.top-panel').animate({
-          top: '-323px'
-      }, 300);
-      
       $('body').animate({
           top: '0px'
       }, 300);
