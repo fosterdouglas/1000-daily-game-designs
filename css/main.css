@@ -26,11 +26,13 @@ body {
 	line-height: 1.35;
 	font-family: 'Roboto', sans-serif;
   left: 0;
-  margin: 0;
   position: relative;
-  margin-bottom: 80px;
+  margin-bottom: 60px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+.main-content {
+  padding-top: 85px;
 }
 img {
 	width: 100%;
@@ -113,22 +115,32 @@ hr {
   border: 0px;
   border-radius: 0px;
 }
-.navbar-brand {
+.navbar-inverse .navbar-brand {
+  color: rgba(255,255,255,.75);
   font-weight: bold;
   font-size: 1rem;
 }
 .icon-panel {
-  background-color: #e7e7e7 !important;
-  padding: 1rem;
-  border-radius: 0px;
+  color: #FFF;
+}
+.icon-close {
+  color: #FFF;
+  display: none;
 }
 
 /*
  * Buttons
  */
 
-.btn {
-  background-color: #fff;
+.btn:active {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.btn:hover {
+  color: #E7E7E7;
+}
+.navbar-btn {
+  background-color: transparent;
 }
 
 /*
@@ -136,10 +148,13 @@ hr {
  */
 
 .top-panel {
-  background-color: #E7E7E7;
+  background-color: #2BA6CB;
   top: -323px;  /* start off behind the scenes */
   position: absolute;
   width: 100%;
+}
+.top-panel a {
+  color: #FFF;
 }
 .top-panel img {
   width: auto;
