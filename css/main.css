@@ -1,6 +1,6 @@
 /*
  Blue: #2BA6CB
- Grey: rgb(204, 204, 204
+ Grey: rgb(204, 204, 204);
  Dark grey: #444 rgb(68, 68, 68);
 */
 
@@ -196,4 +196,37 @@ hr {
 .project:hover .caption {
   visibility: visible;
   opacity: 1;
+}
+
+/*
+ * Modal
+ */
+
+.modal-dialog {
+  margin-top: 70px;
+  width: 100%;
+  max-width: 980px;
+}
+.modal-header {
+  position: relative;
+  padding: 0px;
+}
+.modal-header .close {
+  font-size: 1.5rem;
+  position: absolute;
+  margin-top: 10px;
+  margin-right: 15px;
+  right: 0;
+}
+.modal-header img {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.modal-body {
+  padding-top: 30px;
+}
+.modal-body .container {
+  max-width: 680px;
 }

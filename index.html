@@ -2,43 +2,30 @@
 layout: default
 ---
 
-<h2>Interactive/Game Concepts</h2>
 <div class="row">
   {% for post in site.posts %}
   <div class="col-sm-4">
     <div class="project">
       <a href="#"><img src="holder.js/100%x200/text: "></a>
-      <a class="caption" href="{{ post.url }}">
+      <a class="caption" href="#" data-toggle="modal" data-target="#{{ post.title | remove: " " }}Modal">
         <p class="vertical-center">{{ post.title }}</p>
       </a>
     </div>
   </div>
-  {% endfor %}
-</div>
-
-<h2>Art and Design</h2>
-<div class="row">
-  {% for post in site.posts %}
-  <div class="col-sm-4">
-    <div class="project">
-      <a href="#"><img src="holder.js/100%x200/text: "></a>
-      <a class="caption" href="{{ post.url }}">
-        <p class="vertical-center">{{ post.title }}</p>
-      </a>
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
-<h2>Other Projects</h2>
-<div class="row">
-  {% for post in site.posts %}
-  <div class="col-sm-4">
-    <div class="project">
-      <a href="#"><img src="holder.js/100%x200/text: "></a>
-      <a class="caption" href="{{ post.url }}">
-        <p class="vertical-center">{{ post.title }}</p>
-      </a>
+  <div class="modal fade" id="{{ post.title | remove: " "}}Modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <img src="/img/header-placeholder.jpg">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        </div>
+        <div class="modal-body">
+          <div class="container">
+            <h1 id="myModalLabel">{{ post.title }}</h1>
+            {{ post.content }}
+          </div>
+        </div>
+      </div>
     </div>
   </div>
   {% endfor %}
