@@ -172,6 +172,7 @@ hr {
 .project {
   position: relative;
   text-align: center;
+  margin-bottom: 30px;
 }
 .caption {
   position: absolute;
@@ -183,8 +184,7 @@ hr {
   text-decoration: none;
   visibility: hidden;
   border-radius: 3px;
-  background: #7e7e7e;
-  /*background: rgba(23, 165, 204, .75);*/
+  background: rgba(23, 165, 204, .75);
   opacity: 0;
   -webkit-transition: all 0.2s;
      -moz-transition: all 0.2s;
@@ -229,4 +229,9 @@ hr {
 }
 .modal-body .container {
   max-width: 680px;
+}
+.modal-body img {
+  border: 1px solid #E7E7E7;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

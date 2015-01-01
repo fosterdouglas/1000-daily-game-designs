@@ -6,7 +6,9 @@ layout: default
   {% for post in site.posts %}
   <div class="col-sm-4">
     <div class="project">
-      <a href="#"><img src="holder.js/100%x200/text: "></a>
+      <a href="#">
+        {% if post.image %}<img src="/img/{{ post.image }}">
+        {% else %}<img src="holder.js/100%x200/text: ">{% endif %}</a>
       <a class="caption" href="#" data-toggle="modal" data-target="#{{ post.title | remove: " " }}Modal">
         <p class="vertical-center">{{ post.title }}</p>
       </a>
