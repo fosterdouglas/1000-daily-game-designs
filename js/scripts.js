@@ -6,7 +6,7 @@ var main = function() {
     }, 750, 'easeOutCirc');
     
     $('.navbar').animate({
-      backgroundColor: 'rgba(68, 68, 68, 0);'
+      backgroundColor: 'rgba(23, 165, 204, 0);'
     }, 300);
     $('.icon-panel').hide();
     $('.icon-close').show();
@@ -18,7 +18,7 @@ var main = function() {
     }, 300);
     
     $('.navbar').animate({
-      backgroundColor: 'rgba(68, 68, 68, .75);'
+      backgroundColor: 'rgba(23, 165, 204, .90);'
     }, 300);
     $('.icon-panel').show();
     $('.icon-close').hide();

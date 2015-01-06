@@ -25,6 +25,7 @@ body {
 	font-size: 1em;
 	line-height: 1.35;
 	font-family: 'Roboto', sans-serif;
+  color: #69778A;
   left: 0;
   position: relative;
   margin-bottom: 60px;
@@ -67,7 +68,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #7E7E7E;
+  color: #2BA6CB;
   margin-top: 1.5rem;
   margin-bottom: .5rem;
   font-size: 1rem;
@@ -111,17 +112,26 @@ hr {
  */
 
 .navbar {
-  background-color: rgba(68, 68, 68, .75);
+  background: rgba(23, 165, 204, .90);
   border: 0px;
   border-radius: 0px;
 }
 .navbar-inverse .navbar-brand {
-  color: rgba(255,255,255,.75);
+  color: rgba(255,255,255,.80);
   font-weight: bold;
   font-size: 1rem;
+  transition: .3s all;
+}
+.navbar-inverse .navbar-brand:hover {
+  transition: .3s all;
 }
 .icon-panel {
-  color: #FFF;
+  color: rgba(255,255,255,.80) !important;
+  transition: .3s all;
+}
+.icon-panel:hover {
+  color: rgba(255,255,255,1) !important;
+  transition: .3s all;
 }
 .icon-close {
   color: #FFF;
@@ -180,11 +190,14 @@ hr {
   bottom: 0;
   right: 0;
   left: 0;
+  font-size: .75rem;
+  padding-left: 10px;
+  padding-right: 10px;
   height: 100%;
   text-decoration: none;
   visibility: hidden;
   border-radius: 3px;
-  background: rgba(23, 165, 204, .75);
+  background: rgba(23, 165, 204, .90);
   opacity: 0;
   -webkit-transition: all 0.2s;
      -moz-transition: all 0.2s;
@@ -196,6 +209,13 @@ hr {
 .project:hover .caption {
   visibility: visible;
   opacity: 1;
+}
+.caption .project-title {
+  font-weight: bold;
+  font-size: 1rem;
+}
+.caption .project-tags {
+  color: rgba(255,255,255,.65);
 }
 
 /*
@@ -234,4 +254,22 @@ hr {
   border: 1px solid #E7E7E7;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+/*
+ * Post
+ */
+
+.post {
+  margin-bottom: 1.25rem;
+}
+.post h2 {
+  margin-top: .5rem;
+}
+.post a {
+  border-bottom: 2px solid #2BA6CB;
+}
+.post-date {
+  font-size: .85rem;
+  color: #E7E7E7;
 }
