@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Save The Bet
+title: 003 Save The Bet
 category: games
 tags: card-game, cards, gambling
 ---
-2 players
-Standard 52-card deck (51 cards used)
-15-20 minutes
+2 players  
+Standard 52-card deck (51 cards used)  
+15-20 minutes  
 
 #####Game Setup:
 Remove the Ace of Spades from the deck. Both players are dealt 6 cards from the shuffled deck. The remaining cards are placed in a stack between the players.

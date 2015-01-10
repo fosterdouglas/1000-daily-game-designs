@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leveling Down
+title: 002 Leveling Down
 category: games
 tags: game-mechanic
 ---

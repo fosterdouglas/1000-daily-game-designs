@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Legend of Korra’s Disappointing Control Scheme
+title: 001 Legend of Korra’s Disappointing Control Scheme
 category: games
 tags: avatar, game-revision, legend-of-korra
 ---
