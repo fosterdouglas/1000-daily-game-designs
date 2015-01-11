@@ -4,7 +4,7 @@ title: 009 The Wonderful World of MUJO (Needs Focus)
 category: games
 tags: game-review, game-revision, iOS
 ---
-his wonderfully addicting, wonderfully designed (and wonderfully free this week, here: [MUJO](https://itunes.apple.com/us/app/mujo/id882416288?mt=8 "MUJO") puzzle game might on the surface seem like just another iOS app store match-3.  And, to be fair, it has its share of zynga-tendencies, but they are few and they aren’t intrusive to the game experience.
+This wonderfully addicting, wonderfully designed (and wonderfully free this week, here: [MUJO](https://itunes.apple.com/us/app/mujo/id882416288?mt=8 "MUJO") puzzle game might on the surface seem like just another iOS app store match-3.  And, to be fair, it has its share of zynga-tendencies, but they are few and they aren’t intrusive to the game experience.
 
 What I like about this game is that it’s a fairly standard match-3, and doesn’t necessarily do anything that I’ve **never** seen before, but it does introduce one thing that you don’t see often in these types of games: strategy.  You will not be successful at this game (nor will you have fun) if you speed through it, tapping everything in sight at full-steam-ahead pace.  And that’s a refreshing trait to have, given the eco-system it’s living in.
 
