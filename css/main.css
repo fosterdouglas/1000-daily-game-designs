@@ -28,7 +28,6 @@ body {
   color: #69778A;
   left: 0;
   position: relative;
-  margin-bottom: 60px;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -83,9 +82,13 @@ h2 {
 }
 a {
 	color: #7E7E7E;
+  border-bottom: 2px solid #2BA6CB;
+  transition: .3s all;
 }
 a:hover {
+  color: #2BA6CB;
   text-decoration: none;
+  transition: .3s all;
 }
 ol li,
 ul li {
@@ -112,29 +115,33 @@ hr {
  */
 
 .navbar {
-  background: rgba(23, 165, 204, .90);
+  background: rgba(23, 165, 204, .80);
   border: 0px;
   border-radius: 0px;
 }
 .navbar-inverse .navbar-brand {
-  color: rgba(255,255,255,.80);
+  color: #FFF;
+  opacity: .8;
   font-weight: bold;
   font-size: 1rem;
   transition: .3s all;
 }
 .navbar-inverse .navbar-brand:hover {
+  opacity: 1;
   transition: .3s all;
 }
-.icon-panel {
-  color: rgba(255,255,255,.80) !important;
+.icon-panel,
+.icon-close {
+  color: #FFF !important;
+  opacity: .8;
   transition: .3s all;
 }
-.icon-panel:hover {
-  color: rgba(255,255,255,1) !important;
+.icon-panel:hover,
+.icon-close:hover {
+  opacity: 1;
   transition: .3s all;
 }
 .icon-close {
-  color: #FFF;
   display: none;
 }
 
@@ -159,9 +166,13 @@ hr {
 
 .top-panel {
   background-color: #2BA6CB;
+  color: #FFF;
   top: -323px;  /* start off behind the scenes */
   position: absolute;
   width: 100%;
+}
+.top-panel h2 {
+  color: #FFF;
 }
 .top-panel a {
   color: #FFF;
@@ -171,8 +182,22 @@ hr {
   border-radius: 0px;
   max-height: 323px;
 }
-.top-panel h2 {
-  color: #0C222A;
+
+/*
+ * Social
+ */
+
+.social i {
+  font-size: 1.2rem;
+  margin-right: 8px;
+}
+.social a {
+  opacity: .6;
+  transition: .3s all;
+}
+.social a:hover {
+  opacity: 1;
+  transition: .3s all;
 }
 
 /*
@@ -272,4 +297,16 @@ hr {
 .post-date {
   font-size: .85rem;
   color: #E7E7E7;
+}
+
+/*
+ * Footer
+ */
+
+footer {
+  font-size: .9rem;
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #E7E7E7;
 }
