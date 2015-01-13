@@ -1,8 +1,25 @@
 ---
 layout: default
 ---
-
-	<article class="col-md-7 center-block">
-  	<h1>{{ page.title }}</h1>
- 	 	{{ content }}
-  </article>
+  
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card">
+        <h1>Featured Posts</h1>
+        {% for post in site.categories.featured %}
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        {% endfor %}
+        <div class="card-button-group">
+          <a class="btn btn-primary btn-lg" href="/games">See all games</a>
+        </div>
+      </div>
+    <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+    </div>
+	  <article class="post col-md-8">
+      <div class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</div>
+    	<h1>{{ page.title }}</h1>
+ 	   	{{ content }}
+      <p class="post-meta">{% for tag in page.tags %}#{{ tag }} {% endfor %}</p>
+      <a class="btn btn-primary btn-lg" href="/games">See all games</a>
+    </article>
+  </div>

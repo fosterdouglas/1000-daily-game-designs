@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 001 Legend of Korra’s Disappointing Control Scheme
-category: games
 tags: avatar, game-revision, legend-of-korra
 ---
 Yesterday, I finished the action game Legend of Korra on PS4; it was an enjoyable and short experience, but flawed. Almost immediately after starting the game, I noticed the peculiar control system. It seemed completely at odds with the Avatar/Legend of Korra lore.  

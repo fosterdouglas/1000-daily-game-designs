@@ -1,13 +1,29 @@
 ---
-layout: page
+layout: default
 ---
 
-{{ content }}
-
-{% for post in site.categories.games %}
-<div class="post">
-  <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {{ post.excerpt }}
+<div class="row">
+  <div class="col-md-4">
+    <div class="card">
+      {{ page.description }}
+    </div>
+    <div class="card">
+      <h1>Featured Posts</h1>
+      {% for post in site.categories.featured %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+      {% endfor %}
+    </div>
+    <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+  </div>
+  <div class="col-md-8">
+    {{ content }}
+    <h1>All Posts</h1>
+    {% for post in site.categories.games %}
+    <div class="post">
+      <div class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </div>
+    {% endfor %}
+  </div>
 </div>
-{% endfor %}

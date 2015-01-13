@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 008 Badsketball
-category: games
 tags: basketball, game-modification, sports-game
 ---
 This is a modification on the classic game of basketball.

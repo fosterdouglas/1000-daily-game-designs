@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 003 Save The Bet
-category: games
 tags: card-game, cards, gambling
 ---
 2 players  

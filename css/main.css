@@ -71,6 +71,7 @@ h6 {
   margin-top: 1.5rem;
   margin-bottom: .5rem;
   font-size: 1rem;
+  line-height: 1.5;
   font-weight: bold;
 }
 h1 {
@@ -124,6 +125,7 @@ hr {
   opacity: .8;
   font-weight: bold;
   font-size: 1rem;
+  border-bottom: 0px;
   transition: .3s all;
 }
 .navbar-inverse .navbar-brand:hover {
@@ -153,11 +155,16 @@ hr {
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-.btn:hover {
-  color: #E7E7E7;
-}
 .navbar-btn {
   background-color: transparent;
+}
+.btn-primary {
+  background-color: #2BA6CB;
+  border: 0px;
+  border-bottom: 2px solid #16506C;
+}
+.btn-primary:hover {
+  background-color: #16506C;
 }
 
 /*
@@ -291,12 +298,22 @@ hr {
 .post h2 {
   margin-top: .5rem;
 }
-.post a {
-  border-bottom: 2px solid #2BA6CB;
-}
-.post-date {
+.post-meta {
   font-size: .85rem;
   color: #E7E7E7;
+}
+
+/*
+ * Card
+ */
+
+.card {
+  background-color: #E7E7E7;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+.card .btn {
+  width: 100%;
 }
 
 /*
