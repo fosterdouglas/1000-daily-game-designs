@@ -1,0 +1,19 @@
+---
+layout: post
+title: 012 About Time
+category: featured
+tags: adventure-game, narrative-game
+---
+Last night I watched the Richard Curtis film About Time, in which two people fall in love and one of them can travel freely backward in time. I think it could be adapted into a video game.
+
+I like the idea of being able to move through time backward, until your child is born, blocking out traveling any time before the conception. There's an interesting reward/sacrifice system there.
+
+The game is top-down, maybe similar to Hotline Miami, but less twitchy controls. Or like Monaco. There are dark closets, rooms, and corners, which are the only places from which you can time travel.
+
+Each of your memories in life is represented by a rectangle at the bottom of the screen. The rectangles vary in length depending on how strong, important and long they were. As you travel back and change events, you can see various rectangles (those which you've already experienced) lighting up briefly with different colors, indicating things you've changed in the current event are affecting future events.
+
+Elements that you saw once but have since changed... you will see the past versions of those events faintly as ghosting, around which the actual event is now happening. 
+
+The game is primarily a storytelling based adventure. Most of the time will be spent interacting with people, objects, your wife, kids, and job.
+
+If you travel around in time too much, you start getting confused, seeing illusions and things that don't exist, and start saying unexpected things to the people you talk to.
