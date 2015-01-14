@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 009 The Wonderful World of MUJO (Needs Focus)
-tags: game-review, game-revision, iOS
+tags: game-review, game-revision
 ---
 This wonderfully addicting, wonderfully designed (and wonderfully free this week, here: [MUJO](https://itunes.apple.com/us/app/mujo/id882416288?mt=8 "MUJO") puzzle game might on the surface seem like just another iOS app store match-3.  And, to be fair, it has its share of zynga-tendencies, but they are few and they aren’t intrusive to the game experience.
 
