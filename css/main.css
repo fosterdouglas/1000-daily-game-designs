@@ -132,6 +132,9 @@ hr {
   opacity: 1;
   transition: .3s all;
 }
+.navbar-right {
+  float: right;
+}
 .icon-panel,
 .icon-close {
   color: #FFF !important;
@@ -174,9 +177,14 @@ hr {
 .top-panel {
   background-color: #2BA6CB;
   color: #FFF;
-  top: -323px;  /* start off behind the scenes */
+  top: -498px;  /* start off behind the scenes */
   position: absolute;
   width: 100%;
+}
+@media (min-width: 768px) {
+  .top-panel {
+    top: -323px;
+  }
 }
 .top-panel h2 {
   color: #FFF;
@@ -188,6 +196,7 @@ hr {
   width: auto;
   border-radius: 0px;
   max-height: 323px;
+  max-width: 100%;
 }
 
 /*
@@ -308,7 +317,7 @@ hr {
  */
 
 .card {
-  background-color: #E7E7E7;
+  background-color: #F7F7F7;
   padding: 1rem;
   margin-bottom: 1.5rem;
 }
