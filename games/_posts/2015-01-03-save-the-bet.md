@@ -7,16 +7,16 @@ tags: card-game, cards, gambling
 Standard 52-card deck (51 cards used)  
 15-20 minutes  
 
-#####Game Setup:
+## Game Setup:
 Remove the Ace of Spades from the deck. Both players are dealt 6 cards from the shuffled deck. The remaining cards are placed in a stack between the players.
 
-#####Main Objective:
+## Main Objective:
 The first player to collect 26 cards wins.
 
-#####Rules and Details:
+## Rules and Details:
 Each player is to bet on the exact value or suit of the next card that's flipped over. The wager is placed using the cards in hand. Multiple cards of the same suit can be used to bet against the larger numbered cards, by adding their values together. Jack, Queen, King, and Ace cards are all worth a value of 1.  Cards won are collected into the hand, and can be used again for betting.
 
-#####Game Flow:
+## Game Flow:
 Set up the game and deal cards.
 Each player places their bet, face down, on the value of the next flipped card from the stack. 
 The Gamble card is revealed.
@@ -25,7 +25,7 @@ Both players reveal their bets.
 All cards in play are given to the bet winner, if applicable. In the event of a draw or a blank turn, the Gamble is shuffled back into the stack, and each player collects the cards bet by the opposite player.
 Repeat numbers 2-6, until one player reaches 26 cards.
 
-#####Definitions:
+## Definitions:
 **Stack** - The cards that are being bet against.  These remain face down in a centralized stack between the players.  
 **Gamble card** - The next card to bet against, or the top card of the stack.  
 **Saving the bet** - When one or both players decide to augment their bet with an additional card after the Gamble card has been revealed. The additional card must be the same suit as the Gamble, but needn’t be the same suit as the original bet.  

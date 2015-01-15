@@ -79,7 +79,8 @@ h1 {
   font-size: 1.3rem;
 }
 h2 {
-  font-size: 1.1rem;
+  color: rgb(204, 204, 204);
+  font-size: 1rem;
 }
 a {
 	color: #7E7E7E;
@@ -188,12 +189,16 @@ hr {
 .top-panel a {
   color: #FFF;
 }
-.top-panel img {
-  width: auto;
+/*
+.top-panel .profile {
+  background-image: url(/img/foster-color.jpg);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
   border-radius: 0px;
-  max-height: 323px;
+  width: 100%;
+  height: 100%;
   max-width: 100%;
-}
+} */
 
 /*
  * Social
@@ -305,7 +310,7 @@ hr {
 }
 .post-meta {
   font-size: .85rem;
-  color: #E7E7E7;
+  color: rgb(204, 204, 204);
 }
 
 /*
