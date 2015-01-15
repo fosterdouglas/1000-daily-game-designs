@@ -178,13 +178,9 @@ hr {
   background-color: #2BA6CB;
   color: #FFF;
   top: -498px;  /* start off behind the scenes */
-  position: absolute;
+  position: fixed;
   width: 100%;
-}
-@media (min-width: 768px) {
-  .top-panel {
-    top: -323px;
-  }
+  z-index: 1000;
 }
 .top-panel h2 {
   color: #FFF;
