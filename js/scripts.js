@@ -1,4 +1,8 @@
 var main = function() {
+  $(document).ready(function() {
+    var height = $('.top-panel').height();
+    $('.top-panel').css("top", -height);
+  })
   $('.icon-panel').click(function() {
     var height = $('.top-panel').height();
     $('body').animate({
