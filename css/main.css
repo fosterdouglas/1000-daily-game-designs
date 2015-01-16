@@ -8,11 +8,6 @@
  * Global
  */
 
-* {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-}
 html {
 	font-size: 16px;
 }
@@ -258,6 +253,7 @@ hr {
   border-radius: 3px;
   background: rgba(23, 165, 204, .90);
   opacity: 0;
+  cursor: pointer;
   -webkit-transition: all 0.2s;
      -moz-transition: all 0.2s;
           transition: all 0.2s;
@@ -283,7 +279,7 @@ hr {
 
 .modal-dialog {
   margin-top: 70px;
-  width: 100%;
+  width: auto;
   max-width: 980px;
 }
 .modal-header {
@@ -303,16 +299,8 @@ hr {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
 }
-.modal-body {
-  padding-top: 30px;
-}
 .modal-body .container {
   max-width: 680px;
-}
-.modal-body img {
-  border: 1px solid #E7E7E7;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 /*
@@ -322,8 +310,12 @@ hr {
 .post {
   margin-bottom: 1.25rem;
 }
-.post h2 {
+.post .post-title {
   margin-top: .5rem;
+}
+.post img {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
 }
 .post-meta {
   font-size: .85rem;
