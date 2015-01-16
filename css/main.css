@@ -189,6 +189,23 @@ hr {
 .top-panel a {
   color: #FFF;
 }
+.top-panel .img-sm {
+  max-width: 410px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.top-panel .img-lg {
+  display: none;
+}
+@media (min-width: 992px) {
+  .top-panel .img-lg {
+    display: block;
+  }
+  .top-panel .img-sm {
+    display: none;
+  }
+}
 /*
 .top-panel .profile {
   background-image: url(/img/foster-color.jpg);

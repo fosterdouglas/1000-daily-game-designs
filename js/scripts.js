@@ -27,6 +27,10 @@ var main = function() {
     
     $('.icon-panel').hide();
     $('.icon-close').show();
+    
+    $('.navbar-brand').animate({
+      opacity: '0'
+    }, 200);
   });
   
   // Hide the top panel, move the body back into normal position, reset the navbar.
@@ -43,8 +47,13 @@ var main = function() {
     $('.navbar').animate({
       backgroundColor: 'rgba(23, 165, 204, .90);'
     }, 300);
+    
     $('.icon-panel').show();
     $('.icon-close').hide();
+    
+    $('.navbar-brand').animate({
+      opacity: '1'
+    }, 200);
   });
 };
 
