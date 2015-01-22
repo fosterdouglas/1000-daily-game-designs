@@ -282,16 +282,30 @@ hr {
   width: auto;
   max-width: 980px;
 }
+.modal-content {
+  box-shadow: none;
+  background-color: transparent;
+  border: 0px;
+}
+.modal-backdrop {
+  background-color: #E7E7E7;
+}
+.modal-backdrop.in {
+  opacity: .9;
+}
 .modal-header {
   position: relative;
   padding: 0px;
 }
-.modal-header .close {
-  font-size: 1.5rem;
+.modal .card {
+  background-color: #FFF;
+  border: 1px solid #E7E7E7;
+  box-shadow: 1px 1px rgba(0,0,0,.1);
+}
+.modal .btn {
   position: absolute;
-  margin-top: 10px;
-  margin-right: 15px;
-  right: 0;
+  top: -30px;
+  right: 25px;
 }
 .modal-header img {
   border-top-left-radius: 6px;
@@ -300,7 +314,7 @@ hr {
   border-bottom-right-radius: 0px;
 }
 .modal-body .container {
-  max-width: 680px;
+  max-width: 980px;
 }
 
 /*
