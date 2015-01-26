@@ -6,11 +6,11 @@ layout: default
   {% for post in site.categories.projects %}
   <div class="col-sm-4 col-xs-12">
     <div class="project">
-        {% if post.image %}<img src="/img/{{ post.image }}">
-        {% else %}<img src="holder.js/100%x196/text: ">{% endif %}
-        <div class="caption" data-toggle="modal" data-target="#{{ post.title | remove: " " }}Modal">
-        <div class="vertical-center">
-          <p><span class="project-title">{{ post.title }}</span></p>
+      {% if post.image %}<img src="/img/{{ post.image }}">
+      {% else %}<img src="holder.js/100%x196/text: ">{% endif %}
+      <div class="caption" data-toggle="modal" data-target="#{{ post.title | remove: " " }}Modal">
+        <div>
+          <p class="project-title">{{ post.title }}</p>
           <p>{{ post.description }}</p>
           <p class="project-tags">{% for tag in post.tags %}#{{ tag }} {% endfor %}</p>
         </div>
