@@ -116,7 +116,7 @@ hr {
   border: 0px;
   border-radius: 0px;
 }
-.navbar-inverse .navbar-brand {
+.navbar .navbar-brand {
   color: #FFF;
   opacity: .8;
   font-weight: bold;
@@ -124,7 +124,7 @@ hr {
   border-bottom: 0px;
   transition: .3s all;
 }
-.navbar-inverse .navbar-brand:hover {
+.navbar a.navbar-brand:hover {
   opacity: 1;
   transition: .3s all;
 }
@@ -278,14 +278,7 @@ hr {
  */
 
 .modal-dialog {
-  margin-top: 70px;
-  width: auto;
-  max-width: 980px;
-}
-.modal-content {
-  box-shadow: none;
-  background-color: transparent;
-  border: 0px;
+  margin-top: 20px;
 }
 .modal-backdrop {
   background-color: #E7E7E7;
@@ -293,28 +286,20 @@ hr {
 .modal-backdrop.in {
   opacity: .9;
 }
-.modal-header {
-  position: relative;
-  padding: 0px;
-}
 .modal .card {
   background-color: #FFF;
   border: 1px solid #E7E7E7;
   box-shadow: 1px 1px rgba(0,0,0,.1);
 }
+.fixed {
+  position: fixed;
+}
+.modal .navbar {
+  background-color: transparent;
+}
 .modal .btn {
-  position: absolute;
-  top: -30px;
-  right: 25px;
-}
-.modal-header img {
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
-  border-bottom-left-radius: 0px;
-  border-bottom-right-radius: 0px;
-}
-.modal-body .container {
-  max-width: 980px;
+  float: right;
+  margin-bottom: 15px;
 }
 
 /*
@@ -334,6 +319,18 @@ hr {
 .post-meta {
   font-size: .85rem;
   color: rgb(204, 204, 204);
+}
+.post-meta h3 {
+  margin-top: -.5rem;
+  font-weight: normal;
+  font-size: .85rem;
+}
+.post-meta ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.post-meta li {
+  margin-bottom: 0px;
 }
 
 /*
