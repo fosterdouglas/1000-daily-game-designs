@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 026 Another Day
+category: featured
 tags: narrative-game, simulation-game
 ---
 A modern take on _Paperboy_; a post system or package shipping simulator. You start your career as newspaper delivery boy, and move up to mail sorting for the USPS. Then you're given your own postal route, eventually a delivery guy position for UPS, and the end game is owning and managing the system/fleet of trucks.  
