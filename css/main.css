@@ -125,24 +125,22 @@ hr {
   transition: .3s all;
 }
 .navbar-nav li {
-  -webkit-transform: skew(-23deg);
-      -ms-transform: skew(-23deg);
-          transform: skew(-23deg);
   margin-bottom: 0px;
 }
 .navbar-nav a {
-  -webkit-transform: skew(23deg);
-      -ms-transform: skew(23deg);
-          transform: skew(23deg);
   border-bottom: 0px;
   color: #FFF;
   font-size: .85rem;
 }
+.nav>li>a:hover, .nav>li>a:focus {
+  background-color: initial;
+  color: rgba(255,255,255,.8);
+}
 .navbar-nav li.active {
-  background-color: rgba(255,255,255,.8);
+  border-bottom: 3px solid rgba(255,255,255,.8);
 }
 .navbar-nav li.active a {
-  color: #2BA6CB;
+  color: #fff;
 }
 .navbar a.navbar-brand:hover {
   opacity: 1;

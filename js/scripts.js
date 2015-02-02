@@ -28,7 +28,7 @@ var main = function() {
     $('.icon-panel').hide();
     $('.icon-close').show();
     
-    $('.navbar-brand').animate({
+    $('.navbar-brand,.navbar-nav').animate({
       opacity: '0'
     }, 200);
   });
@@ -51,7 +51,7 @@ var main = function() {
     $('.icon-panel').show();
     $('.icon-close').hide();
     
-    $('.navbar-brand').animate({
+    $('.navbar-brand,.navbar-nav').animate({
       opacity: '1'
     }, 200);
   });
