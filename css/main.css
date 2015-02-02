@@ -201,7 +201,6 @@ hr {
   color: #FFF;
 }
 .top-panel p {
-  font-size: .9rem;
 }
 .top-panel a {
   color: #FFF;
@@ -249,6 +248,18 @@ hr {
 .social a:hover {
   opacity: 1;
   transition: .3s all;
+}
+
+/*
+ * Tooltip
+ */
+
+.tooltip-inner {
+  background-color: #FFF;
+  color: #2BA6CB;
+}
+.tooltip.bottom .tooltip-arrow {
+  border-bottom-color: #FFF; /* black */
 }
 
 /*

@@ -3,26 +3,23 @@ layout: default
 ---
 
 <div class="row">
-  <div class="col-md-4">
+  <div class="col-md-8 center-block">
     <div class="card">
+      <h1>Daily Game Designs</h1>
       {{ page.description }}
     </div>
     <div class="card">
-      <h1>Favorites</h1>
-      {% for post in site.categories.featured %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-      {% endfor %}
+      
+      {% assign last_year = 0 %}
+        {% for post in site.categories.games %}
+          {% capture current_year %}{{ post.date | date: '%B' }}{% endcapture %}
+          {% if last_year != current_year %}
+            <h1 class="archive-year">{{ post.date | date: '%B' }}</h1>
+          {% endif %}
+            <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+          {% assign last_year = current_year %}
+        {% endfor %}
     </div>
     <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
-  </div>
-  <div class="col-md-8">
-    {{ content }}
-    {% for post in site.categories.games %}
-    <div class="post">
-      <div class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </div>
-    {% endfor %}
   </div>
 </div>
