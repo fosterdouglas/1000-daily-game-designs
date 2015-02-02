@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 012 About Time
-category: featured
 tags: adventure-game, narrative-game
 ---
 Last night I watched the Richard Curtis film About Time, in which two people fall in love and one of them can travel freely backward in time. I think it could be adapted into a video game.
