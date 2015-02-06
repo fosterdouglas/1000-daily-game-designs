@@ -1,0 +1,11 @@
+---
+layout: post
+title: 034 Audio Game
+category: featured
+tags: audio-game, narrative-game
+---
+An audio-only story told through the use of spatial awareness and a virtual reality interface.
+
+This experience uses an Occulus Rift, or something similar, primarily to track the player’s head movement. Spatial sound design and voice-recognition software tell a story that takes place entirely in a Living Room. 
+
+The player can move their head, and respond with their voice to the conversation being had.  The game’s story dynamically changes depending on what the player says.

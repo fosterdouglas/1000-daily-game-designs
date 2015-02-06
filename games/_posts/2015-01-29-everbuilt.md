@@ -1,0 +1,11 @@
+---
+layout: post
+title: 029 Everbuilt
+category: featured
+tags: tower-defense-game
+---
+In this twist on the classic "tower defense” genre, the towers you place down are much more permanent.  The game takes place on a single map, that continually expands in different directions as you progress through the levels.
+
+The towers you place would grow and change with you, much like a character does in an RPG. Towers can still be moved and destroyed, but only at a great cost to the player.
+
+Each successive level would exist as expansions on area built from past levels, culminating into a giant map at the end of the game.
