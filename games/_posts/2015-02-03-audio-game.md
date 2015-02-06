@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 034 Audio Game
-category: featured
 tags: audio-game, narrative-game
 ---
 An audio-only story told through the use of spatial awareness and a virtual reality interface.

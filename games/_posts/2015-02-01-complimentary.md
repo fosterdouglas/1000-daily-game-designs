@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 032 Complimentary
-category: featured
 tags: education-game, puzzle-game, touch-controlled-game
 ---
 Use color mixing and paint your way through this hex grid puzzle game, while learning complex color theory concepts. 

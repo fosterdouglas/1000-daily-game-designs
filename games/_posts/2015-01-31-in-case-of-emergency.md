@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 031 In Case Of Emergency
-category: featured
 tags: simulation-game
 ---
 Design, edit, test, and be challenged to create various escape routes as efficiently and safely as possible.
