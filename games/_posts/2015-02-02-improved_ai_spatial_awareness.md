@@ -1,0 +1,12 @@
+---
+layout: post
+title: 033 Improved AI Spatial Awareness
+tags: game-algorithm, game-mechanic
+---
+In many 3D games with large numbers of NPCs, such as Assassin’s Creed, as well as in mobile and 2D games, crowd interaction is incredibly important to the realism of an experience.  Not only the player’s interaction with NPUs (non-player units), but also the interactions between NPUs.  I propose an algorithm to address this.
+
+This algorithm needs to be something that can be applied universally to a group of computer-controlled characters in a video game.  Each NPU has a variable values of v = visibility, w = awareness, a = auditory, and m = memory.  The value of v is what determines the number of other NPUs that a given NPU can consciously “see” and count.  Conversely, their w value could be based on many different factors (back story of a character, mental health, species, etc), or it could be a set value.  This awareness value determines the number of other units that the NPU isn’t necessarily “thinking about” or “seeing” but are subconsciously aware of around them.  Next, the variable a, which determines the spatial audio space that the given NPU is experiencing.  Finally, m determines what it is that the unit remembers about its space.  This can be immediate memory (such as “I just walked through a fairly dense crowd about 15 meters back”) or more permanent memory (“I know that the farmer’s market will always have a few hundred other people at it.”).
+
+As a real world example... you are standing in the middle a mall and facing north, looking down one wing.  You can see about 12 people.  But you’re also subconsciously aware of the people that are in your peripheral vision, maybe another 10 people or so, as well as those people who are further away from you to the north, another 15 people about.  You also have a fairly good sense (even if you don’t know it) of how many people are behind you currently, based on sounds and general bustling.  Finally, you have a sort of sense of how many people are in the mall in general, as you’ve been walking through the mall and shopping for the past 3 hours, making many of the above calculations subconsciously.
+
+All of these things together could create a complex but useful algorithm that would allow NPUs to interact in believable ways, such as how they walk, the speed they move, where they go next based on foot traffic flow, and so on.
