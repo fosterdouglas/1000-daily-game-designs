@@ -111,6 +111,41 @@ hr {
  * Navigation
  */
 
+/* Bracket link hover effect  */
+.cl-effect-1 a::before,
+.cl-effect-1 a::after {
+	display: inline-block;
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.2s;
+	-moz-transition: -moz-transform 0.3s, opacity 0.2s;
+	transition: transform 0.3s, opacity 0.2s;
+}
+.cl-effect-1 a::before {
+	margin-right: 10px;
+	content: '[';
+	-webkit-transform: translateX(20px);
+	-moz-transform: translateX(20px);
+	transform: translateX(20px);
+}
+.cl-effect-1 a::after {
+	margin-left: 10px;
+	content: ']';
+	-webkit-transform: translateX(-20px);
+	-moz-transform: translateX(-20px);
+	transform: translateX(-20px);
+}
+.cl-effect-1 a:hover::before,
+.cl-effect-1 a:hover::after,
+.cl-effect-1 a:focus::before,
+.cl-effect-1 a:focus::after,
+.cl-effect-1 li.active a::before,
+.cl-effect-1 li.active a::after {
+	opacity: 1;
+	-webkit-transform: translateX(0px);
+	-moz-transform: translateX(0px);
+	transform: translateX(0px);
+}
+
 .navbar {
   background: rgba(23, 165, 204, .80);
   border: 0px;
@@ -130,14 +165,13 @@ hr {
 .navbar-nav a {
   border-bottom: 0px;
   color: #FFF;
+  opacity: .8;
   font-size: .85rem;
 }
 .nav>li>a:hover, .nav>li>a:focus {
   background-color: initial;
-  color: rgba(255,255,255,.8);
-}
-.navbar-nav li.active {
-  border-bottom: 3px solid rgba(255,255,255,.8);
+  color: #FFF;
+  opacity: 1;
 }
 .navbar-nav li.active a {
   color: #fff;
