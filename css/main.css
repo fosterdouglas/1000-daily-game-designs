@@ -116,9 +116,9 @@ hr {
 .cl-effect-1 a::after {
 	display: inline-block;
 	opacity: 0;
-	-webkit-transition: -webkit-transform 0.3s, opacity 0.2s;
-	-moz-transition: -moz-transform 0.3s, opacity 0.2s;
-	transition: transform 0.3s, opacity 0.2s;
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.3s;
+	   -moz-transition: -moz-transform 0.4s, opacity 0.3s;
+	        transition: transform 0.4s, opacity 0.3s;
 }
 .cl-effect-1 a::before {
 	margin-right: 10px;
@@ -320,9 +320,9 @@ hr {
   background: rgba(23, 165, 204, .95);
   opacity: 0;
   cursor: pointer;
-  -webkit-transition: all 0.2s;
-     -moz-transition: all 0.2s;
-          transition: all 0.2s;
+  -webkit-transition: all .3s;
+     -moz-transition: all .3s;
+          transition: all .3s;
 }
 .caption p {
   color: #FFF;
@@ -331,6 +331,12 @@ hr {
 .project:hover .caption {
   visibility: visible;
   opacity: 1;
+	-webkit-transform: translate(10px, 10px);
+	   -moz-transform: translate(10px, 10px);
+          transform: translate(10px, 10px);
+  -webkit-transition: all .4s;
+     -moz-transition: all .4s;
+          transition: all .4s;
 }
 .caption .project-title {
   font-weight: bold;

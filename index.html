@@ -8,7 +8,7 @@ home: true
   <div class="col-sm-4 col-xs-12">
     <div class="project">
       {% if post.image %}<img src="/img/{{ post.image }}">
-      {% else %}<img src="holder.js/100%x196/text: ">{% endif %}
+      {% else %}<img src="/img/placeholder.jpg">{% endif %}
       <div class="caption" data-toggle="modal" data-target="#{{ post.title | remove: " " }}Modal">
         <div>
           <p class="project-title">{{ post.title }}</p>
