@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Fuzz - A videogame by Corey and Foster</title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+            
+<style type="text/css">
+.main {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+</style>
+
+</head>
+
+<body style="background-color:#333333" onload="focusFlash();">
+
+<div class="main">
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1024" height="768" align="top" class="fuzz" id="thefuzz" name="thefuzz" title="">
+  <param name="movie" value="../swf/Fuzz_GM_08.swf" />
+  <param name="swfversion" value="11.0.0.0" />
+  <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+  <param name="expressinstall" value="Scripts/expressInstall.swf" />
+  <param name="wmode" value="opaque" />
+  <param name="allowScriptAccess" value="sameDomain" />
+  <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+  <!--[if !IE]>-->
+  <object data="../swf/Fuzz_GM_08.swf" type="application/x-shockwave-flash" width="1024" height="768" id="fuzzunique" align="top" class="fuzz2" id="thefuzz" name="thefuzz">
+    <!--<![endif]-->
+    <param name="allowScriptAccess" value="sameDomain" />
+    <param name="swfversion" value="11.0.0.0" />
+    <param name="expressinstall" value="Scripts/expressInstall.swf" />
+    <param name="wmode" value="opaque" />
+    <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+    <div>
+      <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+      <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
+    </div>
+    <!--[if !IE]>-->
+  </object>
+  <!--<![endif]-->
+</object>
+
+<script>
+function setFocusOnFlash() {    
+    var flash = document.getElementById("thefuzz");
+    flash.tabIndex = 1234;  // This was needed on Chrome 23
+    flash.focus();
+    // Attention: FireFox needs wmode "opaque"!
+}
+</script>
+
+</div>
+
+<script>
+
+function flashLoaded() {
+    // Oddly, directly calling setFocusOnFlash() didn't work on IE8
+    setTimeout(setFocusOnFlash, 1);
+}
+
+</script>
+
+
+</body>
+
+<!--
+ <div id="HCB_comment_box" style="background-color:#333"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="http://www.htmlcommentbox.com/static/skins/default/skin.css" />
+ <script type="text/javascript" language="javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={  };} (function(){s=document.createElement("script");s.setAttribute("type","text/javascript");s.setAttribute("src", "http://www.htmlcommentbox.com/jread?page="+escape((window.hcb_user && hcb_user.PAGE)||(""+window.location)).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24c7kw.7ixiow6YNbpku54y."+"&opts=270&num=25");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /**/ </script>
+
+-->
+
+</html>
