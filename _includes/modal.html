@@ -1,4 +1,4 @@
-<div class="modal fade" id="{{ post.title | remove: " "}}Modal">
+<div class="modal fade" id="{{ post.title | remove: " " | remove: ":" }}Modal">
   <div class="modal-dialog modal-lg post">
     <div class="col-xs-12">
       <button type="button" class="glyphicon glyphicon-remove btn btn-primary modal-btn" data-dismiss="modal"></button>
