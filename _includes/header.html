@@ -1,35 +1,19 @@
 <header>
-  <div class="top-panel">
-    <div class="container">
-      <div class="col-md-6">
-        <img class="img-sm" src="/img/foster-small.jpg">
-        <img class="img-lg" src="/img/foster-2.jpg">
-      </div>
-      <div class="col-md-6">
-        <h2>Hay, I'm Foster.</h2>
-        <p>I'm a digital creative, game designer, entrepreneur, and artist. I believe in diversity, collaboration, and creativity. I live in San Francisco, where the weather is consistently confusing.</p>
-        <div class="social">
-          <a href="http://twitter.com/foster_stilp" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter"></i></a>
-          <a href="mailto:fosterstilp@me.com" data-toggle="tooltip" data-placement="bottom" title="Email"><i class="fa fa-envelope"></i></a>
-          <a href="/downloads/resume.pdf" data-toggle="tooltip" data-placement="bottom" title="Résumé"><i class="fa fa-book"></i></a>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include panel.html %}
   <nav class="navbar navbar-fixed-top" role="navigation">
     <div class="container">
-      <div class="navbar-header cl-effect-1">
+      <div class="navbar-header cl-effect-1 no-cf">
         <a href="{{ site.baseurl }}/" class="navbar-brand">Foster Douglas</a>
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
           <span class="sr-only">Toggle navigation</span>
-          <span class="glyphicon glyphicon-chevron-down"></span>
+          <i class="fa fa-bars"></i>
         </button>
-        <div class="navbar-right">
-          <button type="button" class="fa fa-circle-o-notch btn navbar-btn icon-panel"></button>
-          <button type="button" class="fa fa-close btn navbar-btn icon-close"></button>
-        </div>
       </div>
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <div class="pull-right">
+        <button type="button" class="fa fa-circle-o-notch btn navbar-btn icon-panel"></button>
+        <button type="button" class="fa fa-close btn navbar-btn icon-close"></button>
+      </div>
+      <div class="collapse navbar-collapse no-cf" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right cl-effect-1">
           <li {% if page.home %}class="active"{% endif %}><a href="/">Projects <span class="sr-only">(current)</span></a></li>
           <li {% if page.url contains "/games" %}class="active"{% endif %}><a href="/games">Daily Game Designs</a></li>

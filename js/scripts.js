@@ -1,5 +1,5 @@
 var main = function() {
-  
+    
   // Move the top panel out of view the same distance as its height.
   $(document).ready(function() {
     var height = $('.top-panel').height();
@@ -28,7 +28,7 @@ var main = function() {
     $('.icon-panel').hide();
     $('.icon-close').show();
     
-    $('.navbar-brand,.navbar-nav').animate({
+    $('.navbar-brand,.navbar-nav,.navbar-toggle').animate({
       opacity: '0'
     }, 200);
   });
@@ -51,7 +51,7 @@ var main = function() {
     $('.icon-panel').show();
     $('.icon-close').hide();
     
-    $('.navbar-brand,.navbar-nav').animate({
+    $('.navbar-brand,.navbar-nav,.navbar-toggle').animate({
       opacity: '1'
     }, 200);
   });

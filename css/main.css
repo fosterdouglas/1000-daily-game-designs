@@ -47,6 +47,9 @@ img {
   	  -ms-transform: translateY(-50%);
   	      transform: translateY(-50%);
 }
+.no-cf::after {
+  clear: none;
+}
 
 /*
  * Typography
@@ -161,16 +164,19 @@ hr {
 .navbar-nav li {
   margin-bottom: 0px;
 }
-.navbar-nav a {
+.navbar-nav a,
+.navbar-toggle i {
   border-bottom: 0px;
   color: #FFF;
   opacity: .8;
   font-size: .85rem;
+  transition: .3s all;
 }
-.nav>li>a:hover, .nav>li>a:focus {
+.nav>li>a:hover, .nav>li>a:focus, .navbar-toggle:hover i {
   background-color: initial;
   color: #FFF;
   opacity: 1;
+  transition: .3s all;
 }
 .navbar-nav li.active a {
   color: #fff;
@@ -179,14 +185,21 @@ hr {
   opacity: 1;
   transition: .3s all;
 }
-.navbar-right {
-  float: right;
+.navbar-toggle {
+  padding: 3px;
 }
 .icon-panel,
 .icon-close {
   color: #FFF !important;
   opacity: .8;
+  margin-left: 15px;
+  -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
   transition: .3s all;
+}
+.icon-panel:hover {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
 }
 .icon-panel:hover,
 .icon-close:hover {
@@ -228,6 +241,14 @@ hr {
  * Panel
  */
 
+.top-info-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 0;
+  overflow: hidden
+}
 .top-panel {
   background-color: #2BA6CB;
   color: #FFF;
@@ -239,8 +260,6 @@ hr {
 .top-panel h2 {
   margin-top: .6rem;
   color: #FFF;
-}
-.top-panel p {
 }
 .top-panel a {
   color: #FFF;
@@ -337,12 +356,17 @@ hr {
 .project:hover .caption {
   visibility: visible;
   opacity: 1;
-	-webkit-transform: translate(10px, 10px);
-	   -moz-transform: translate(10px, 10px);
-          transform: translate(10px, 10px);
-  -webkit-transition: all .4s;
-     -moz-transition: all .4s;
-          transition: all .4s;
+  -webkit-transition: all .3s;
+     -moz-transition: all .3s;
+          transition: all .3s;
+}
+@media (min-width: 768px) {
+  .project:hover .caption {
+  	-webkit-transform: translate(7px,7px);
+  	   -moz-transform: translate(7px,7px);
+            transform: translate(7px,7px);
+            box-shadow: -3px 3px 3px rgba(0,0,0,.2);
+  }
 }
 .caption .project-title {
   font-weight: bold;
