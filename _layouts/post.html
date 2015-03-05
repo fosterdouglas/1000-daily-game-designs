@@ -3,7 +3,7 @@ layout: default
 ---
   
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 hidden-sm hidden-xs">
       <div class="card">
         {% for post in site.categories.games %}
         <p><a href="{{ post.url }}">{{ post.title }}</a></p>
@@ -17,4 +17,12 @@ layout: default
  	   	{{ content }}
       <p class="post-meta">{% for tag in page.tags %}#{{ tag }} {% endfor %}</p>
     </article>
+    <div class="col-md-4 visible-sm visible-xs">
+      <div class="card">
+        {% for post in site.categories.games %}
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        {% endfor %}
+      </div>
+    <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+    </div>
   </div>

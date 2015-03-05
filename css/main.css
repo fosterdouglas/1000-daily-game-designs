@@ -197,10 +197,14 @@ hr {
           transform: rotate(0deg);
   transition: .3s all;
 }
-.icon-panel:hover {
+.icon-close {
   -webkit-transform: rotate(-180deg);
           transform: rotate(-180deg);
 }
+/*.icon-panel:hover {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}*/
 .icon-panel:hover,
 .icon-close:hover {
   opacity: 1;
@@ -252,7 +256,7 @@ hr {
 .top-panel {
   background-color: #2BA6CB;
   color: #FFF;
-  top: -498px;  /* start off behind the scenes */
+  top: -750px;  /* start off behind the scenes */
   position: fixed;
   width: 100%;
   z-index: 1000;
