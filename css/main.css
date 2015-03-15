@@ -256,7 +256,7 @@ hr {
 .top-panel {
   background-color: #2BA6CB;
   color: #FFF;
-  top: -410px;  /* start off behind the scenes */
+  top: -750px;  /* start off behind the scenes */
   position: fixed;
   width: 100%;
   z-index: 1000;
@@ -366,9 +366,9 @@ hr {
 }
 @media (min-width: 768px) {
   .project:hover .caption {
-  	-webkit-transform: translate(7px,7px);
-  	   -moz-transform: translate(7px,7px);
-            transform: translate(7px,7px);
+  	-webkit-transform: translate(10px,-10px);
+  	   -moz-transform: translate(10px,-10px);
+            transform: translate(10px,-10px);
             box-shadow: -3px 3px 3px rgba(0,0,0,.2);
   }
 }
@@ -393,7 +393,6 @@ hr {
 }
 .modal-backdrop {
   background-color: #E7E7E7;
-  height: 100%;
 }
 .modal-backdrop.in {
   opacity: .9;
