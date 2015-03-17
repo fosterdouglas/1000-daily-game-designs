@@ -1,0 +1,20 @@
+---
+layout: default
+---
+  
+  <div class="row">
+	  <article class="post col-md-8 center-block">
+      <div class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</div>
+    	<h1>{{ page.title }}</h1>
+ 	   	{{ content }}
+      <p class="post-meta">{% for tag in page.tags %}#{{ tag }} {% endfor %}</p>
+    </article>
+    <div class="col-md-4 visible-sm visible-xs">
+      <div class="card">
+        {% for post in site.categories.games %}
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        {% endfor %}
+      </div>
+    <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+    </div>
+  </div>
