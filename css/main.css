@@ -152,6 +152,10 @@ hr {
   background: rgba(23, 165, 204, .80);
   border: 0px;
   border-radius: 0px;
+  transition: .3s all;
+}
+.navbar:hover {
+  cursor: pointer;
 }
 .navbar .navbar-brand {
   color: #FFF;
@@ -198,6 +202,8 @@ hr {
   transition: .3s all;
 }
 .icon-close {
+  position: absolute !important;
+  right: 0;
   -webkit-transform: rotate(-180deg);
           transform: rotate(-180deg);
 }
@@ -205,6 +211,8 @@ hr {
   -webkit-transform: rotate(-180deg);
           transform: rotate(-180deg);
 }*/
+
+.navbar:hover .icon-panel,
 .icon-panel:hover,
 .icon-close:hover {
   opacity: 1;

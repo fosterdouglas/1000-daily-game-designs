@@ -1,7 +1,7 @@
 var main = function() {
   
   // Show the panel, move the body down if scrolled to the top, update the navbar.
-  $('.icon-panel').click(function() {
+  $('.navbar').click(function() {
         
     $('.top-panel').animate({
       top: '0px'
@@ -16,19 +16,14 @@ var main = function() {
     }
     
     $('.navbar').animate({
-      backgroundColor: 'rgba(23, 165, 204, 0);'
+      top: '-50px'
     }, 300);
     
-    $('.icon-panel').hide();
     $('.icon-close').show();
-    
-    $('.navbar-brand,.navbar-nav,.navbar-toggle').animate({
-      opacity: '0'
-    }, 200);
   });
   
   // Hide the top panel, move the body back into normal position, reset the navbar.
-  $('.icon-close').click(function() {
+  $('.top-panel').click(function() {
     var height = $('.top-panel').height();
     $('.top-panel').animate({
       top: -height
@@ -39,7 +34,7 @@ var main = function() {
     }, 300);
     
     $('.navbar').animate({
-      backgroundColor: 'rgba(23, 165, 204, .90);'
+      top: '0px'
     }, 300);
     
     $('.icon-panel').show();
