@@ -265,17 +265,18 @@ hr {
   overflow: hidden
 }
 .top-panel {
-  background: url(/img/foster-garden.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url(/img/foster-garden-2.jpg) no-repeat 0% -40% fixed;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
   color: #FFF;
   top: -750px;  /* start off behind the scenes */
   position: fixed;
   width: 100%;
   z-index: 1000;
-  height: 800px;
+  padding-top: 75px;
+  padding-bottom: 75px;
 }
 .top-panel h2 {
   margin-top: .6rem;
