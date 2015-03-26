@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  Udder Invasion
 image: udderinvasion.jpg
 tags: game, narrative, iOS, collaborative

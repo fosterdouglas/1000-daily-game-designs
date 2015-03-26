@@ -3,18 +3,23 @@ layout: default
 ---
   
   <div class="row">
-	  <article class="post col-md-8 center-block">
-      <div class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</div>
-    	<h1>{{ page.title }}</h1>
- 	   	{{ content }}
-      <p class="post-meta">{% for tag in page.tags %}#{{ tag }} {% endfor %}</p>
-    </article>
-    <div class="col-md-4 visible-sm visible-xs">
+    <div class="col-md-4 col-xs-12">
       <div class="card">
-        {% for post in site.categories.games %}
-        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-        {% endfor %}
+        <div class="post-meta">
+          <h1>{{ page.title }}</h1>
+          {% if page.role %}
+          <h3>{{ page.role }}</h3>
+          {% endif %}
+          <p>{{ page.description }}</p>
+          <ul>{% for tag in page.tags %}<li>#{{ tag | remove: ","}}</li>{% endfor %}</ul>
+        </div>
       </div>
-    <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+      <a class="btn btn-primary btn-lg hidden-sm hidden-xs" href="/"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp;&nbsp;See all projects</a>
+    </div>
+    <div class="post col-md-8 col-xs-12">
+      <div class="card">
+      {{ content }}
+      </div>
+      <a class="btn btn-primary btn-lg btn-block hidden-md hidden-lg" href="/"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp;&nbsp;See all projects</a>
     </div>
   </div>

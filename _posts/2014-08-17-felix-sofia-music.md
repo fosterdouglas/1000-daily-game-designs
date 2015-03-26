@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Felix Sofia Music
 image: felixsofiamusic.jpg
 tags: music, entrepreneurial, collaborative

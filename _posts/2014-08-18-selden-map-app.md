@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  Selden Map App
 image: selden.jpg
 tags: design, collaborative, iOS

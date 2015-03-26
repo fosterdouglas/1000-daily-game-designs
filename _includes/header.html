@@ -14,7 +14,7 @@
       </div>
       <div class="collapse navbar-collapse no-cf" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right cl-effect-1">
-          <li {% if page.home %}class="active"{% endif %}><a href="/">Projects <span class="sr-only">(current)</span></a></li>
+          <li {% if page.home or page.category == 'projects' %}class="active"{% endif %}><a href="/">Projects <span class="sr-only">(current)</span></a></li>
           <li {% if page.url contains "/games" %}class="active"{% endif %}><a href="/games">Daily Game Designs</a></li>
         </ul>
       </div>

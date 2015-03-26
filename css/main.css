@@ -248,6 +248,9 @@ hr {
   box-shadow: 0px 0px #16506C;
   transition: .2s all;
 }
+.btn-block {
+  width: 100%;
+}
 
 /*
  * Panel
@@ -437,7 +440,7 @@ hr {
 }
 .post-meta {
   font-size: .85rem;
-  color: rgb(204, 204, 204);
+  color: rgb(150, 150, 150);
 }
 .post-meta h3 {
   margin-top: -.5rem;
@@ -460,9 +463,6 @@ hr {
   background-color: #F7F7F7;
   padding: 1rem;
   margin-bottom: 1.5rem;
-}
-.card .btn {
-  width: 100%;
 }
 
 /*
