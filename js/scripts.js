@@ -4,7 +4,9 @@ var main = function() {
   }
   $('.icon-panel').click(function() {
     toggleDiv('top-panel');
-  })
+    $('.navbar').slideToggle();
+    $(this).toggleClass("flipped");
+  });
 }
 
 var main2 = function() {
