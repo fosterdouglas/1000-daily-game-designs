@@ -1,7 +1,16 @@
 var main = function() {
+  function toggleDiv(divId) {
+    $("#"+divId).slideToggle();
+  }
+  $('.icon-panel').click(function() {
+    toggleDiv('top-panel');
+  })
+}
+
+var main2 = function() {
   
   // Show the panel, move the body down if scrolled to the top, update the navbar.
-  $('.navbar').click(function() {
+  $('.icon-panel').click(function() {
         
     $('.top-panel').animate({
       top: '0px'

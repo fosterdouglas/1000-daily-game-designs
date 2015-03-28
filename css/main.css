@@ -192,6 +192,11 @@ hr {
 .navbar-toggle {
   padding: 3px;
 }
+.icon-panel {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
 .icon-panel,
 .icon-close {
   color: #FFF !important;
@@ -265,18 +270,20 @@ hr {
   overflow: hidden
 }
 .top-panel {
-  background: url(/img/foster-garden-2.jpg) no-repeat 0% -40% fixed;
+  display: none;
+  background: url(/img/foster-garden-3.jpg) no-repeat 0% -10% fixed;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
   background-size: 100%;
   color: #FFF;
-  top: -750px;  /* start off behind the scenes */
   position: fixed;
   width: 100%;
   z-index: 1000;
-  padding-top: 75px;
-  padding-bottom: 75px;
+}
+.top-panel-caption {
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 .top-panel h2 {
   margin-top: .6rem;
