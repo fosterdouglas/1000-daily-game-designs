@@ -35,6 +35,14 @@ img {
 	border-radius: 3px;
   vertical-align: middle;
 }
+.flipped {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}
+.transparent {
+  opacity: 0;
+  transition: .5s all;
+}
 .center-block {
   float: none;
 }
@@ -165,6 +173,11 @@ hr {
   border-bottom: 0px;
   transition: .3s all;
 }
+@media (max-width: 800px) {
+  .navbar-nav {
+    margin-right: 20px;
+  }
+}
 .navbar-nav li {
   margin-bottom: 0px;
 }
@@ -191,17 +204,14 @@ hr {
 }
 .navbar-toggle {
   padding: 3px;
+  margin-right: 37px;
 }
 .icon-panel {
-  position: absolute;
+  position: fixed;
   cursor: pointer;
   z-index: 9999;
   top: 15px;
   right: 15px;
-}
-.flipped {
-  -webkit-transform: rotate(-180deg);
-          transform: rotate(-180deg);
 }
 .icon-panel,
 .icon-close {
@@ -275,7 +285,7 @@ hr {
 }
 .top-panel {
   display: none;
-  background: url(/img/foster-garden-3.jpg) no-repeat 0% -10% fixed;
+  background: url(/img/foster-garden-4.jpg) no-repeat 0% 0% fixed;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -286,8 +296,34 @@ hr {
   z-index: 1000;
 }
 .top-panel-caption {
-  margin-top: 80px;
-  margin-bottom: 80px;
+  margin-top: 20px;
+  margin-bottom: 300px;
+}
+@media (min-width: 768px) {
+  .top-panel {
+    background: url(/img/foster-garden-3.jpg) no-repeat 0% 0% fixed;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+  }
+  .top-panel-caption {
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+}
+@media (min-width: 992px) {
+  .top-panel {
+    background: url(/img/foster-garden-3.jpg) no-repeat 0% -10% fixed;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+  }
+  .top-panel-caption {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
 }
 .top-panel h2 {
   margin-top: .6rem;
@@ -347,7 +383,7 @@ hr {
 
 .tooltip-inner {
   background-color: #FFF;
-  color: #2BA6CB;
+  color: #7E7E7E;
 }
 .tooltip.bottom .tooltip-arrow {
   border-bottom-color: #FFF; /* black */
@@ -432,9 +468,6 @@ hr {
 }
 .fixed {
   position: fixed;
-}
-.modal .navbar {
-  background-color: transparent;
 }
 .modal .btn {
   float: right;
