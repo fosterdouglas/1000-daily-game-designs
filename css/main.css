@@ -282,7 +282,7 @@ hr {
   left: 0px;
   position: fixed;
   display: block;
-  background-color: #fff;
+  background-color: rgba(255,255,255, .9);
   z-index: 99;
   text-align: center;
   padding-top: 100px;
@@ -307,7 +307,7 @@ hr {
     border-left: .2rem solid rgba(0,0,0, 0);
    border-right: .2rem solid rgba(0,0,0, 0);
   border-bottom: .2rem solid rgba(0,0,0, 0);
-     border-top: .2rem solid #E7E7E7;
+     border-top: .2rem solid #2BA6CB;
   -webkit-animation: load8 2s infinite cubic-bezier(.5, .09, .5, 1);
           animation: load8 2s infinite cubic-bezier(.5, .09, .5, 1);
 }
@@ -315,6 +315,7 @@ hr {
   border-top: .2rem solid #2BA6CB;
   -webkit-animation-direction: reverse;
   animation-direction: reverse;
+  opacity: .6;
 }
 @-webkit-keyframes load8 {
   0% {
