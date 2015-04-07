@@ -19,7 +19,7 @@ html {
 body {
 	font-size: 1em;
 	line-height: 1.35;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Sharik Sans', sans-serif;
   color: #69778A;
   left: 0;
   position: relative;
@@ -83,10 +83,12 @@ h6 {
 h1 {
 	margin-top: 0px;
   font-size: 1.3rem;
+  font-family: 'Bree', sans-serif;
 }
 h2 {
   color: rgb(204, 204, 204);
   font-size: 1rem;
+  font-family: 'Bree', sans-serif;
 }
 a {
 	color: #7E7E7E;
