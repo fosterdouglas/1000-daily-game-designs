@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 039 U-Haul The Game
+title: "039 U-Haul: The Game"
 tags: puzzle-game
 ---
 Stack odd and mis-shapen boxes and appliances into a U-Haul moving truck. 
