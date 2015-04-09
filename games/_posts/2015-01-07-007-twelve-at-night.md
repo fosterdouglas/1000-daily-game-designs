@@ -16,5 +16,5 @@ The interface swaps, and you are now the question writer. Once your question is 
 
 The interface continues this back and forth until your 12 dots are filled.  It resets again the next night.
 
-![twelve at night image](media/images/007_twelve_at_night.jpg "Twelve At Night")
+![twelve at night image](img/games/007_twelve_at_night.jpg "Twelve At Night")
 

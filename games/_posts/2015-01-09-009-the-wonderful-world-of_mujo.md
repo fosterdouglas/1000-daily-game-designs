@@ -20,4 +20,4 @@ Later in the game, I am fairly certain that the difficulty level spikes in a way
 
 This game is wonderful as it is, and I am simply suggesting additive improvements, not necessary ones. :)
 
-![mujo](media/images/009_MUJO.jpg "MUJO")
+![mujo](img/games/009_MUJO.jpg "MUJO")

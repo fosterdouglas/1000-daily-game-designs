@@ -1,11 +1,8 @@
 ---
 layout: post
-title: 
-tags: 
+title: "063 Soccer+ (A Space Game)"
+tags: alternate-gravity-game, experimental-game, game-modifications, sports-game
 ---
+Soccer, but in space. 
 
-
-
-![undergroundimage](media/images/047_Underground_Stacks.jpg "Underground Image")
-
-[Jordan Rae Smith](http://jordanraesmith.com "JRS")
+The field is marked at the standard 4 corners, on the ground.  Then, 100 meters above each marker are floating markers to signify the upper and side boundaries of the 3D playing field.  The markers have projection tech inside of them to, creating blue faint “walls” that represent the out-of-bounds line.  All other aspects of the game remain identical to traditional soccer.
