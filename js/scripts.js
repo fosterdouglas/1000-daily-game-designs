@@ -7,37 +7,47 @@ var main = function() {
     $('.navbar').toggleClass("transparent");
     $(this).toggleClass("flipped");
   });
-}
-
-$(document).on('click', '.popup-link', function (e) {
+  
+  // When the button is clicked
+  $(document).on('click', '.modal-link', function (e) {
     e.preventDefault();
-    var path = $(this).attr('data-link');
-    state = {action: 'popup'};
-    // Change URL in browser
-    history.pushState(state, '', path);
-});
-
-// Restore URL when popup is closed
-$(document).on("hidden.bs.modal", function (e) {
+    // Find the link attribute
+    var link = $(this).attr('data-link');
+    // Find the associated modal
+    var modal = $(this).attr('data-target');
+    // Find the associated modal body
+    var body = $(modal).find('.modal-body');
+    // Load the link to the modal-body of the associated modal
+    $(body).load(link + ' #main-content');
+    
+    state = {
+      action: 'popup'
+    };
+    history.pushState(state, '', link);
+  });
+  
+  //Restore the URL when modal is closed
+  $(document).on('hidden.bs.modal', function (e) {
     var currentstate = history.state;
     if (currentstate) {
-        history.back();
+      history.back();
     }
-});
-
-// Listen for history state changes
-window.addEventListener('popstate', function(e) {
+  });
+  
+  // Listen for history state changes
+  window.addEventListener('popstate', function (e) {
     var state = history.state;
-    // back button pressed. close popup
+    // Back button pressed, close modal
     if (!state) {
-        $('.modal.in').modal('hide');
+      $('.modal.in').modal('hide');
+    } else {
+      // Forward button pressed, open modal
+      var pathname = window.location.pathname;
+      var modal = $('body').find("[data-pathname='" + pathname + "']");
+      $(modal).modal('show');
     }
-    else {
-        // Forward button pressed, reopen popup
-        var pathname = window.location.pathname;
-        var modal = $('body').find("[data-pathname='" + pathname + "']");
-        $(modal).modal('show');
-    }
-});
+  });
+  
+}
 
 $(document).ready(main);

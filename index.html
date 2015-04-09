@@ -9,7 +9,7 @@ home: true
     <div class="project">
       {% if post.image %}<img src="/img/{{ post.image }}">
       {% else %}<img src="/img/placeholder.jpg">{% endif %}
-      <div class="caption popup-link" data-link="{{ post.url}}" data-toggle="modal" data-target="#{{ post.title | remove: " " | remove: ":" }}Modal">
+      <div class="caption modal-link" data-link="{{ post.url }}" data-toggle="modal" data-target="#{{ post.title | remove: " " | remove: ":" }}Modal">
         <div>
           <p class="project-title">{{ post.title }}</p>
           <p>{{ post.description }}</p>
