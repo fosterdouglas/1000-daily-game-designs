@@ -4,38 +4,7 @@ layout: default
   
   <div class="row">
     <div class="col-md-4 hidden-sm hidden-xs">
-      <div class="card">
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        {% assign month = 0 %}
-        {% capture final_month %}{% for post in site.categories.games | limit: 1 %}{{ post.date | date: '%B' }}{% endfor %}{% endcapture %}
-        {% for post in site.categories.games %}
-        {% capture current_month %}{{ post.date | date: '%B' }}{% endcapture %}
-        {% if month != current_month and month != 0 %}
-              </div><!-- Panel body -->
-            </div><!-- Panel collapse -->
-          </div><!-- Panel -->
-        {% endif %}
-        {% if month != current_month %}
-        <div class="panel panel-default">
-          <div class="panel-heading" role="tab" id="heading{{ current_month }}">
-            <h2 class="panel-title">
-              <a data-toggle="collapse" data-parent="#accordion" href="#{{ current_month }}" aria-controls="{{ current_month }}">{{ current_month }}</a>
-            </h2>
-          </div>
-          <div id="{{ current_month }}" {% if current_month == final_month %}class="panel-collapse collapse in"{% else %}class="panel-collapse collapse"{% endif %} role="tabpanel" aria-labelledby="heading{{ current_month }}">
-            <div class="panel-body">
-        {% endif %}
-              <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-        {% if post.title contains "Legend" %}
-            </div><!-- Panel body -->
-          </div><!-- Panel collapse -->
-        </div><!-- Panel -->
-        {% endif %}
-        {% assign month = current_month %}
-        {% endfor %}
-        </div><!-- Panel group -->
-      </div><!-- Card -->
-    <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+      {% include post-loop.html %}
     </div><!-- column -->
     {% for post in site.categories.games | limit: 1 %}
 	  <article class="post col-md-8">
@@ -46,11 +15,6 @@ layout: default
     </article>
     {% endfor %}
     <div class="col-md-4 visible-sm visible-xs">
-      <div class="card">
-        {% for post in site.categories.games %}
-        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-        {% endfor %}
-      </div>
-    <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+      {% include post-loop.html %}
     </div>
   </div>
