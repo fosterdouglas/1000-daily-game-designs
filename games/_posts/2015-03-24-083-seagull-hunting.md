@@ -1,11 +1,8 @@
 ---
 layout: post
-title: 
-tags: 
+title: 083 Seagull Hunting
+tags: arcade-game
 ---
+You have 1 minute; kill as many seagulls as possible.  Because, damn those seagulls.
 
-
-
-![undergroundimage](media/images/047_Underground_Stacks.jpg "Underground Image")
-
-[Jordan Rae Smith](http://jordanraesmith.com "JRS")
+Seagull hunting is exactly how it sounds.  Use various beach-friendly items to secretly craft strange and inventive devices with which to terminate the seagulls.  Once you’ve crafted your items, hit the timer and let the seagull blood spill.

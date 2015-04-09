@@ -1,11 +1,6 @@
 ---
 layout: post
-title: 
-tags: 
+title: 075 Vineyard Simulator 2015
+tags: simulation-game
 ---
-
-
-
-![undergroundimage](media/images/047_Underground_Stacks.jpg "Underground Image")
-
-[Jordan Rae Smith](http://jordanraesmith.com "JRS")
+Start a farm, grow grapes, manufacture wine, impress critics, open a wine tasting room, and become the ultimate sommelier around in *Vineyard Simulator 2015*.
