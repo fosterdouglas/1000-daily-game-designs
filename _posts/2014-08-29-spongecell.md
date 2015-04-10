@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Spongecell
-image: 
+image: spongecell-black.jpg
 tags: design, management
 category: projects
 description: Updating...!
