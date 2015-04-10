@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Behind The Music
-image: 
+image: behindthemusic.jpeg
 tags: design
 category: projects
 description: Updating...!
