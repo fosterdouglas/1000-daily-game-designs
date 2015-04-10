@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  UWM Research Assistant
-image: 
+image: surf.jpeg
 tags: design, collaborative
 category: projects
 description: Updating...
