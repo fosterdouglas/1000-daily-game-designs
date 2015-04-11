@@ -12,6 +12,14 @@ layout: default
     	<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       {{ post.content }}
       <p class="post-meta">{% for tag in post.tags %}#{{ tag }} {% endfor %}</p>
+      <div class="pagination">
+      {% if post.previous %}
+        <a {% if post.next %}class="pagination-item"{% else %}class="pagination-item pagination-item-default"{% endif %} href="{{ post.previous.url }}">Previous Post</a>
+      {% endif %}
+      {% if post.next %}
+        <a class="pagination-item" href="{{ post.next.url }}">Next Post</a>
+      {% endif %}
+      </div>
     </article>
     {% endfor %}
     <div class="col-md-4 visible-sm visible-xs">
