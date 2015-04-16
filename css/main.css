@@ -604,6 +604,7 @@ hr {
   color: #FFF;
   border-radius: .6rem;
   border-bottom: 0px;
+  display: inline-block;
 }
 .panel-title a {
   opacity: .8;
