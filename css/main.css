@@ -565,6 +565,7 @@ hr {
 }
 .modal-backdrop.in {
   opacity: .9;
+  position: fixed;
 }
 .modal .card {
   background-color: #FFF;
