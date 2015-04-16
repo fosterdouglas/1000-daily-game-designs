@@ -340,7 +340,7 @@ hr {
 }
 
 /*
- * Panel
+ * Top Panel
  */
 
 .top-info-wrapper {
@@ -577,6 +577,31 @@ hr {
 .modal .btn {
   float: right;
   margin-bottom: 15px;
+}
+
+/*
+ * Panel
+ */
+
+.panel-default {
+  border: 0px;
+}
+.panel-default .panel-heading {
+  background-color: rgba(23, 165, 204, .80);
+  color: #FFF;
+  border-radius: 1rem;
+  border-bottom: 0px;
+}
+.panel-title a {
+  opacity: .8;
+}
+.panel-heading:hover .panel-title a {
+  color: #FFF;
+  opacity: 1;
+}
+.panel-body {
+  border-top: 0px !important;
+  border-bottom: 0px !important;
 }
 
 /*
