@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  Underground
-image: 
+image: underground.jpg
 tags: game, animation, design
 category: projects
 status: coming-soon
