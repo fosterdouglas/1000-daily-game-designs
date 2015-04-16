@@ -1,13 +1,13 @@
 ---
 layout: project
-title:  Delta Media, LLC
+title:  "Delta Media, LLC"
 image: uscca.jpg
+role: Freelance Motion Graphics Designer
 tags: 
   - design
   - logo
   - motion graphics
 category: projects
-role: Freelance Motion Graphics Designer
 description: A collection of short logo animations made for the United States Concealed Carry Association (USCCA).
 ---
 
