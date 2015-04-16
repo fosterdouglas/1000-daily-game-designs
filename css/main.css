@@ -562,6 +562,12 @@ hr {
   width: 101%;
 }
 
+.overlay img {
+	
+	border:none;
+	
+}
+
 /*
  * Modal
  */
