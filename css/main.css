@@ -597,6 +597,18 @@ hr {
 	
 }
 
+.video {
+	
+	border-radius: .7rem;
+	
+}
+
+#player {
+	
+	border-radius: .7rem;
+	
+}
+
 /*
  * Panel
  */
