@@ -32,7 +32,7 @@ body {
 img {
 	width: 100%;
 	height: auto;
-	border-radius: 8px;
+	border-radius: .6rem;
   vertical-align: middle;
 }
 .flipped {
@@ -515,7 +515,7 @@ hr {
   height: 100%;
   text-decoration: none;
   visibility: hidden;
-  border-radius: 8px;
+  border-radius: .6rem;
   background: rgba(23, 165, 204, .95);
   opacity: 0;
   cursor: pointer;
@@ -602,7 +602,7 @@ hr {
 .panel-default .panel-heading {
   background-color: rgba(23, 165, 204, .80);
   color: #FFF;
-  border-radius: 1rem;
+  border-radius: .6rem;
   border-bottom: 0px;
 }
 .panel-title a {
@@ -656,7 +656,7 @@ hr {
   background-color: #F7F7F7;
   padding: 1rem;
   margin-bottom: 1.5rem;
-  border-radius: 8px;
+  border-radius: .6px;
 }
 
 /*
