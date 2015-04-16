@@ -597,6 +597,7 @@ hr {
 
 .panel-default {
   border: 0px;
+  box-shadow:none;
 }
 .panel-default .panel-heading {
   background-color: rgba(23, 165, 204, .80);
