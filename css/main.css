@@ -435,12 +435,14 @@ hr {
   margin-bottom: .3rem;
 }
 .social a {
+  color: #7E7E7E;
   border-bottom: 0px;
   opacity: .6;
   transition: .3s all;
   margin-right: 8px;
 }
 .social a:hover {
+  color: #2BA6CB;
   opacity: 1;
   transition: .3s all;
 }
@@ -556,6 +558,7 @@ hr {
   position: absolute;
   top: 0;
   left: 0;
+  width: 100%;
 }
 
 /*
