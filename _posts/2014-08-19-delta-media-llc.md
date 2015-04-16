@@ -2,7 +2,6 @@
 layout: project
 title:  "Delta Media, LLC"
 image: uscca.jpg
-role: Freelance Motion Graphics Designer
 tags: 
   - design
   - logo
