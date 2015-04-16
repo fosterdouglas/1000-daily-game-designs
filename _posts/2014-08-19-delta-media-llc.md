@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Delta Media, LLC"
+title:  "Delta Media LLC"
 image: uscca.jpg
 tags: 
   - design
