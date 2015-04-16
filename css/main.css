@@ -34,7 +34,7 @@ img {
 	height: auto;
 	border-radius: .6rem;
   vertical-align: middle;
-  border:2px solid rgb(150, 150, 150);
+  border:2px solid #E7E7E7;
 }
 .flipped {
   -webkit-transform: rotate(-180deg);
