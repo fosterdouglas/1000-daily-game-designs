@@ -9,4 +9,4 @@ The player is given certain color choices at the beginning of the level, which t
 
 ![complimentary](/img/games/032_Complimentary.png "Complimentary")
 
-(Based on general concepts from Strata on iOS: [https://appsto.re/us/bN5pM.i](https://appsto.re/us/bN5pM.i "App Store Link")
+(Based on general concepts from [Strata](https://appsto.re/us/bN5pM.i) on iOS)
