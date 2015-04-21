@@ -9,10 +9,12 @@ description: A designed and curated show of various children's illustrations, wi
 Additional details about the pieces in the gallery can be seen here:
 
 [Tall Wild World](http://kevinmcgillivray.net/tall-wild-world/ "Tall Wild World")
+
 [Pixel Zoo](http://kevinmcgillivray.net/pixel-zoo "Pixel Zoo")
+
 [Alpha Bugs](http://kevinmcgillivray.net/alphabugs/ "Alpha Bugs")
 
-Also check out his [Etsy](http://www.etsy.com "Etsy") shop for purchasing information.
+Also check out Kevin's [Etsy](http://www.etsy.com "Etsy") shop for purchasing information.
 
 
 ![tallwildworld_image01](/img/tallwildworld_image01.jpg "Tall Wild World Image 01")
