@@ -534,9 +534,9 @@ hr {
 }
 @media (min-width: 768px) {
   .project:hover .caption {
-  	-webkit-transform: translate(3px,-3px);
-  	   -moz-transform: translate(3px,-3px);
-            transform: translate(3px,-3px);
+  	-webkit-transform: translate(0px,0px);
+  	   -moz-transform: translate(0px,0px);
+            transform: translate(0px,0px);
             box-shadow: -3px 3px 3px rgba(0,0,0,.6);
   }
 }
