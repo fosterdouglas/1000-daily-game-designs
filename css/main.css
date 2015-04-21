@@ -534,10 +534,10 @@ hr {
 }
 @media (min-width: 768px) {
   .project:hover .caption {
-  	-webkit-transform: translate(6px,-6px);
-  	   -moz-transform: translate(6px,-6px);
-            transform: translate(6px,-6px);
-            box-shadow: -3px 3px 3px rgba(0,0,0,.2);
+  	-webkit-transform: translate(3px,-3px);
+  	   -moz-transform: translate(3px,-3px);
+            transform: translate(3px,-3px);
+            box-shadow: -3px 3px 3px rgba(0,0,0,.6);
   }
 }
 .caption .project-title {
