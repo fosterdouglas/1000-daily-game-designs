@@ -16,7 +16,7 @@ I was involved with this project from conception through production and presenta
 
 More info on [13 Views of a Journey](http://nathanielstern.com/artwork/13-views-of-a-journey/ "13 View of a Journey")
 
-![surf_image01](/img/surf_image01.jpg "SURF Image 01")
+![surf_image01](/img/surf_image01.png "SURF Image 01")
 
 ##Falling Still
 
@@ -26,7 +26,7 @@ During this project, I did the initial design of the entire layout of where the 
 
 More info on [Falling Still](http://nathanielstern.com/artwork/falling-still/ "13 View of a Journey")
 
-![surf_image02](/img/surf_image02.jpg "SURF Image 02")
+![surf_image02](/img/surf_image02.png "SURF Image 02")
 
 ##Given Time
 
@@ -38,7 +38,7 @@ I also produced a video for the London exhibition, which was used during the [20
 
 More info on [Given Time](http://nathanielstern.com/artwork/given-time/ "Given Time")
 
-![surf_image03](/img/surf_image03.jpg "SURF Image 03")
+![surf_image03](/img/surf_image03.png "SURF Image 03")
 
 ##Strange Vegetation
 
@@ -48,4 +48,4 @@ Although I was involved in various minor parts of the production of Strange Vege
 
 More info on [Strange Vegetation](http://nathanielstern.com/artwork/strange-vegetation/ "Strange Vegetation")
 
-![surf_image04](/img/surf_image04.jpg "SURF Image 04")
+![surf_image04](/img/surf_image04.png "SURF Image 04")
