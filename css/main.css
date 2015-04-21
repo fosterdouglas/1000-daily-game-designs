@@ -647,6 +647,12 @@ iframe {
   font-size: .85rem;
   color: rgb(150, 150, 150);
 }
+
+.post-meta h1 {
+	line-height: 1;
+	
+}
+
 .post-meta h3 {
   margin-top: -.5rem;
   font-weight: normal;
