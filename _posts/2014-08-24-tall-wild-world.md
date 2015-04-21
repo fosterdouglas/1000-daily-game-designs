@@ -6,6 +6,8 @@ tags: art, collaborative, design, exhibition
 category: projects
 description: A designed and curated show of various children's illustrations, with art by Kevin McGillivray.
 ---
+I collaborated with [Kevin McGillivray](http://kevinmcgillivray.net/ "Kevin McGillivray")on this show, helping to curate the final selections, design their layout, design and print posters and cards, and assemble the show.
+
 Additional details about the pieces in the gallery can be seen here:
 
 [Tall Wild World](http://kevinmcgillivray.net/tall-wild-world/ "Tall Wild World")
