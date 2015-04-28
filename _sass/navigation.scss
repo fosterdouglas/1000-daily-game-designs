@@ -1,0 +1,123 @@
+/*
+ * Navigation
+ */
+
+/* Bracket link hover effect  */
+.cl-effect-1 a::before,
+.cl-effect-1 a::after {
+	display: inline-block;
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.4s, opacity 0.3s;
+	   -moz-transition: -moz-transform 0.4s, opacity 0.3s;
+	        transition: transform 0.4s, opacity 0.3s;
+}
+.cl-effect-1 a::before {
+	margin-right: 10px;
+	content: '(';
+	-webkit-transform: translateX(20px);
+	-moz-transform: translateX(20px);
+	transform: translateX(20px);
+}
+.cl-effect-1 a::after {
+	margin-left: 10px;
+	content: ')';
+	-webkit-transform: translateX(-20px);
+	-moz-transform: translateX(-20px);
+	transform: translateX(-20px);
+}
+.cl-effect-1 a:hover::before,
+.cl-effect-1 a:hover::after,
+.cl-effect-1 a:focus::before,
+.cl-effect-1 a:focus::after,
+.cl-effect-1 li.active a::before,
+.cl-effect-1 li.active a::after {
+	opacity: 1;
+	-webkit-transform: translateX(0px);
+	-moz-transform: translateX(0px);
+	transform: translateX(0px);
+}
+.navbar {
+  background: rgba(23, 165, 204, .80);
+  border: 0px;
+  border-radius: 0px;
+  transition: .3s all;
+  font-family: 'Bree', sans-serif;
+}
+.navbar:hover {
+  cursor: pointer;
+}
+.navbar .navbar-brand {
+  color: #FFF;
+  opacity: .8;
+  font-weight: bold;
+  font-size: 1rem;
+  border-bottom: 0px;
+  transition: .3s all;
+}
+@media (max-width: 800px) {
+  .navbar-nav {
+    margin-right: 20px;
+  }
+}
+.navbar-nav li {
+  margin-bottom: 0px;
+}
+.navbar-nav a,
+.navbar-toggle i {
+  border-bottom: 0px;
+  color: #FFF;
+  opacity: .8;
+  font-size: .85rem;
+  transition: .3s all;
+}
+.nav>li>a:hover, .nav>li>a:focus, .navbar-toggle:hover i {
+  background-color: initial;
+  color: #FFF;
+  opacity: 1;
+  transition: .3s all;
+}
+.navbar-nav li.active a {
+  color: #fff;
+}
+.navbar a.navbar-brand:hover {
+  opacity: 1;
+  transition: .3s all;
+}
+.navbar-toggle {
+  padding: 3px;
+  margin-right: 37px;
+}
+.icon-panel {
+  position: fixed;
+  cursor: pointer;
+  z-index: 2000;
+  top: 15px;
+  right: 15px;
+}
+.icon-panel,
+.icon-close {
+  color: #FFF !important;
+  opacity: .8;
+  margin-left: 15px;
+  transition: .3s all;
+}
+.icon-close {
+  position: absolute !important;
+  right: 0;
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}
+/*.icon-panel:hover {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}*/
+
+.navbar:hover .icon-panel,
+.icon-panel:hover,
+.icon-close:hover {
+  opacity: 1;
+  transition: .3s all;
+}
+.icon-close {
+  display: none;
+}

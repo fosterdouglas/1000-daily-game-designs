@@ -1,0 +1,26 @@
+/*
+ * Social
+ */
+
+.social {
+  list-style: none;
+  padding-left: 0px;
+  font-size: .8rem;
+  margin-bottom: 20px;
+}
+.social i {
+  font-size: 1rem;
+}
+.social li {
+  margin-bottom: .3rem;
+}
+.social a {
+  border-bottom: 0px;
+  transition: .3s all;
+  margin-right: 8px;
+}
+.social a:hover {
+  color: #FFF;
+  opacity: 1;
+  transition: .3s all;
+}

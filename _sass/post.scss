@@ -1,0 +1,36 @@
+/*
+ * Post
+ *
+ * Styles that affect the main content of a post (project posts and game posts).
+ */
+
+.post {
+  margin-bottom: 1.25rem;
+}
+.post .post-title {
+  margin-top: .5rem;
+}
+.post img {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+/* All of the extra data about the post. Date, tags, etc. */
+.post-meta {
+  font-size: .85rem;
+  color: rgb(150, 150, 150);
+}
+.post-meta h1 {
+	line-height: 1;
+}
+.post-meta h3 {
+  margin-top: -.5rem;
+  font-weight: normal;
+  font-size: .85rem;
+}
+.post-meta ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.post-meta li {
+  margin-bottom: 0px;
+}

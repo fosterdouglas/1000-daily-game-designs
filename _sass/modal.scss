@@ -1,0 +1,26 @@
+/*
+ * Modal
+ */
+
+.modal {
+  z-index: 9999;
+}
+.modal-dialog {
+  margin-top: 20px;
+}
+.modal-backdrop {
+  background-color: #E7E7E7;
+}
+.modal-backdrop.in {
+  opacity: .9;
+  position: fixed;
+}
+.modal .card {
+  background-color: #FFF;
+  border: 1px solid #E7E7E7;
+  box-shadow: 1px 1px rgba(0,0,0,.1);
+}
+.modal .btn {
+  float: right;
+  margin-bottom: 15px;
+}
