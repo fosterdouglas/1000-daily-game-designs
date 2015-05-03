@@ -4,6 +4,7 @@ title:  Tall Wild World
 image: tallwildworld.jpg
 tags: art, collaborative, design, exhibition
 category: projects
+role: Designer and Curator
 description: A designed and curated show of various children's illustrations, with art by Kevin McGillivray.
 ---
 I collaborated with [Kevin McGillivray](http://kevinmcgillivray.net/ "Kevin McGillivray") on this show, helping to curate the final selections, design their layout, design and print posters and cards, and assemble the show.

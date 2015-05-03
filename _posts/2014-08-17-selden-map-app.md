@@ -4,6 +4,7 @@ title:  Selden Map App
 image: selden.jpg
 tags: design, collaborative, iOS
 category: projects
+role: UI Designer
 description: An educational and interactive map exploration app for the iPad.
 ---
 
