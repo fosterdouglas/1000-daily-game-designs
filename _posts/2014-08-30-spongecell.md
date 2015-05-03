@@ -2,8 +2,9 @@
 layout: project
 title:  Spongecell
 image: spongecell-black.jpg
-tags: design, project management, 
+tags: collaboration, design, project management
 category: projects
+role: Interactive Production Designer
 description: Digital interactive advertisting design, production (HTML5 and Flash), and project management.
 ---
 At [Spongecell](http://www.spongecell.com), I've had daily client-facing interactions with exciting companies, brands, and agencies, both big and small.  I've been the lead producer on one of the company's largest clients, [Zappos](http://www.zappos.com), and have helped reimagine the production process and workflow, as well as redesign many of the creative assets. Other brands I've worked with on a quarterly basis include [Disney](http://www.disney.com), [Air New Zealand](http://www.airnewzealand.com), [GM](http://www.gm.com), [Scion](http://www.scion.com), and many others.
