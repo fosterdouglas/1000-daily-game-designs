@@ -2,7 +2,6 @@
 layout: project
 title:  Behind The Music
 image: behindthemusic.jpeg
-tags: design, motion graphics, typography
 category: projects
 description: A basic visual rebranding of VH1's show Behind the Music done while studying at SCAD.
 ---

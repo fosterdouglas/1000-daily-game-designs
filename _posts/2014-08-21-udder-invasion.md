@@ -2,7 +2,6 @@
 layout: project
 title:  Udder Invasion
 image: udderinvasion.jpg
-tags: game, narrative, iOS, collaborative
 category: projects
 role: Designer and Artist
 description: An interactive storytelling game about a farmer and an alien invasion; made for the iPad.

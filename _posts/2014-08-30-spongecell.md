@@ -2,7 +2,6 @@
 layout: project
 title:  Spongecell
 image: spongecell-black.jpg
-tags: collaboration, design, project management
 category: projects
 role: Interactive Production Designer
 description: Digital interactive advertisting design, production (HTML5 and Flash), and project management.

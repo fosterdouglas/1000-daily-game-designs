@@ -2,7 +2,6 @@
 layout: project
 title:  UWM Research Assistant
 image: surf.jpeg
-tags: art, collaborative, design, installation, exhibition
 category: projects
 description: A collection of collaborative projects, by interactive artist Nathaniel Stern.
 ---

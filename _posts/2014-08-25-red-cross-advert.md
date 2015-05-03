@@ -2,7 +2,6 @@
 layout: project
 title:  Red Cross Advert
 image: redcross.jpg
-tags: design, motion graphics, typography
 category: projects
 description: A 30-second typographic advert for the American Red Cross.
 ---

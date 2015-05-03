@@ -2,7 +2,6 @@
 layout: project
 title: Felix Sofia Music
 image: felixsofiamusic.jpg
-tags: music, entrepreneurial, collaborative
 category: projects
 role: Co-founder and Musician
 description: A company I co-created to help provide affordable and unique music for companies and brands.
