@@ -17,3 +17,6 @@ Other responsibilities include:
 
 Check out a [gallery of ads](http://www.spongecell.com/gallery) to see other examples of Spongecell's work.
 
+Below is a brief comparison on one of many enhancements made with the Zappos brand's digital advertising:
+
+<iframe src="https://player.vimeo.com/video/126886181?color=2ba6cb&title=0&byline=0&portrait=0" width="100%" height="377" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
