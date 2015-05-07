@@ -1,0 +1,10 @@
+---
+layout: post
+title: 121 Not By Choice
+tags: adventure-game, narrative-game
+---
+##*It wasn't my choice to be like this.  It’s not like I wanted it. They said I could take drugs to help, but what’s the point?  Why do we drug the inevitable?*
+
+A narrative adventure game about a young girl who suddenly loses her ability to naturally fall sleep.
+
+(Based on some real crazy shit: [http://amzn.com/1846270898](http://amzn.com/1846270898))
