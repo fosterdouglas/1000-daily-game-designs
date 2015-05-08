@@ -11,4 +11,4 @@ Levels can be different sized and shaped, and as the player progresses they will
 
 (Inspiration: Classic puzzle piece boards meets *Scrabble* meets *PuzzleQuest* meets *Hearthstone*.)
 
-![puzzle](/img/games/110_Puzzle_Battle.jpg "Puzzle Battle")
+![puzzle](/img/games/110_Puzzle_Battle.jpg "Puzzle Battle"){: .img-contain }
