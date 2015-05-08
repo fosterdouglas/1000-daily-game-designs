@@ -8,6 +8,13 @@ var main = function() {
     $(this).toggleClass("flipped");
   });
   
+  // Remove widow words from project descriptions.
+  $(function($) {
+      $('.project p').each(function() {
+          $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
+      });
+  });
+  
   // When the button is clicked
   $(document).on('click', '.modal-link', function (e) {
     e.preventDefault();
