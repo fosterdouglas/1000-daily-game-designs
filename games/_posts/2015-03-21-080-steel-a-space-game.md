@@ -13,4 +13,4 @@ Each team has 6 players and a protector, totaling 14 people in play at a time.  
 
 (More info to come soon.)
 
-![steel](/img/games/080_Steel.jpg "Steel Image")
+![steel](/img/games/080_Steel.jpg "Steel Image"){: .img-contain }
