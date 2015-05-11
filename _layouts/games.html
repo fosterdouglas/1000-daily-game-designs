@@ -4,7 +4,7 @@ layout: default
   
   <div class="row">
     <div class="col-md-4 hidden-sm hidden-xs">
-      {% include post-loop.html %}
+      {% include post-loop.html root="true" %}
     </div><!-- column -->
     {% for post in site.categories.games | limit: 1 %}
 	  <article class="post col-md-8">
