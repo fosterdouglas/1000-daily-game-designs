@@ -1,5 +1,5 @@
 <div class="panel-group" id="accordion" role="tablist">
-  {% for post in site.posts %}
+  {% for post in site.categories.games %}
   {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
   {% capture nextmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
   {% if month != nextmonth %}
