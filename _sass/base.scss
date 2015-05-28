@@ -29,8 +29,10 @@ img {
 	border-radius: .6rem;
   vertical-align: middle;
 }
-.img-contain {
-  width: auto;
+@media (min-width: 768px) {
+  .img-contain {
+    width: auto;
+  }
 }
 iframe {
 	border: 5px solid rgba(0,0,0,1);
