@@ -7,10 +7,6 @@
 .post {
   margin-bottom: 1.25rem;
 }
-.post h1{
-	margin: 5px;
-	line-height:1.5rem;
-}
 .post .post-title {
   margin-top: .5rem;
 }
@@ -24,7 +20,8 @@
   color: rgb(150, 150, 150);
 }
 .post-meta h1 {
-	line-height: 1;
+	line-height: 1.5rem;
+	margin-top: 5px;
 }
 .post-meta h3 {
   margin-top: -.5rem;
