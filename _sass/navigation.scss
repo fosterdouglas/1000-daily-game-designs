@@ -14,16 +14,16 @@
 .cl-effect-1 a::before {
 	margin-right: 10px;
 	content: '(';
-	-webkit-transform: translateX(12px);
-	-moz-transform: translateX(12px);
-	transform: translateX(12px);
+	-webkit-transform: translateX(7px);
+	-moz-transform: translateX(7px);
+	transform: translateX(7px);
 }
 .cl-effect-1 a::after {
 	margin-left: 10px;
 	content: ')';
-	-webkit-transform: translateX(-12px);
-	-moz-transform: translateX(-12px);
-	transform: translateX(-12px);
+	-webkit-transform: translateX(-7px);
+	-moz-transform: translateX(-7px);
+	transform: translateX(-7px);
 }
 .cl-effect-1 a:hover::before,
 .cl-effect-1 a:hover::after,
@@ -39,7 +39,7 @@
 .navbar {
   background: rgba(23, 165, 204, .80);
   border: 0px;
-  border-radius: .8rem;
+  border-radius: 0px;
   transition: .3s all;
   font-family: 'Bree', sans-serif;
 }
