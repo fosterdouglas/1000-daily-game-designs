@@ -12,14 +12,14 @@
 	        transition: transform 0.4s, opacity 0.3s;
 }
 .cl-effect-1 a::before {
-	margin-right: 10px;
+	margin-right: 5px;
 	content: '(';
 	-webkit-transform: translateX(7px);
 	-moz-transform: translateX(7px);
 	transform: translateX(7px);
 }
 .cl-effect-1 a::after {
-	margin-left: 10px;
+	margin-left: 5px;
 	content: ')';
 	-webkit-transform: translateX(-7px);
 	-moz-transform: translateX(-7px);
