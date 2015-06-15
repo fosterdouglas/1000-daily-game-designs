@@ -12,14 +12,14 @@
 	        transition: transform 0.4s, opacity 0.3s;
 }
 .cl-effect-1 a::before {
-	margin-right: 5px;
+	margin-right: 7px;
 	content: '(';
 	-webkit-transform: translateX(7px);
 	-moz-transform: translateX(7px);
 	transform: translateX(7px);
 }
 .cl-effect-1 a::after {
-	margin-left: 5px;
+	margin-left: 7px;
 	content: ')';
 	-webkit-transform: translateX(-7px);
 	-moz-transform: translateX(-7px);
@@ -42,6 +42,7 @@
   border-radius: 0px;
   transition: .3s all;
   font-family: 'Bree', sans-serif;
+  font-size: 1rem;
 }
 .navbar:hover {
   cursor: pointer;
@@ -50,7 +51,6 @@
   color: #FFF;
   opacity: .8;
   font-weight: bold;
-  font-size: 1rem;
   border-bottom: 0px;
   transition: .3s all;
 }
