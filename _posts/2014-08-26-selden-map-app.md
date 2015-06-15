@@ -13,6 +13,9 @@ We began the project with an analysis of the existing technologies to build the 
 
 <iframe src="//player.vimeo.com/video/68334138?color=2ba6cb&title=0&byline=0&portrait=0" width="100%" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+![Selden Sketch 01](/img/selden_sketch01.jpg)
+![Selden Sketch 02](/img/selden_sketch02.jpg)
+![Selden Sketch 03](/img/selden_sketch03.jpg)
 ![Selden 01](/img/selden_image01.png)
 ![Selden 02](/img/selden_image02.png)
 ![Selden 03](/img/selden_image03.png)
