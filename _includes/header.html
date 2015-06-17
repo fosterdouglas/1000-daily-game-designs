@@ -2,23 +2,19 @@
   {% include panel.html %}
   <nav class="navbar navbar-fixed-top" role="navigation" id="navbar">
     <div class="container">
-      <div class="navbar-header cl-effect-1 no-cf">
+      <div class="navbar-header bracket no-cf">
         <a href="{{ site.baseurl }}/" class="navbar-brand">Foster Douglas</a>
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <i class="fa fa-bars"></i>
-        </button>
       </div>
-      <div class="collapse navbar-collapse no-cf" id="navbar-collapse-1">
-        <ul class="nav navbar-nav cl-effect-1">
+      <div class="no-cf">
+        <ul class="nav navbar-nav navbar-left bracket">
           <li {% if page.home or page.category == 'projects' %}class="active"{% endif %}><a href="/"><i class="fa fa-th"></i></a></li>
           <li {% if page.url contains "/games" %}class="active"{% endif %}><a href="/games"><i class="fa fa-gamepad"></i></a></li>
         </ul>
-		<ul class ="nav-right">
-			<li>
-				<i class="fa fa-caret-square-o-down icon-panel"></i>
-			</li>
-		</ul>
+		    <ul class="nav navbar-nav navbar-right">
+		    	<li>
+		    		<a href="#"><i class="fa fa-caret-square-o-down icon-panel"></i></a>
+		    	</li>
+		    </ul>
       </div>
     </div>
   </nav>
