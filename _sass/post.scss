@@ -14,6 +14,14 @@
   margin-top: .5rem;
   margin-bottom: .5rem;
 }
+
+/* Used for emphasis text on game posts */
+
+.post .emphasis {
+	color: mediumaquamarine;
+	font-weight: bold;
+}
+
 /* All of the extra data about the post. Date, tags, etc. */
 .post-meta {
   font-size: .85rem;
