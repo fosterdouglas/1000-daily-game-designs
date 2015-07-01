@@ -7,5 +7,5 @@ A multiplayer first-person shooter where each team shares a single gun.
 
 A game (or mode in a game) that begins with a random player on each team starting with a gun, and nobody else on the team has one.  The other teammates must support The Gun by scouting routes, collecting ammo, acting as human shields, planting traps, springing enemy traps, and other such tactics.  The gun may be passed or requested by other players on the team, although not frequently and under specific circumstances.  A team loses when The Gun dies (the person currently in possession of the team’s gun).
 
-<p class="emphasis">[Today I Was Playing: <em>The Order: 1886</em> and <em>Hand of Fate</em>]</p>
+<p class="emphasis">[ Today I Was Playing: <em><strong>The Order: 1886</strong></em> and <em><strong>Hand of Fate</strong></em> ]</p>
 
