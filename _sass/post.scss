@@ -15,7 +15,7 @@
   margin-bottom: .5rem;
 }
 
-/* Alert Warning Restyling */
+/* Alert Warning override Restyling */
 
 .alert {
 	padding: 13px;
@@ -28,9 +28,14 @@
 }
 
 .alert .close {
-	
 	opacity: .8;
 	line-height: 1.3;
+	
+}
+
+.alert-dismissable .close {
+	right: 0px;
+	
 }
 
 /* Used for emphasis text on game posts */
