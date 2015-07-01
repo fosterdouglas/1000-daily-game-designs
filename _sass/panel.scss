@@ -7,17 +7,18 @@
   box-shadow:none;
 }
 .panel-default .panel-heading {
-  background-color: rgba(23, 165, 204, .80);
-  color: #FFF;
-  border-radius: .6rem;
-  border-bottom: 0px;
-  display: inline-block;
+	background-color: white;
+	color: rgba(23, 165, 204, 0.8);
+	border-radius: .6rem;
+	border-bottom: 0px;
+	display: inline-block;
+	border: 2px solid rgba(23, 165, 204, 0.8);
 }
 .panel-title a {
-  opacity: .8;
+  opacity: 1;
 }
 .panel-heading:hover .panel-title a {
-  color: #FFF;
+  color: #F8A17B;
   opacity: 1;
 }
 .panel-body {
