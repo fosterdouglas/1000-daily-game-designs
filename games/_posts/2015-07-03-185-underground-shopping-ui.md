@@ -32,15 +32,15 @@ I’ve recently started working on the visual layout and design for a shopping m
 
 ![Underground Shopping UI 06](/img/games/185_Underground_UI_06.png "Underground Shopping UI 06"){: .img-contain }
 
-(5) Minor (but detailed!) tweaks.
+(6) Minor (but detailed!) tweaks.
 {: .image-caption }
 
 ![Underground Shopping UI 07](/img/games/185_Underground_UI_07.png "Underground Shopping UI 07"){: .img-contain }
 
-(6) Current iteration.  Added a title of the shop and description text, and streamlined the entire experience a bit more.
+(7) Current iteration.  Added a title of the shop and description text, and streamlined the entire experience a bit more.
 {: .image-caption }
 
 
-[ Today I Was Playing: ***Planetside 2***, ***Borderlands: The Pre-Sequel!***, and ***Shadow of Mordor*** ]
+[ Today I Was Playing: ***Planetside 2*** and ***Borderlands: The Pre-Sequel!*** and ***Shadow of Mordor*** ]
 {: .emphasis}
 
