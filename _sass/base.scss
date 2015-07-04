@@ -32,6 +32,9 @@ img {
 @media (min-width: 768px) {
   .img-contain {
     width: auto;
+	display: block;
+	margin: auto;
+	
   }
 }
 iframe {
