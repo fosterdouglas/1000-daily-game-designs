@@ -7,7 +7,8 @@ I’ve recently started working on the visual layout and design for a shopping m
 
 ![Underground Shopping UI GIF](/img/games/185_Underground_UI.gif "Underground Shopping UI GIF"){: .img-contain }
 ![Underground Shopping UI 02](/img/games/185_Underground_UI_02.png "Underground Shopping UI 02"){: .img-contain }
-It can be difficult to decide which information is most important to the player, especially at an early stage of design.{: .caption}
+It can be difficult to decide which information is most important to the player, especially at an early stage of design.
+{: .caption}
 
 ![Underground Shopping UI 03](/img/games/185_Underground_UI_03.png "Underground Shopping UI 03"){: .img-contain }
 
