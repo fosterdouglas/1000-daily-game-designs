@@ -5,6 +5,7 @@
 .panel-default {
   border: 0px;
   box-shadow:none;
+  margin-bottom: .5rem;
 }
 .panel-default .panel-heading {
 	background-color: white;
@@ -28,4 +29,8 @@
 .panel-body .active {
   font-weight: bold;
   color: #F8A17B;
+}
+
+.panel-body p {
+	margin-bottom: .5rem;	
 }
