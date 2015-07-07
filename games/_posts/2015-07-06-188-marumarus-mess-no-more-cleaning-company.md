@@ -11,7 +11,7 @@ In the downtime between cleaning, manage Maru’s cleaning service company by hi
 
 A game in the *Order in Chaos* series.
 
-(*Order in Chaos* is inspired by Steve Gaynor’s thoughts on order and chaos in video games, featured on Critical Path https://www.youtube.com/watch?v=OT7zFz0SuDg)
+(*Order in Chaos* is inspired by Steve Gaynor’s thoughts on order and chaos in video games, featured on Critical Path [https://www.youtube.com/watch?v=OT7zFz0SuDg](https://www.youtube.com/watch?v=OT7zFz0SuDg))
 
 [ Today I Was Playing: ***Shadow of Mordor*** ]
 {: .emphasis}
