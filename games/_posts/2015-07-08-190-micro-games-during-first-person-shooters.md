@@ -13,6 +13,6 @@ The mechanic could be a smartly designed micro-game played before each shot is t
 
 Maybe all shots fired from the gun “off the hip” are extremely inaccurate and have very low chances of hitting its mark.  However, if the player holds a focus trigger, the gun stabilizes, and if aimed at key parts of the target will launch a micro-game as mentioned above.  The micro-game would have to be difficult to master, but not impossible.  It needs to feel like the player is entirely responsible for its outcome; if they fail they feel like they can do better next time, and if they succeed they feel triumphant and satisfied.
 
-[ Today I Was Playing: ***Shadow of Mordor*** and watching ***Rocket League*** on Twitch ]
+[ Today I Was Playing: ***Shadow of Mordor*** and ***Hand of Fate*** and watching ***Rocket League*** on Twitch ]
 {: .emphasis}
 
