@@ -28,8 +28,9 @@
 }
 .caption p {
   color: #FFF;
-  margin-bottom: 0rem;
+  margin-bottom: 0.4rem;
 }
+
 .project:hover .caption {
   visibility: visible;
   opacity: 1;
@@ -42,7 +43,11 @@
   	-webkit-transform: translate(0px,0px);
   	   -moz-transform: translate(0px,0px);
             transform: translate(0px,0px);
-            box-shadow: -3px 3px 3px rgba(0,0,0,.6);
+            box-shadow: -3px 3px 3px rgba(0,0,0,.6);			
+  }
+  .caption p {
+	font-size: 1rem; 
+    margin-bottom: 0rem;
   }
 }
 .caption .project-title {
