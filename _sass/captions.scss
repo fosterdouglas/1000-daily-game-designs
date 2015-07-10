@@ -49,6 +49,8 @@
   }
 }
 
+/* For super large browser windows */
+
 @media (min-width: 980px) {
 	
    .caption p {
@@ -56,6 +58,22 @@
     margin-bottom: 0rem;
    	line-height: 1.4rem;
      }
+		
+}
+
+/* For mobile? */
+
+@media (max-width: 767px) {
+	
+   .caption p {
+   	font-size: 1.5rem; 
+    margin-bottom: 0rem;
+   	line-height: 2rem;
+     }
+	 
+	 .caption .project-title {
+		 font-size: 2rem;
+	 }
 		
 }
 
