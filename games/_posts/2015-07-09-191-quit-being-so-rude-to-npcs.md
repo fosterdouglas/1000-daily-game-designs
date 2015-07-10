@@ -21,6 +21,7 @@ Actions in games that should trigger repercussions, but usually don’t:
 - Driving 125 mph 
 - A dead body
 
+
 [ Today I Was Playing: ***The Order: 1886*** and ***Super Exploding Zoo!*** and watching ***Bloodborne*** on Twitch ]
 {: .emphasis}
 
