@@ -22,6 +22,6 @@ Ultimately, they are both fun experiences.  Each game has the lasting power prop
 
 ![2048 GIF](/img/games/192_2048.gif "2048 GIF"){: .img-contain }
 
-[ Today I Was Playing: ***MouseCraft*** ]
+[ Today I Was Playing: ***MouseCraft*** and ***Skulls of the Shogun*** ]
 {: .emphasis}
 
