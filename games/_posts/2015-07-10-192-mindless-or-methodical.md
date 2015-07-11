@@ -7,7 +7,7 @@ There’s a plethora of articles written in regards to the *2048* vs *Threes* co
 
 ![Threes and 2048](/img/games/192_Mindless_Or_Methodical.jpg "Threes and 2048"){: .img-contain }
 
-(2) It can be difficult to decide which information is most important to the player, especially at an early stage of design.
+*Threes* on the left and *2048* on the right; can you spot the difference?
 {: .image-caption }
 
 *2048* isn’t terrible because it’s a clone.  There are plenty of things about it that are worse than its cloneliness.  Its puke-flavored jewel tone color scheme, unintuitive experience design (simpler is not always better…), and its focus primarily on the score.  But the worst of all?  It perpetuates the **Mindless** game genre.  *2048*’s developer didn’t bother attempting to understand what was special about the design of *Threes*.
