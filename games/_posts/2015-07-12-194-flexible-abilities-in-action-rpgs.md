@@ -9,8 +9,6 @@ In action RPG games, like Diablo or Dragon Age, character abilities could be mor
 
 All modern gaming controllers could facilitate this easily by using the back “trigger” buttons that have a range of input, similar to a gas pedal on a car.  Hold a trigger down lightly and the AOE will be large but weak.  As the trigger is pulled more, the AOE becomes more concentrated and stronger.
 
-[ Today I Was Playing: Dragon Age II all day omg ]
-
 [ Today I Was Playing: ***Dragon Age II*** all day omg ]
 {: .emphasis}
 
