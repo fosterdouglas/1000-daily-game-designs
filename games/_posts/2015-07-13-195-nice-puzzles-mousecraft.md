@@ -11,7 +11,7 @@ The fact that I’m half way through the game and have spent the time and effort
 
 I can’t stress enough how simple yet intelligent the puzzles are in MouseCraft.  It’s proof that sometimes a great game is born out of pure mechanics and design.  We can only hope and wait for the developers to announce the hotly anticipated sequel, MooseCraft.
 
-![MouseCraft Image](/img/games/195_Nice_Puzzles_MouseCraft.jpg "MouseCraft"){: .img-contain}
+![MouseCraft Image](/img/games/195_Nice_Puzzles_MouseCraft.jpg "MouseCraft"){: .img-contain }
 
 [ Today I Was Playing: ***MouseCraft*** (duh) and ***Shadow of Mordor*** ]
 {: .emphasis}
