@@ -9,7 +9,7 @@ This game does almost everything right.  It teaches you how to play quickly and 
 
 In honor of the greatness of this game, I’ve mocked up a quick look at what a slightly more interactive progression system might look like for your bears. I may dive in to doing a few more of these, although it’s challenging without the fonts or some of the original assets.
 
-![Alphabear Image](/img/games/196_Alphabear_Youre_Great.jpg "Alphabear"){ .img-contain }
+![Alphabear Image](/img/games/196_Alphabear_Youre_Great.jpg "Alphabear"){: .img-contain }
 
 [ Today I Was Playing: ***Shadow of Mordor*** ]
 {: .emphasis}
