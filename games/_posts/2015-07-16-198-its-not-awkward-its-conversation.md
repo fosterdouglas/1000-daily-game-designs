@@ -9,7 +9,7 @@ Games like *Dragon Age* (or anything by Bioware really, or Bethesda Softworks) a
 
 The simplicity and quickness of these is a blessing, though the limitations can be a curse.  One thing that stood out to me after some time with the system is the transitions between topics of conversation, as well as the implied “transitions” between choosing vastly different responses.
 
-I think that, although people are often unpredictable in life, giving a character free reign over how to respond to a situation can be counter-intuitive.  If the game wants to seem believable, then it should start out more accessible in this way, and become more focuses as a player crafts a personality.  Essentially, the system learns the type of person you’re attempting to be, and tries to offer dialogue options that are least within the realm of what that character might say.
+I think that, although people are often unpredictable in life, giving a character free reign over how to respond to a situation can be counter-intuitive.  If the game wants to seem believable, then it should start out more accessible in this way, and become more focused as a player crafts a personality.  Essentially, the system learns the type of person you’re attempting to be, and tries to offer dialogue options that are least within the realm of what that character might say.
 
 The *Infamous* series did something similar, though not with conversation.  As you level up your “Good” powers, access to the deeper and more advanced “Bad” powers got slowly cut off.  It made sense, though.  As you prove to the game’s world that you are a “good" person, “bad” things become less and less likely from you.
 
