@@ -11,7 +11,7 @@ The simplicity and quickness of these is a blessing, though the limitations can 
 
 I think that, although people are often unpredictable in life, giving a character free reign over how to respond to a situation can be counter-intuitive.  If the game wants to seem believable, then it should start out more accessible in this way, and become more focuses as a player crafts a personality.  Essentially, the system learns the type of person you’re attempting to be, and tries to offer dialogue options that are least within the realm of what that character might say.
 
-The *Infamous* series did something similar, though not with conversation.  As you levels up your “Good” powers, access to the deeper and more powerful “Bad” powers was slowly cut off.  It made sense, though.  As you prove to the game’s world that you are a “good" person, “bad” things become less and less likely from you.
+The *Infamous* series did something similar, though not with conversation.  As you level up your “Good” powers, access to the deeper and more advanced “Bad” powers got slowly cut off.  It made sense, though.  As you prove to the game’s world that you are a “good" person, “bad” things become less and less likely from you.
 
 There will always be players who want to totally choose random dialogue options any time during the game, and that can’t be helped.  But I think in general, people want to be consistent with the character they are creating. A system that is specifically designed to encourage that could be really powerful.
 
