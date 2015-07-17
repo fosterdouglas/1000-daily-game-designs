@@ -18,6 +18,6 @@ There will always be players who want to totally choose random dialogue options 
 As a second consideration, creating content to fit between conversations may go a long way to creating more engaging interaction.  Obviously this is a huge budgetary concern, especially for games as large as these, in terms of voice acting, scripting, and design.  But, for example, if you’re talking with an NPC about a group of bandits that has formed to the north of the kingdom, and then next you want to ask them about what they have for sale at their shop, there should be a conversation transition there.  Maybe something like “Well, I’ll figure that out soon enough.  In the meantime, what have you got for sale?”  The lines could be partially generic, so as to be used in various situations, and many different ones could be recorded and used randomly in place of one another.  I think this could bring a “flow” to these dialogue interactions that can otherwise sometimes be choppy and disjointed. 
 
 
-[ Today I Was Playing: Dragon Age II and Alphabear ]
+[ Today I Was Playing: ***Dragon Age II*** and ***Alphabear*** ]
 {: .emphasis}
 

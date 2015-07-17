@@ -9,6 +9,6 @@ Step into a VR world to have a casual discussion with a personable and inquisiti
 
 The conversation analysis isn’t meant to tell you how to be better at something, or to point out flaws in your personality.  It’s designed to promote a healthy gaze inward at ourselves as a social and cultural participant in modern society.
 
-[ Today I Was Playing: ...nothing yet! ]
+[ Today I Was Playing: ***Shadow of Mordor*** ]
 {: .emphasis}
 
