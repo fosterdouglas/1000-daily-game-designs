@@ -14,7 +14,7 @@ Although this specific system feels like it was **designed** for the Middle Eart
 - A sports game drafting system
 - *Persona*-style relationship system, showing your NPC’s ties with each other. As you interact more or less with different groups, others notice and show interest, regress, abandon you, or form rivalries.
 - A space game like *No Man's Sky* or *Mass Effect* where full colonies and planetary races create rivalries and war dynamically amongst themselves.
-- Some sort of new family-dynamic system in The Sims 5
+- Some sort of new family-dynamic system in *The Sims 5*
 - A first-person war simulation game; any enemy soldiers your Country doesn't eliminate during battle go on to rise through the ranks, remember battles, and learn your war tactics to use against you
 
 
