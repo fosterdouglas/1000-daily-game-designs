@@ -3,7 +3,7 @@ layout: post
 title: 207 Sweeper Revisited
 tags: game-mechanic-system, game-opinion
 ---
-A use-case of Sweeper’s inspirational mini-game from *Persona 4: Golden*.
+A use-case of Sweeper’s (from the previous post [#204](http://www.foster-douglas.com/games/204-sweeper/)) inspired-by mini-game from *Persona 4: Golden*.
 
 ![SweeperRevisted](/img/games/207_Sweeper_Revisited.jpg "SweeperRevisted")
 
