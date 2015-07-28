@@ -5,7 +5,7 @@ tags: game-mechanic-system, game-opinion
 ---
 A use-case of Sweeper’s inspirational mini-game from *Persona 4: Golden*.
 
-![SweeperRevisted](/img/games/207_Sweeper_Revisited.jpg "SweeperRevisted"){: .img-contain}
+![SweeperRevisted](/img/games/207_Sweeper_Revisited.jpg "SweeperRevisted")
 
 The example above illustrates one of the most important aspects of this mini-game's design, which will be inspirational to the design of Sweeper.
 
