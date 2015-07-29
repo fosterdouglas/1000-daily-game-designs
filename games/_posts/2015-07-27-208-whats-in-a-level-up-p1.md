@@ -3,7 +3,7 @@ layout: post
 title: "208 What's In A Level Up? (Part 1)"
 tags: interface-game-design, underground
 ---
-As I play an unhealthy amount of Persona 4: Golden (actually BRB, I’m gonna go play for a minute)...
+As I play an unhealthy amount of *Persona 4: Golden* (actually BRB, I’m gonna go play for a minute)...
 
 It’s gotten me thinking more about the way games encourage, facilitate, and reward you for gaining “experience.” Leveling Up, as it’s come to be called, is something that has slowly spread across nearly every genre and sub-genre of gaming.
 
