@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "80 Steel (A Space Game)"
+title: "080 Steel (A Space Game)"
 tags: alternate-gravity-game, physical-game, sports-game
 ---
 Roller derby but with skateboards + hockey + baseball, in space!
