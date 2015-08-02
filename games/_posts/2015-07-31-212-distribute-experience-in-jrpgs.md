@@ -15,6 +15,6 @@ The system might be similar to a “Buy 5, Get 1 Free!” card at your local fro
 
 Obviously the system would need to be carefully designed.  You don’t want players getting lazy, or giving them free levels like Halloween candy.  However, the point of the system is to create a more fun and balanced experience that avoids level grinding.
 
-[ Today I Was Playing: ***Card Hunter*** ***Persona 4: Golden*** and ***The Order: 1886*** ]
+[ Today I Was Playing: ***Card Hunter*** and ***Persona 4: Golden*** and ***The Order: 1886*** ]
 {: .emphasis}
 
