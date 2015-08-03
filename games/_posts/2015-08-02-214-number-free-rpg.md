@@ -7,7 +7,7 @@ An RPG that uses no numbers.
 
 I’ve been playing *Massive Chalice* lately (and honestly, I am totally obsessed with it! Shout out to the team over at [Double Fine](http://www.doublefine.com) for this game!).  One thing that caught my eye was a stats-heavy screen that’s accessed from each hero’s details pane:
 
-![MassiveChalice](/img/games/214_Number_Free_RPG.png "Massive Chalice")
+![MassiveChalice](/img/games/214_Number_Free_RPG.png "Massive Chalice"){: .img-contain}
 
 (Phew! That’s a lot of numbers)
 {: .image-caption}
