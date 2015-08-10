@@ -3,7 +3,7 @@ layout: post
 title: 220 Blanket Strategy and Compounding Strategy
 tags: game-mechanic-system, game-opinion
 ---
-It seems like there are two types of game-wide strategy progression,  blanket strategy and compounding strategy.  Blanket strategy is a game system that sets rules from the start, and alters the situations and interactions around them as the game moves from level to level.  Compounding strategy is instead when a new element is introduced into the system each level or periodically.
+It seems like there are two types of game-wide strategy progressions,  blanket strategy and compounding strategy.  Blanket strategy is a game system that sets rules from the start, and alters the situations and interactions around them as the game moves from level to level.  Compounding strategy is instead when a new element is introduced into the system each level or periodically.
 
 Blanket strategy examples include classic games like chess and checkers, and modern games like *X-COM: Enemy Unknown*, *Fire Emblem*, and *Civilization*. This is defined by the fact that **all the same strategies are available from the first game through to the last**.  In other words, you could solve the final level of a game using the tactics and skills you had during the first level.  Most modern board games have blanket strategy, as well as many turn-based strategy video games.
 
