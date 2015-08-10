@@ -5,7 +5,7 @@ tags: game-mechanic-system, game-opinion
 ---
 In post [#127](http://www.foster-douglas.com/games/127-jrpgs-have-too-many-playable-characters/), I talked about how characters in JRPGs typically go forgotten eventually, if you favor using certain specific characters only.
 
-It’s never fun to have to catch up your unused characters to your primary once, on the off chance that later in the game you’ll want to use them again. This problem pervades RPGs; you see it in *Pokemon* as your favored pokemon quickly outlevel your Goldeens, or in *Persona* as your unused party members quickly fall behind, or in almost any *Final Fantasy* title that has a large cast of characters.
+It’s never fun to have to catch up your unused characters to your primary ones, on the off chance that later in the game you’ll want to use them again. This problem pervades RPGs; you see it in *Pokemon* as your favored pokemon quickly outlevel your Goldeens, or in *Persona* as your unused party members quickly fall behind, or in almost any *Final Fantasy* title that has a large cast of characters.
  
 There are likely many solutions to this.  The recent 3DS hit *Bravely Default* solved it simply; the main cast of playable characters never exceeds the maximum number (4) that can be used in battle.  That’s a fairly limiting solution, however.  Another solution (as mentioned in the past post above) is to design a system that allows for all your characters to be used in battle at once, in some way or another.
 
