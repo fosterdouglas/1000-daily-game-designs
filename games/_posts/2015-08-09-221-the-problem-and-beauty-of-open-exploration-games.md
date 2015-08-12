@@ -9,7 +9,7 @@ The game opens up with the warning that “This game does not hold your hand.”
 
 And so, the problem with the genre lay just there; they can be much too open ended.  This is particularly true of *The Vanishing of Ethan Carter*.  Let’s say that I’m walking through the woods on a path, and I come to a crossroads with 4 different directions I could go in (further in the woods, toward the rocky beach, up a grassy mountain, or over to an abandoned train car).  If I’m playing a game with almost no story or guidance, what provokes me to go one way versus another?  What sort of choice can I make, other than a completely arbitrary one?
 
-So I choose to go through the woods more, end up finding something of interest, but can’t ever really shake the constant nagging in the back of my head that I’ve missed out on something.  Or I’m going the wrong way.  
+So I choose to go through the woods more, end up finding something of interest, but can’t ever really shake the constant nagging in the back of my head that I’ve missed out on something.  Or I’m going the wrong way.  Or that I’m going the right way but I wanted to be going the wrong way. Or...
 
 It’s hard sometimes to compare mediums, particularly with video games because of the nature of their interactivity.  However, at the beginning of playing this game, it feels like... **being handed 300 ripped out book pages in an unordered stack, and then told there are only a few right ways to read through them.**  Good luck.
 
