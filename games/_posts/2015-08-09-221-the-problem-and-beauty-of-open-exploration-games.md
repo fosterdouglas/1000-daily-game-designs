@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 222 The Problem (And Beauty) Of Open Exploration Games
+title: 221 The Problem (And Beauty) Of Open Exploration Games
 tags: game-opinion
 ---
 Playing *The Vanishing of Ethan Carter* this weekend got me thinking more about the emerging **interactive exploration/story-telling** genre recently.  This game type has numerous redeeming qualities, and the capstone of the genre so far is Fullbright’s *Gone Home*, from 2013.  In my opinion, it’s one of the video game genre’s greatest story-telling achievements of all time.  And it’s what opened me up to trying more games that are similar, like *The Vanishing of Ethan Carter*.  And so far, a few hours in, I’m have an awesome time with it.  That said, I have a bone to pick.
@@ -18,8 +18,6 @@ This kind of open-endedness can create a lot of really exciting emergent stories
 It’s tied to the narrative of the story, too.  There would never be a character in a story that makes decisions arbitrarily.  Even a mystery game like this one, with supernatural elements and a detective whose job it is to explore everything… even that person would have context for the decisions they make.  They would arrive in a location with an agenda.  They would see a barn in the distance, and likely have an idea of whether it’s something that would make sense to explore.  In an open-ended narrative game, everything is assumed to be interesting enough to be explored.
 
 Anyway, the critique is all in defense of the genre.  I want to see it grow further, and I like playing different games that try different things.  As long as we keep trying new ideas, it’ll be worth playing them.
-
-[ Today I Was Playing: The Vanishing of Ethan Carter and The Order: 1886 ]
 
 [ Today I Was Playing: ***The Vanishing of Ethan Carter*** and ***The Order:1886*** ]
 {: .emphasis}
