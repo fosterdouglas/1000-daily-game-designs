@@ -11,7 +11,7 @@ There’s no way the designers intended for this though.  I think in this type o
 
 If the levels are a bit too inconsistent to allow for that (maybe for example you don’t always start with 3 cards), then a reshuffle mechanic could be introduced. Maybe within the first round of the game, the player can use a button (maybe L1 on the PS4) to discard and deal themselves 3 new cards. 
 
-I may not even have even thought to end the level and restart if I had either of these options available.  That said, I certainly realize that the majority of players aren’t going to think about this or bother doing it, and will just play the game the way it was designed. ;) 
+I may not have even thought to end the level and restart if I had either of these options available.  That said, I certainly realize that the majority of players aren’t going to think about this or bother doing it, and will just play the game the way it was designed. ;) 
 
 
 [ Today I Was Playing: ***Dragon Age II*** and ***Persona 4: Golden*** ]
