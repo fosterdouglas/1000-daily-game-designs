@@ -17,7 +17,6 @@ Finding these true endings, however, isn’t easy.  Instead of the game making y
 
 (A minor and totally out-of-context spoiler! Sorry...)
 {: .image-caption}
-
 The right thing to say here is “Namatame’s true feelings.”  But, even to get to this point, the player had to successfully select 2 correct answers before this, and will need to select another 3 after.  This is the way to catch the true murderer and end the story the way it was meant to be.  The other outcomes end ambiguously and abruptly, and lead to a credit sequence with the most melancholy ending credit music ever written.
 
 I think it’s a little bit ridiculous that **this** is the way the game wants you to experience its narrative ending.  I imagine very few people (really, just statistically speaking) got these “normal” endings, and even fewer yet figured out how to get them after sitting, puzzled, through a sad credit sequence.
