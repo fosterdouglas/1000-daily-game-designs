@@ -9,7 +9,7 @@ We see this across nearly every genre, style, demographic, and developer; avoid 
 
 Or is it just lazy game design?
 
-Tetris, the [indisputable best video game of all time](http://5by5.tv/dlc/12), surprisingly avoids this.  You don’t “die” when your game is over; the screen is simply too full to continue, and you lose.  Without going out of my way to look, no other examples are coming to mind.  And I’ve played and finished a lot of games since 2012.
+Tetris, the [indisputable best video game of all time](http://5by5.tv/dlc/12){:target="_blank"}, surprisingly avoids this.  You don’t “die” when your game is over; the screen is simply too full to continue, and you lose.  Without going out of my way to look, no other examples are coming to mind.  And I’ve played and finished a lot of games since 2012.
 
 Looking back at the 30 or so games I’ve experienced this year, exactly one of them doesn’t involve dying, and that’s Double Fine’s *Broken Age*.  Every other game either uses death to punish failure, is so far obscured from anything related to life anyway (*Peggle 2*), or is a part of the brand new genre of exploration-focused games (*Ether One*, *The Vanishing of Ethan Carter*).
 
