@@ -3,7 +3,7 @@ layout: post
 title: 192 Mindless Or Methodical
 tags: game-review-critique
 ---
-There’s a plethora of articles written in regards to the *2048* vs *Threes* controversy. The gist of it is that Threes, an innovative mobile match-2 mobile game, took multiple years to develop and was successful, but quickly overshadowed by a free clone released weeks afterward.
+There’s a plethora of articles written in regards to the *2048* vs *Threes* controversy. The gist of it is that *Threes*, an innovative mobile match-2 mobile game, took multiple years to develop and was successful, but quickly overshadowed by a free clone released weeks afterward.
 
 ![Threes and 2048](/img/games/192_Mindless_Or_Methodical.jpg "Threes and 2048"){: .img-contain }
 
