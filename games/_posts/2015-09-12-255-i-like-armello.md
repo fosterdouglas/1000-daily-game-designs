@@ -3,7 +3,7 @@ layout: post
 title: 255 I Like Armello
 tags: game-opinion
 ---
-The [fantasy digital board](http://armello.com){target:"_blank"} game *Armello* is a truly unique experience.
+The [fantasy digital board](http://armello.com){:target="_blank"} game *Armello* is a truly unique experience.
 
 Out of the gate, the 4-part tutorial walks you through the basics of what is actually a fairly complex board games. The tutorial also helps inject a bit of story into the world and characters, giving life and background to your future game sessions.
 
@@ -15,7 +15,7 @@ Since each game is long, it’s actually almost a better tactic to be ambivalent
 
 I think the game could benefit greatly by incorporating a story mode or campaign.  Something similar to Warcraft III’s story mode.
 
-![Armello](/img/games/255_I_Like_Armello.jpg "Armello"){: .img-contain }
+![Armello](/img/games/255_I_Like_Armello.jpg "Warcraft III: Reign of Chaos"){: .img-contain }
 
 Warcraft III: Reign of Chaos had a great campaign mode, despite its focus on multiplayer.
 {: .image-caption}
