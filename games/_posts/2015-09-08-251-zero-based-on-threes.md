@@ -15,6 +15,6 @@ Or its the reverse, and every time you make a move, all the tiles that have move
 
 I definitely need to think more about this, but some basic ideas are here!
 
-[ Today I Was Playing: ***Metal Gear Solid** ]
+[ Today I Was Playing: ***Metal Gear Solid*** ]
 {: .emphasis}
 
