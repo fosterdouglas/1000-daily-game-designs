@@ -5,7 +5,7 @@ tags: action-game, game-opinion, puzzle-game
 ---
 There are two types of action/puzzle games in this world, the thinking games and the dying games.
 
-*Portal* is a thinking game; Super Meat Boy is a dying game.
+*Portal* is a thinking game; *Super Meat Boy* is a dying game.
 
 (*SMB* might not be the best example actually, because it leans more toward "action" and less toward "puzzle," but I think it’s still relevant.)
 
