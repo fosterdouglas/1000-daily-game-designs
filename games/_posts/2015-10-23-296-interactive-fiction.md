@@ -3,7 +3,7 @@ layout: post
 title: 296 Interactive Fiction+
 tags: experimental-game, text-game, touch-controlled-game
 ---
-As mentioned [yesterday]() in my post about Lifeline, I’m interested in exploring how this idea can be pushed further.  We’ll continue with the idea of a stranded astronaut in space, since it’s relevant.
+As mentioned [yesterday](http://www.foster-douglas.com/games/295-lifeline-is-flawed-but-so-unique/) in my post about Lifeline, I’m interested in exploring how this idea can be pushed further.  We’ll continue with the idea of a stranded astronaut in space, since it’s relevant.
 
 The visual design of this IF could go much further to set it apart and help immerse the player.  Let’s say the screen looked much more like a communication device.  The would allow a myriad of new narrative ideas to flourish.  Maybe the connection is unstable at points during the story, or the player must turn their device to point a certain direction to get better reception.  The interface might be both aurally and text focused; the player gets voice memos or direct voice contact with the stranded astronaut, but must resort to using the text occasionally when the story dictates so.
 

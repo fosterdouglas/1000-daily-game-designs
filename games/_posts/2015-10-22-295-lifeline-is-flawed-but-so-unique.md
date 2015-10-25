@@ -17,7 +17,7 @@ Although I haven’t played every single option or scenario through, I think it�
 
 One very unique aspect of this game, though, is that it may be one of the only games I’ve ever played that actually forces you to stop playing it at certain points.  And that’s an extremely alluring thing, particularly when its narratively driven, as in this case (Free-to-play games have been "forcing" us to stop playing for years, but that’s a terrible variation on this, while we wait for timers to count down that didn’t ever need to be included in the first play, chiefly to bleed money from players).
 
-[Tomorrow]() I’ll have a look into how I might personally edit this unique game design style to something slightly more dynamic.
+[Tomorrow](http://www.foster-douglas.com/games/296-interactive-fiction/) I’ll have a look into how I might personally edit this unique game design style to something slightly more dynamic.
 
 [ Today I Was Playing: ***Disney Infinity 2.0*** and ***Assassin's Creed Rogue*** ]
 {: .emphasis}
