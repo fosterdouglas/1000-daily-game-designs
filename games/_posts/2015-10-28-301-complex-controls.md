@@ -3,7 +3,7 @@ layout: post
 title: 301 Complex Controls
 tags: game-mechanic-system
 ---
-On Monday, I talked a little bit about an idea of having a purposeful input delay in digital gaming.  This week, I came across something somewhat similar.  The game *Super Time Force Ultra*(SUCH A GOOD GAME!), is a side-scrolling shooter.  But, it transcends those bounds by also being an interesting action/puzzle game.
+On [Monday](http://www.foster-douglas.com/games/299-delayed-input/){:target="_blank"}, I talked a little bit about an idea of having a purposeful input delay in digital gaming.  This week, I came across something somewhat similar.  The game *Super Time Force Ultra*(SUCH A GOOD GAME!), is a side-scrolling shooter.  But, it transcends those bounds by also being an interesting action/puzzle game.
 
 I noticed right away that the developers chose to make the "shoot" button a controller thumb button rather than a finger trigger button.  I think it was a genius choice, and certainly one made on purpose.  The game isn’t a shooter really, it’s a smart puzzle game where you shoot.  So, keep the jump and shoot buttons right next to each other slows the player down a little, and forces them to focus on what’s happening on the screen more intently, rather than just running and spraying bullets like crazy.
 
