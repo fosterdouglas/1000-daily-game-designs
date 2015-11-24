@@ -13,7 +13,7 @@ The game follows the 12 steps of the Hero’s Journey, as outlined by Campbell. 
 
 ![HerosJourney2](/img/games/323_The_Heros_Journey_2.png "HerosJourney2")
 
-( Both images courtesy of [http://www.thewritersjourney.com/hero's_journey.htm](http://www.thewritersjourney.com/hero's_journey.htm), all rights reserved! )
+( Both images courtesy of [http://www.thewritersjourney.com/hero's_journey.htm](http://www.thewritersjourney.com/hero's_journey.htm){:target="_blank"}, all rights reserved! )
 
 [ Today I Was Playing: ***vacation day 4…*** ]
 {: .emphasis}
