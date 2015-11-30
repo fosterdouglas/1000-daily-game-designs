@@ -17,7 +17,7 @@ There would be 7 main categories of eye color:
 - Blue (13-16)
 - Unique (Black, Red, Violet, Yellow, or White)
 
-(Loosely based on this weird scale? https://en.wikipedia.org/wiki/Martin_scale)
+(Loosely based on this weird scale? [https://en.wikipedia.org/wiki/Martin_scale](https://en.wikipedia.org/wiki/Martin_scale){:target="_blank"})
 
 Something like this could potentially be integrated into Underground, a long-running game design project in progress.
 
