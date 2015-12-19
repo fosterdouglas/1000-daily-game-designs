@@ -3,7 +3,7 @@ layout: post
 title: 351 Collaborative World Design
 tags: game-mechanic-system
 ---
-As I walk through my neighborhood, I look at the small details, imperfections, and a nuances that make it look the way it looks, and feel the way it feels.  It’s hard to pinpoint one specific thing, though; Madeleine uses the word **Gestalt** to describe similar things lately.  Kevin once wrote a song about it, called [Synecdoche](/music/synecdoche_d2.mp3 "Synecdoche").
+As I walk through my neighborhood, I look at the small details, imperfections, and a nuances that make it look the way it looks, and feel the way it feels.  It’s hard to pinpoint one specific thing, though; Madeleine uses the word **Gestalt** to describe similar things lately.  Kevin once wrote a song about it, called [Synecdoche](/music/synecdoche_d2.mp3 "Synecdoche"){:target="_blank"}.
 
 One theory why digital worlds can lack this feeling is that they’re typically created all by a single or small group of like-minded people. They are attempting to emulate a diverse and interesting world, but can only pull from their collective ideas and experiences of the parts of the world that they’ve visited.
 
