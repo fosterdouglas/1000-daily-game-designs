@@ -9,7 +9,7 @@ And so Blow is at the helm again; *The Witness* represents yet another significa
 
 The game starts immediately on opening, with no menu; there are no save points, and I’m sure if he could have somehow gotten away with it, there wouldn’t even be a "pause" menu to adjust the sound and camera controls.  *The Witness* requires almost no dexterous ability or previous skill with gaming.  Its minimal UI design (is minimal the right word for something that is **almost** non-existant?) may initially hinder players unfamiliar with a controller, but a small amount of trial and error, paired with an intuitive and unobtrusive tutorial, make quick work of that. From there, you’re set loose in the world.  "Open world" has never felt so terrifying and beautiful;  certainly, one has never been so quiet.
 
-After a few hours of play, I can’t claim to know its progress or intentions completely.  But, it certainly is one of the purest examples of game design I’ve ever experienced; literally, it is "game design." I can’t wait to experience everything The Witness has to offer.
+After a few hours of play, I can’t claim to know its progress or intentions completely.  But, it certainly is one of the purest examples of game design I’ve ever experienced; literally, it is "game design." I can’t wait to experience everything *The Witness* has to offer.
 
 (More thoughts to come throughout playing, or at the very least after finishing the game!)
 
