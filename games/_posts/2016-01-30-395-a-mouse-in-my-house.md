@@ -13,5 +13,5 @@ This could also potentially be a VR game.
 
 (Thanks [Kevin](http://kevinmcgillivray.net){:target="_blank"}!)
 
-[ Today I Was Playing: ***The Witness*** and ***Assassin’s Creed: Freedom Cry*** ]
+[ Today I Was Playing: ***The Witness*** and ***Magicka 2*** ]
 {: .emphasis}
