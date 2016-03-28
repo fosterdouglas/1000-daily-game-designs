@@ -12,7 +12,5 @@ This screen capture is a week or two old, but the game is in progress, and we ho
   Your browser does not support the video tag.
 </video>
 
-![emojiFace Update 01](/img/games/446_emojiFace_Update_01.mov "emojiFace Update 01")
-
 [ Today I Was Playing: ***nothing...*** ]
 {: .emphasis}
