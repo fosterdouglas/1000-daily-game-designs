@@ -15,7 +15,7 @@ How does this translate to gaming?  The key words again: complex and binary. Mak
 
 I’ve been playing *Life is Strange* recently, and a lot of decisions in that are relevant to this idea.  When my early-twenties character picks up a gun for the first time in her life, and soon after is forced to point it at another human, the game pauses and asks me "Shoot? — Don’t Shoot?"  In this moment there are dozens of things running through my mind— an extension of her mind —that make this an incredibly complex binary decision. I’m feeling protective, scared, confused, primal, cowardly, vulnerable; I’m also feeling meta-emotions for my character like empathy, general morality, and narrative outcome.  All of these emotions, and more, packed into a single moment, a single decision.
 
-Making binary decisions carry realistic weight will trump nearly any superfluous multi-decision situation.  Let your game having meaning through context, don’t try to create meaning that isn’t there.
+Making binary decisions carry realistic weight will trump nearly any superfluous multi-decision situation.  Let your game having meaning via context, don’t try to fabricate meaning through complexity.
 
 (An updated and clarified version of this article will be posted in the future, stay tuned!)
 
