@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 453 20 Questions: People
+title: 453 "20 Questions: People"
 tags: classic-game, quiz-game
 ---
 A simple variation on the standard 20 Questions formula.
