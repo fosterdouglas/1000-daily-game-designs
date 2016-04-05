@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 446 emojiFace Update 01
-tags: emoji-game, emojiFace
+tags: emoji-game, emojiFace, puzzle-game
 ---
 Last month, I designed a few games focused around emoji.  Kevin and I are developing a few of these into playable tests, and [emojiFace](http://www.foster-douglas.com/games/397-emojiface/){:target="_blank"} is first up!
 

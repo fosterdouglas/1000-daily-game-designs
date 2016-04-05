@@ -17,5 +17,5 @@ Once ready to play, gather your group and introduce them to the fortune teller, 
 
 (This one was almost *all* Madeleine!)
 
-[ Today I Was Playing: ***Fire Emblem Fates Birthright*** ]
+[ Today I Was Playing: ***Fire Emblem Fates: Birthright*** ]
 {: .emphasis}

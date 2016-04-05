@@ -9,5 +9,5 @@ This game motivates you to be aware of your interactions with composting.  It he
 
 Potentially, simple hardware could be developed and placed inside the compost to measure things like moisture, temperature, and pH level, potentially useful information for the worm master.
 
-[ Today I Was Playing: ***Fire Emblem Fates Birthright*** ]
+[ Today I Was Playing: ***Fire Emblem Fates: Birthright*** ]
 {: .emphasis}
