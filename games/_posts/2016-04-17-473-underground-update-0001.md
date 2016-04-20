@@ -13,7 +13,7 @@ The first one we’re working on is the **style menu**.  It’s essentially the 
 
 It can be assumed that in these tech tests, **almost everything** is placeholder information.  Regardless, enjoy!
 
-![UndergroundUpdate0001](/img/games/473_Underground_Update_0001.png "UndergroundUpdate0001"){: .img-contain }
+![UndergroundUpdate0001](/img/games/473_Underground_Update_0001.png "UndergroundUpdate0001")
 
 [ Today I Was Playing: ***nothing...*** ]
 {: .emphasis}
