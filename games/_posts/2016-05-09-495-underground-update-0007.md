@@ -6,7 +6,7 @@ tags: adventure-game, strategy-game, turn-based-game, underground
 I’ve designed the basics for the write up for the 5th tech test, **proximity encounters**.
 
 ---
-
+'''
 #UNDERGROUND TECHNICAL TEST 05
 ##PROXIMITY ENCOUNTERS
 
@@ -39,7 +39,7 @@ BD checks whether its radius is overlapping with a character.
 Else,
 BD chooses at random 1 of its X available directions to move in, excluding the direction that it last came from if any, and moves.
 Loop
-
+'''
 
 [ Today I Was Playing: ***Tropico 5*** ]
 {: .emphasis}
