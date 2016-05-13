@@ -40,6 +40,7 @@ Else,
 BD chooses at random 1 of its X available directions to move in, excluding the direction that it last came from if any, and moves.
 Loop
 
+---
 
 [ Today I Was Playing: ***Tropico 5*** ]
 {: .emphasis}

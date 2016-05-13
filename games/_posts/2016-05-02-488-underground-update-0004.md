@@ -10,6 +10,7 @@ Kevin is clipping along nicely with development of our 2nd tech test, the **hex 
   Your browser does not support the video tag.
 </video>
 
+---
 
 [ Today I Was Playing: ***Hell Divers: Democracy Strikes Back*** ]
 {: .emphasis}
