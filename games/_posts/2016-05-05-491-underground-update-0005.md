@@ -26,7 +26,7 @@ And some of the well-written code from it:
 
 We'll have future posts with more in depth explanation of code snippets like this.
 
-![UndergroundUpdate0005](/img/games/492_Underground_Update_0005.png "UndergroundUpdate0005")
+![UndergroundUpdate0005](/img/games/492_Underground_Update_0005.png "UndergroundUpdate0005"){: .img-contain }
 
 [ Today I Was Playing: ***nothing...*** ]
 {: .emphasis}
