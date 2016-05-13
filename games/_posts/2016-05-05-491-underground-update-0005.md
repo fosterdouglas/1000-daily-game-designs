@@ -3,9 +3,7 @@ layout: post
 title: 491 Underground Update 0005
 tags: adventure-game, strategy-game, turn-based-game, underground
 ---
-Kevin has been working hard on the 3rd tech test, the **cube hex grid**. The goal of this one is the systematically generate the hex grid using efficient reusable functions.
-
-"so the key thing would be… the idea of the X, Y, Z cube coordinate system and using that to find neighbors"
+Kevin has been working hard on the 3rd tech test, the **cube hex grid**. The goal of this one is the systematically generate the hex grid using efficient reusable functions. We've been using this indispensable resource:
 
 [http://www.redblobgames.com/grids/hexagons/#coordinates](http://www.redblobgames.com/grids/hexagons/#coordinates){:target="_blank"}
 
