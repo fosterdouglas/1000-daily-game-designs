@@ -8,7 +8,7 @@ We’ve started dabbling with our fourth tech test, **pathfinding**, continuing 
 ---
 
 <video class="img-contain" width="752" height="836" controls>
-  <source src="/img/games/493_Underground_Update_0006.mov" type="video/mp4">
+  <source src="/img/games/497_Underground_Update_0008.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
