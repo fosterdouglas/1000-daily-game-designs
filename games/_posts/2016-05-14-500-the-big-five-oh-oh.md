@@ -19,5 +19,5 @@ If anyone missed out, today I had my **500 minute celebration stream**! below ar
 
 I’ll probably be doing more streams in the future (probably not 8 hours long, though), so check out my [Twitch](https://www.twitch.tv/fostywosty){:target="_blank"} page periodically to find out when that might be!
 
-[ Today I Was Playing: ***Armello*** and ***Uncharted 4: A Thief’s End*** and ***Life is Strang Ep. 4 - Dark Room*** and ***Tropico 5*** and ***The Witness*** ]
+[ Today I Was Playing: ***Armello*** and ***Uncharted 4: A Thief’s End*** and ***Life is Strange - Ep. 4*** and ***Tropico 5*** and ***The Witness*** ]
 {: .emphasis}
