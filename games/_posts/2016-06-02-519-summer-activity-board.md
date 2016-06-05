@@ -9,5 +9,7 @@ In this game, each family member gets a playing piece, and there's a shared game
 
 The game board has certain special spots and if you land on them you win fun rewards like ice cream days or road trips.  At the end of the summer, points are tallied and the winner gets a special prize (but all other participants get consolation prizes, obviously!).
 
+(Thanks [Kevin](http://kevinmcgillivray.net){:target="_blank"}!!)
+
 [ Today I Was Playing: ***Elder Scrolls Online: Tamriel Unlimited*** and ***Risk of Rain*** ]
 {: .emphasis}
