@@ -3,7 +3,7 @@ layout: post
 title: 532 Pure Mayhem/Joy Moments In Uncharted
 tags: game-review-critique
 ---
-Continuing my slow and stead playthrough of *Uncharted 4: A Thief’s End*, it continues to shock and surprise me in a lot of wonderful ways.
+Continuing my slow and steady playthrough of *Uncharted 4: A Thief’s End*, it continues to shock and surprise me in a lot of wonderful ways.
 
 Specifically there is a sequence, which was chosen early on before the game’s release as a section to show off the game (for good reason!), where Nathan and Sully are in a jeep driving down a mountain-side city, attempting to escape a large military vehicle.
 
