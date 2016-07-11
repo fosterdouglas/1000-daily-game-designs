@@ -5,9 +5,9 @@ tags: game-mechanic-system
 ---
 I love the dynamic divided meter.
 
-![DividedMeter_1](/img/games/550_The_Divided_Meter_1.jpg "DividedMeter_1")
+![DividedMeter_1](/img/games/550_The_Divided_Meter_1.jpg "DividedMeter_1"){: .img-contain }
 
-![DividedMeter_2](/img/games/550_The_Divided_Meter_2.jpg "DividedMeter_2")
+![DividedMeter_2](/img/games/550_The_Divided_Meter_2.jpg "DividedMeter_2"){: .img-contain }
 
 Above is an example from the original *Witcher: Enhanced Edition* release from 2008.  It can be found in **many** other games, I just chose this example because it was the most recent one I saw.
 
