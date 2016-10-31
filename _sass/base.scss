@@ -6,11 +6,21 @@ body {
   left: 0;
   position: relative;
 }
+.main-content {
+  padding-top: 1.5rem;
+}
 img {
 	width: 100%;
 	height: auto;
 	border-radius: .6rem;
   vertical-align: middle;
+}
+.emoji,
+.post .emoji {
+  max-width: 17px;
+  vertical-align: baseline;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 @media (min-width: 768px) {
   .img-contain {
