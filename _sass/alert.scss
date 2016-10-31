@@ -1,0 +1,12 @@
+.alert {
+  border: 0;
+  border-radius: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: .85rem;
+  text-align: center;
+}
+.alert-info {
+  background-color: $neutral;
+  color: $white;
+}
