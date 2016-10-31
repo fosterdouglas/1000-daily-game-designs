@@ -2,6 +2,25 @@
  * Typography
  */
 
+$bree-serif: "bree-serif", sans-serif;
+$cronos: "cronos-pro", sans-serif;
+
+html {
+	font-size: 14px;
+}
+@media (min-width:768px) {
+	html {
+		font-size: 18px;
+	}
+}
+body {
+	font-family: $cronos;
+	font-size: 1em;
+	line-height: 1.35;
+  color: $default-text;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+}
 p {
 	margin-top: 0;
 	margin-bottom: 1rem;
@@ -12,30 +31,31 @@ h3,
 h4,
 h5,
 h6 {
-  color: #2BA6CB;
+  color: $bright;
   margin-top: 1.5rem;
   margin-bottom: .5rem;
-  font-family: 'Bree', sans-serif;
+  font-family: $bree-serif;
   font-size: 1rem;
   line-height: 1.35;
   font-weight: bold;
 }
 h1 {
 	margin-top: 0;
+	margin-bottom: 1rem;
   font-size: 1.5rem;
   line-height: 1.1;
-  color: #F8A17B;
 }
 h2 {
-  color: rgb(204, 204, 204);
   font-size: 1.2rem;
 }
 a {
-	color: #2BA6CB;
+	color: $bright;
+	border-bottom: 1px solid transparent;
   transition: .3s all;
 }
 a:hover {
-  color: #F8A17B;
+  color: $bright;
+	border-bottom: 1px solid $bright;
   text-decoration: none;
   transition: .3s all;
 }
@@ -63,7 +83,7 @@ hr {
 
 .emphasis {
 	color: cadetblue;
-	font-family: 'Bree';
+	font-family: $bree-serif;
 }
 
 /* Used for captioning images */
