@@ -40,16 +40,6 @@
 .navbar-nav li.active a {
   color: $bright;
 }
-.icon-panel {
-  color: $light !important;
-  opacity: .8;
-  transition: .3s all;
-}
-.navbar:hover .icon-panel,
-.icon-panel:hover {
-  opacity: 1;
-  transition: .3s all;
-}
 /* Changes font size of gamepad to match other icon */
 .fa-gamepad {
 	font-size: 1.4rem;
