@@ -1,31 +1,5 @@
 ---
-layout: default
+layout: games
 ---
 
-  <div class="row">
-    <div class="col-md-4 hidden-sm hidden-xs">
-      {% include post-loop.html %}
-    </div>
-	  <article class="post col-md-8">
-    	<h1>{{ page.title }}</h1>
- 	   	{{ content }}
-      <p>{{ page.date | date: "%B %-d, %Y" }}<br>
-      <span class="post-meta">{% for tag in page.tags %}#{{ tag }} {% endfor %}</span></p>
-      <hr class="short-rule">
-      {% capture bio %}{% include bio.md %}{% endcapture %}
-      {{ bio | markdownify }}
-      <!-- <div class="pagination">
-      {% if page.previous %}
-        <a {% if page.next %}class="pagination-item"{% else %}class="pagination-item pagination-item-default"{% endif %} href="{{ page.previous.url }}">Previous Post</a>
-      {% endif %}
-      {% if page.next %}
-        <a class="pagination-item" href="{{ page.next.url }}">Next Post</a>
-      {% endif %}
-      </div> -->
-    </article>
-    <div class="col-md-4 visible-sm visible-xs">
-      {% for post in site.categories.games %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-      {% endfor %}
-    </div>
-  </div>
+{% include post-block.html %}

@@ -1,0 +1,15 @@
+{% if post %}
+  {% assign thePost = post %}
+{% else %}
+  {% assign thePost = page %}
+{% endif %}
+
+<article class="post col-md-8">
+	<h1><a href="{{ thePost.url }}">{{ thePost.title }}</a></h1>
+  {{ thePost.content }}
+  <p>{{ thePost.date | date: "%B %-d, %Y" }}<br>
+  <span class="post-meta">{% for tag in thePost.tags %}#{{ tag }} {% endfor %}</span></p>
+  <hr class="short-rule">
+  {% capture bio %}{% include bio.md %}{% endcapture %}
+  {{ bio | markdownify }}
+</article>
