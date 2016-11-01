@@ -27,13 +27,8 @@
     margin-right: -.5rem;
   }
 }
-.navbar-right {
-  float: right;
-  padding-right: 15px;
-}
 .navbar-nav li {
   margin-bottom: 0px;
-  display: inline-block;
 }
 .navbar-nav li a {
   padding-left: 0;
@@ -77,13 +72,13 @@
 }
 /* Changes font size of gamepad to match other icon */
 .fa-gamepad {
-	font-size: 1.5rem;
+	font-size: 1.4rem;
 	vertical-align: -8%;
 	margin-top: -10px;
 }
-/*.fa-th {
+.fa-th {
 	vertical-align: -10%;
-}*/
+}
 .navbar-transparent {
   background-color: transparent;
   transition: .5s all;

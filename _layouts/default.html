@@ -5,26 +5,20 @@
 
   <body>
 
-  		{% include header.html %}
+		{% include header.html %}
 
-      <div class="alert alert-info alert-dismissible" role="alert">
-        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <strong>Welcome!</strong> I design one interactive nugget each day.  Come back often to see more! My goal is to do 1000. :)
-      </div>
+    <div class="alert alert-info alert-dismissible" role="alert">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      <strong>Welcome!</strong> I design one interactive nugget each day.  Come back often to see more! My goal is to do 1000. :)
+    </div>
 
     <div class="container main-content">
-      <div id="loader">
-        <div class="spinner">
-          <div class="loader">Loading...</div>
-          <div class="loader loader-2">Loading...</div>
-        </div>
-      </div>
 
   	  {{ content }}
 
   	</div>
 
-  {% include footer.html %}
+    {% include footer.html %}
 
   </body>
 </html>

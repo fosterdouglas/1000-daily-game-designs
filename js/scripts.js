@@ -1,4 +1,7 @@
 var main = function() {
+
+  $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+  
   function toggleDiv(divId) {
     $("#"+divId).slideToggle();
   }
@@ -8,14 +11,14 @@ var main = function() {
     $('.navbar-brand, .navbar-left').toggle();
     $(this).toggleClass("flipped");
   });
-  
+
   // Remove widow words from project descriptions.
   $(function($) {
       $('.project p').each(function() {
           $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
       });
   });
-  
+
   // When the button is clicked
   $(document).on('click', '.modal-link', function (e) {
     e.preventDefault();
@@ -27,13 +30,13 @@ var main = function() {
     var body = $(modal).find('.modal-body');
     // Load the link to the modal-body of the associated modal
     $(body).load(link + ' #main-content');
-    
+
     state = {
       action: 'popup'
     };
     history.pushState(state, '', link);
   });
-  
+
   //Restore the URL when modal is closed
   $(document).on('hidden.bs.modal', function (e) {
     var currentstate = history.state;
@@ -41,7 +44,7 @@ var main = function() {
       history.back();
     }
   });
-  
+
   // Listen for history state changes
   window.addEventListener('popstate', function (e) {
     var state = history.state;
@@ -55,7 +58,7 @@ var main = function() {
       $(modal).modal('show');
     }
   });
-  
+
 }
 
 $(document).ready(main);

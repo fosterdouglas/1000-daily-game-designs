@@ -1,11 +1,13 @@
 <header>
+
   {% include panel.html %}
+
   <nav class="navbar" role="navigation" id="navbar">
     <div class="container">
       <div class="navbar-header">
         <a href="{{ site.baseurl }}/" class="navbar-brand">Foster Douglas</a>
       </div>
-      <div class="no-cf">
+      <div>
         <ul class="nav navbar-nav navbar-left">
           <li {% if page.url contains "/games" or page.home %}class="active"{% endif %}><a href="/"><i class="fa fa-gamepad"></i></a></li>
           <li {% if page.url contains '/projects' %}class="active"{% endif %}><a href="/projects"><i class="fa fa-th"></i></a></li>
