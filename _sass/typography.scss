@@ -102,3 +102,14 @@ hr {
 	color: rgb(181, 181, 181);
 	line-height: .8rem
 }
+
+.neutral {
+	color: $neutral;
+}
+.cap {
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.marbt75 {
+	margin-bottom: .75rem;
+}

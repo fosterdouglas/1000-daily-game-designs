@@ -5,7 +5,7 @@ description: Every day I create a game concept, design, system, or critique. My 
 home: true
 ---
 
-{% for post in site.categories.games | limit: 1 %}
+{% for post in site.categories.games limit: 1 %}
 
 {% include post-block.html %}
 
