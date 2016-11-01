@@ -1,0 +1,31 @@
+---
+layout: default
+title: Projects
+---
+
+<div class="row">
+  {% for post in site.categories.projects %}
+  <div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="project">
+      {% if post.status == "coming-soon" %}
+        <div class="overlay"><img src="/img/{{ post.status }}.png"></div>
+      {% endif %}
+      {% if post.image %}
+        <img src="/img/{{ post.image }}">
+      {% else %}
+        <img src="/img/placeholder.jpg">
+      {% endif %}
+      {% unless post.status == "coming-soon" %}
+      <div class="caption modal-link" data-link="{{ post.url }}" data-toggle="modal" data-target="#{{ post.title | remove: " " | remove: ":" }}Modal">
+        <div>
+          <p class="project-title">{{ post.title }}</p>
+          <p>{{ post.description }}</p>
+          <p class="project-tags">{% for tag in post.tags %}#{{ tag }} {% endfor %}</p>
+        </div>
+      </div>
+      {% endunless %}
+    </div>
+  </div>
+  {% include modal.html %}
+  {% endfor %}
+</div>
