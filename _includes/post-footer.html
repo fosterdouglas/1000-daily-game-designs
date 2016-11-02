@@ -1,0 +1,22 @@
+{% if page.home %}
+  {% for post in site.categories.games limit: 1 %}
+    {% assign thePost = post %}
+  {% endfor %}
+{% else %}
+  {% assign thePost = page %}
+{% endif %}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <a href="#" class="btn btn-primary"><span class="fa fa-gamepad"></span> All game posts</a>
+      </div>
+      <div class="col-md-8 text-center">
+        <a href="#" class="btn btn-default"><span class="fa fa-hand-peace-o"></span> I enjoyed this post!</a>
+        <a href="https://twitter.com/intent/tweet?text=Daily%20Game%20Design%20{{ thePost.title }}&url={{ thePost.url }}&via=_foster_stilp" class="btn btn-default"><span class="fa fa-twitter"></span> Share on Twitter!</a>
+        <a href="#" class="btn btn-default"><span class="fa fa-random"></span> See a random post!</a>
+      </div>
+    </div>
+  </div>
+</section>
