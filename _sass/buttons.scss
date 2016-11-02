@@ -5,15 +5,26 @@
 .btn {
   background-color: $white;
   position: relative;
-  font-size: 1rem;
+  font-size: .9rem;
   font-family: $bree-serif;
   border-width: 2px;
-  border-radius: 10px;
+  border-radius: 7px;
+  // padding-left: 30px;
+  // padding-right: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+@media(min-width: 1200px) {
+  .btn {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
 }
 .btn:hover {
-  background-color: $white;
   border-width: 2px;
-  opacity: .7;
+}
+.btn .fa {
+  margin-right: 5px;
 }
 .btn:active {
   -webkit-box-shadow: none;
@@ -25,7 +36,8 @@
 }
 .btn-default:hover {
   border-color: $neutral;
-  color: $neutral;
+  background-color: $neutral;
+  color: $white;
 }
 .btn-primary {
   border-color: $bright;
@@ -33,9 +45,9 @@
   font-weight: bold;
 }
 .btn-primary:hover {
-  background-color: $white;
+  background-color: $bright;
   border-color: $bright;
-  color: $bright;
+  color: $white;
 }
 /* Makes a full-width button */
 .btn-block {
