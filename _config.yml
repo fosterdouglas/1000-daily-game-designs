@@ -5,4 +5,4 @@ title: "Foster Douglas"
 markdown: kramdown
 permalink: /:categories/:title/
 gems:
-  - jemoji
+- jemoji
