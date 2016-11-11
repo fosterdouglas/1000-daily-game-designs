@@ -4,3 +4,13 @@ $light: #DFDFDF;
 $white: #FFF;
 
 $default-text: $neutral;
+
+.bg-neutral {
+  background-color: $neutral;
+}
+.bg-bright {
+  background-color: $bright;
+}
+.bright {
+  color: $bright;
+}
