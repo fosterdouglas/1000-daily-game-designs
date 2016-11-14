@@ -7,17 +7,24 @@ huehue.init = function() {
   console.log("huehue!");
   huehue.randomButton();
   huehue.alertTracking();
+  huehue.archiveFilter();
 }
 
 huehue.posts = [
   {% for post in site.categories.games %}
-  "{{ post.url }}",
+  {
+    url: "{{ post.url }}",
+    date: {
+      year: "{{ post.date | date: '%Y' }}",
+      month: "{{ post.date | date: '%-m' }}"
+    }
+  },
   {% endfor %}
 ];
 
 huehue.randomButton = function() {
   var getRandomPost = function() {
-    var postUrl = huehue.posts[Math.floor(Math.random()*huehue.posts.length)];
+    var postUrl = huehue.posts[Math.floor(Math.random()*huehue.posts.length)].url;
     return postUrl;
   };
 
@@ -36,6 +43,39 @@ huehue.alertTracking = function() {
   $('#main-alert').on('closed.bs.alert', function () {
     Cookies.set('fdalert', 'dismissed', { expires: 7 });
 	});
+}
+
+huehue.archiveFilter = function() {
+
+  function filterPostsByYearAndMonth(filter) {
+    $(".filter-button").removeClass("bg-white bright").addClass("bg-transparent white");
+    $(".filter-button[data-year='" + filter.year + "']").removeClass("bg-transparent white").addClass("bg-white bright");
+    $(".filter-button[data-month='" + filter.month + "']").removeClass("bg-transparent white").addClass("bg-white bright");
+    var selectedPosts = $("[data-year='" + filter.year + "'][data-month='" + filter.month + "']");
+    $(".post-list-item").hide();
+    selectedPosts.show();
+  }
+
+  var mostRecentPost = huehue.posts[0];
+
+  huehue.filter = {
+    year: mostRecentPost.date.year,
+    month: mostRecentPost.date.month
+  };
+
+  filterPostsByYearAndMonth(huehue.filter);
+
+  $(".filter-button").click(function() {
+
+    if ($(this).data("year")) {
+      huehue.filter.year = $(this).data("year");
+    } else if ($(this).data("month")) {
+      huehue.filter.month = $(this).data("month");
+    }
+
+    filterPostsByYearAndMonth(huehue.filter);
+  });
+
 }
 
 var main = function() {
