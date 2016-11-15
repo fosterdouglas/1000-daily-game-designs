@@ -7,7 +7,9 @@ huehue.init = function() {
   console.log("huehue!");
   huehue.randomButton();
   huehue.alertTracking();
-  huehue.archiveFilter();
+  if ($("body").hasClass("archive")) {
+    huehue.archiveFilter();
+  }
 }
 
 huehue.posts = [
@@ -47,33 +49,53 @@ huehue.alertTracking = function() {
 
 huehue.archiveFilter = function() {
 
-  function filterPostsByYearAndMonth(filter) {
+  // If month isn't available in current year, disable the button
+  // If year is selected but current month isn't available... ??? show "no posts?" go to closest posts in that year??
+  // Stop extra back button on direct /archive link
+  huehue.filter = {
+    year: null,
+    month: null
+  };
+
+  function updateFilterUrl(filter) {
+    if (history.pushState) {
+      history.pushState({}, null, "?year=" + filter.year + "&month=" + filter.month);
+    }
+  }
+
+  function updateView(filter) {
     $(".filter-button").removeClass("bg-white bright").addClass("bg-transparent white");
-    $(".filter-button[data-year='" + filter.year + "']").removeClass("bg-transparent white").addClass("bg-white bright");
-    $(".filter-button[data-month='" + filter.month + "']").removeClass("bg-transparent white").addClass("bg-white bright");
+    $(".filter-button[data-year='" + filter.year + "'], .filter-button[data-month='" + filter.month + "']").removeClass("bg-transparent white").addClass("bg-white bright");
     var selectedPosts = $("[data-year='" + filter.year + "'][data-month='" + filter.month + "']");
     $(".post-list-item").hide();
     selectedPosts.show();
   }
 
+  function updateFilterObject(year, month) {
+    huehue.filter.year = year || huehue.filter.year;
+    huehue.filter.month = month || huehue.filter.month;
+  }
+
+  function filterPosts(year, month, back) {
+    updateFilterObject(year, month);
+    updateView(huehue.filter);
+    if (!back) {
+      updateFilterUrl(huehue.filter);
+    }
+  }
+
   var mostRecentPost = huehue.posts[0];
 
-  huehue.filter = {
-    year: mostRecentPost.date.year,
-    month: mostRecentPost.date.month
-  };
-
-  filterPostsByYearAndMonth(huehue.filter);
+  filterPosts(
+    getUrlParameter("year") || mostRecentPost.date.year, getUrlParameter("month") || mostRecentPost.date.month
+  );
 
   $(".filter-button").click(function() {
+    filterPosts($(this).data("year"), $(this).data("month"));
+  });
 
-    if ($(this).data("year")) {
-      huehue.filter.year = $(this).data("year");
-    } else if ($(this).data("month")) {
-      huehue.filter.month = $(this).data("month");
-    }
-
-    filterPostsByYearAndMonth(huehue.filter);
+  $(window).on("popstate", function(e) {
+    filterPosts(getUrlParameter("year"), getUrlParameter("month"), true);
   });
 
 }
