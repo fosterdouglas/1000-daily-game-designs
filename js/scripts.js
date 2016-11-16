@@ -51,15 +51,27 @@ huehue.archiveFilter = function() {
 
   // If month isn't available in current year, disable the button
   // If year is selected but current month isn't available... ??? show "no posts?" go to closest posts in that year??
-  // Stop extra back button on direct /archive link
+
   huehue.filter = {
     year: null,
     month: null
   };
 
+  var firstState = true;
+  var mostRecentPost = huehue.posts[0];
+
   function updateFilterUrl(filter) {
     if (history.pushState) {
-      history.pushState({}, null, "?year=" + filter.year + "&month=" + filter.month);
+      var newState = "?year=" + filter.year + "&month=" + filter.month;
+      if (firstState) {
+        history.replaceState({}, null, newState);
+        firstState = false;
+        console.log("state replaced");
+      } else {
+        history.pushState({}, null, newState);
+        console.log("new state pushed");
+      }
+
     }
   }
 
@@ -83,8 +95,6 @@ huehue.archiveFilter = function() {
       updateFilterUrl(huehue.filter);
     }
   }
-
-  var mostRecentPost = huehue.posts[0];
 
   filterPosts(
     getUrlParameter("year") || mostRecentPost.date.year, getUrlParameter("month") || mostRecentPost.date.month
