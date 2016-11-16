@@ -8,7 +8,7 @@
 	<h1><a href="{{ thePost.url }}">{{ thePost.title }}</a></h1>
   {{ thePost.content }}
   <p>{{ thePost.date | date: "%B %-d, %Y" }}<br>
-  <span class="post-meta">{% for tag in thePost.tags %}#{{ tag }} {% endfor %}</span></p>
+  <span class="post-meta light">{% for tag in thePost.tags %}#{{ tag }} {% endfor %}</span></p>
   <hr class="short-rule">
   <div class="measure">
     {% capture bio %}{% include bio.md %}{% endcapture %}
