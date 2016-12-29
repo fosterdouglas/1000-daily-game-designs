@@ -1,4 +1,5 @@
-<div class="pv4">
+<div class="pb3 ph3">
+  <hr class="short-rule">
   <h3 class="ttu tracked mb3 neutral"><span style="margin-right: 5px;" class="fa fa-heart-o"></span> Recent Favorites</h3>
   {% assign favoritePosts = site.categories.games | where:'favorite', true %}
   {% for post in favoritePosts limit: 7 %}

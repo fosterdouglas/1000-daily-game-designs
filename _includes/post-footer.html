@@ -6,17 +6,9 @@
   {% assign thePost = page %}
 {% endif %}
 
-<section class="section pv3">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-        <a href="/archive" class="btn btn-primary"><span class="fa fa-gamepad"></span> All game posts</a>
-      </div>
-      <div class="col-md-8 text-center">
-        <!-- <a href="#" class="btn btn-default"><span class="fa fa-hand-peace-o"></span> I enjoyed this post!</a> -->
-        <a target="_blank" href="https://twitter.com/intent/tweet?text=Daily%20Game%20Design%20{{ thePost.title }}&url={{ thePost.url }}&via={{ site.data.bio.social.twitter }}" class="btn btn-default"><span class="fa fa-twitter"></span> Share on Twitter!</a>
-        <button id="random-button" class="btn btn-default"><span class="fa fa-random"></span> See a random post!</button>
-      </div>
-    </div>
-  </div>
+<section class="pa3 bg-white bt b--light z-100">
+  <a href="/archive" class="db br3 bw1 bree tc bright b ba b--bright pa2 mb2"><span class="fa fa-gamepad"></span> All game posts</a>
+  <!-- <a href="#" class="btn btn-default"><span class="fa fa-hand-peace-o"></span> I enjoyed this post!</a> -->
+  <a target="_blank" href="https://twitter.com/intent/tweet?text=Daily%20Game%20Design%20{{ thePost.title }}&url={{ thePost.url }}&via={{ site.data.bio.social.twitter }}" class="db br3 bw1 bree tc neutral b ba b--neutral pa2"><span class="fa fa-twitter"></span> Share this post on Twitter!</a>
+  <!-- <button id="random-button" class="btn btn-default"><span class="fa fa-random"></span> See a random post!</button> -->
 </section>

@@ -1,15 +1,24 @@
 <header>
 
   {% include panel.html %}
+  <nav>
+    <h1 class="bree f4 bb pa3 mb0 b--light"><a class="neutral" href="/">Foster Douglas <span class="sr-only">(Home)</span></a></h1>
+    <ul class="list pa3 mb0">
+      <li class="dib ma0 mr2">
+        <a class="light {% if page.url contains '/games' or page.home or page.url contains '/archive' %}bright{% endif %}" href="/"><i class="fa fa-gamepad"></i><span class="sr-only">Game Posts</span></a>
+      </li>
+      <li class="dib ma0">
+        <a class="light {% if page.url contains '/projects' %}fs-blue{% endif %}" href="/projects"><i class="fa fa-th"></i><span class="sr-only">Projects</span></a>
+      </li>
+    </ul>
+  </nav>
 
-  <nav class="navbar" role="navigation" id="navbar">
+
+  <!-- <nav class="navbar" role="navigation" id="navbar">
     <div class="container">
-      <div class="navbar-header">
-        <a href="{{ site.baseurl }}/" class="navbar-brand">Foster Douglas</a>
-      </div>
       <ul class="menu nav navbar-nav navbar-left">
-        <li {% if page.url contains "/games" or page.home or page.url contains "/archive" %}class="active"{% endif %}><a href="/"><i class="fa fa-gamepad"></i></a></li>
-        <li {% if page.url contains '/projects' %}class="active"{% endif %}><a href="/projects"><i class="fa fa-th"></i></a></li>
+        <li {% if page.url contains "/games" or page.home or page.url contains "/archive" %}class="active"{% endif %}><a href="/"><i class="fa fa-gamepad"></i><span class="sr-only">Game Posts</span></a></li>
+        <li {% if page.url contains '/projects' %}class="active"{% endif %}><a href="/projects"><i class="fa fa-th"></i><span class="sr-only">Projects</span></a></li>
       </ul>
 	    <ul class="menu nav navbar-nav navbar-right">
 	    	<li>
@@ -17,5 +26,5 @@
 	    	</li>
 	    </ul>
     </div>
-  </nav>
+  </nav> -->
 </header>

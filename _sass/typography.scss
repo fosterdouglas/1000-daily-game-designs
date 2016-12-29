@@ -48,17 +48,17 @@ h1 {
 h2 {
   font-size: 1.2rem;
 }
-a {
-	color: $bright;
-	border-bottom: 1px solid transparent;
-  transition: .3s all;
-}
-a:hover {
-  color: $bright;
-	border-bottom: 1px solid $bright;
-  text-decoration: none;
-  transition: .3s all;
-}
+// a {
+// 	color: $bright;
+// 	border-bottom: 1px solid transparent;
+//   transition: .3s all;
+// }
+// a:hover {
+//   color: $bright;
+// 	border-bottom: 1px solid $bright;
+//   text-decoration: none;
+//   transition: .3s all;
+// }
 ol li,
 ul li {
   margin-top: 0px;
@@ -104,4 +104,7 @@ hr {
 	width: 75%;
 	color: rgb(181, 181, 181);
 	line-height: .8rem
+}
+.bree {
+	font-family: $bree-serif;
 }

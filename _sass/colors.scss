@@ -2,6 +2,7 @@ $neutral: #9B9B9B;
 $bright: #F5A623;
 $light: #DFDFDF;
 $white: #FFF;
+$fs-blue: #4BB7D7;
 
 $default-text: $neutral;
 
@@ -16,6 +17,12 @@ $default-text: $neutral;
 }
 .light {
   color: $light;
+}
+.b--light {
+  border-color: $light;
+}
+.fs-blue {
+  color: $fs-blue;
 }
 .bright {
   color: $bright;
