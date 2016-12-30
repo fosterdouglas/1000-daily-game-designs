@@ -48,17 +48,15 @@ h1 {
 h2 {
   font-size: 1.2rem;
 }
-// a {
-// 	color: $bright;
-// 	border-bottom: 1px solid transparent;
-//   transition: .3s all;
-// }
-// a:hover {
-//   color: $bright;
-// 	border-bottom: 1px solid $bright;
-//   text-decoration: none;
-//   transition: .3s all;
-// }
+a {
+	color: $bright;
+  transition: .3s all;
+}
+a:hover {
+  color: $bright;
+  text-decoration: none;
+  transition: .3s all;
+}
 ol li,
 ul li {
   margin-top: 0px;
@@ -75,8 +73,6 @@ hr {
 	border-top: 1px solid $light;
 	border-bottom: none;
 	border-left: none;
-	margin-top: 40px;
-	margin-bottom: 40px;
 }
 .short-rule {
 	max-width: 300px;

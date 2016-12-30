@@ -1,5 +1,9 @@
-<div class="pb3 ph3">
-  <hr class="short-rule">
+<div class="ph3 pv4 bt b--light">
+  <a target="_blank" href="https://twitter.com/intent/tweet?text=Daily%20Game%20Design%20{{ thePost.title }}&url={{ thePost.url }}&via={{ site.data.bio.social.twitter }}" class="db br3 bw1 bree tc neutral b ba b--neutral pa2"><span class="fa fa-twitter"></span> Share this post on Twitter!</a>
+</div>
+
+<div class="pb3 ph3 bt b--light">
+
   <h3 class="ttu tracked mb3 neutral"><span style="margin-right: 5px;" class="fa fa-heart-o"></span> Recent Favorites</h3>
   {% assign favoritePosts = site.categories.games | where:'favorite', true %}
   {% for post in favoritePosts limit: 7 %}
@@ -16,5 +20,3 @@
   {% endfor %}
 
 </div>
-
-<!-- <p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p> -->

@@ -7,9 +7,11 @@ title: Projects
   <h1 class="fs-blue ttu tracked">Recent Projects</h1>
   <div class="pl3">
   {% for post in site.categories.projects %}
-    <h2 class="light">{{ post.title }}</h2>
-    <!-- <p class="light">{{ post.description }}</p>
-    {{ post.content }} -->
+  <div class="mb4">
+    <h2 class="neutral mt0">{{ post.title }}</h2>
+    <p>{{ post.description }}</p>
+    {{ post.content }}
+  </div>
   {% endfor %}
   </div>
 </div>

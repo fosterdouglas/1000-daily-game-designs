@@ -1,8 +1,9 @@
-<header>
-
-  {% include panel.html %}
+<header {% if page.url contains '/about' %}class="dn"{% endif %}>
   <nav>
-    <h1 class="bree f4 bb pa3 mb0 b--light"><a class="neutral" href="/">Foster Douglas <span class="sr-only">(Home)</span></a></h1>
+    <div class="dt pa3 w-100 bb b--light">
+      <h1 class="dtc bree w-50 f4 mb0"><a class="neutral" href="/">Foster Douglas <span class="sr-only">(Home)</span></a></h1>
+      <a class="dtc w-50 tr neutral" href="/about"><i class="fa fa-caret-square-o-down icon-panel"></i> About</a>
+    </div>
     <ul class="list pa3 mb0">
       <li class="dib ma0 mr2">
         <a class="light {% if page.url contains '/games' or page.home or page.url contains '/archive' %}bright{% endif %}" href="/"><i class="fa fa-gamepad"></i><span class="sr-only">Game Posts</span></a>
@@ -12,19 +13,4 @@
       </li>
     </ul>
   </nav>
-
-
-  <!-- <nav class="navbar" role="navigation" id="navbar">
-    <div class="container">
-      <ul class="menu nav navbar-nav navbar-left">
-        <li {% if page.url contains "/games" or page.home or page.url contains "/archive" %}class="active"{% endif %}><a href="/"><i class="fa fa-gamepad"></i><span class="sr-only">Game Posts</span></a></li>
-        <li {% if page.url contains '/projects' %}class="active"{% endif %}><a href="/projects"><i class="fa fa-th"></i><span class="sr-only">Projects</span></a></li>
-      </ul>
-	    <ul class="menu nav navbar-nav navbar-right">
-	    	<li>
-	    		<a href="#"><i class="fa fa-caret-square-o-down icon-panel"></i></a>
-	    	</li>
-	    </ul>
-    </div>
-  </nav> -->
 </header>
