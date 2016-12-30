@@ -1,11 +1,13 @@
-{% if post %}
-  {% assign thePost = post %}
+{% if page.home %}
+  {% for post in site.categories.games limit: 1 %}
+    {% assign thePost = post %}
+  {% endfor %}
 {% else %}
   {% assign thePost = page %}
 {% endif %}
 
-<article>
-	<h1 class="bg-bright pa3"><a class="white" href="{{ thePost.url }}">{{ thePost.title }}</a></h1>
+<article class="fr-ns w-70-ns">
+	<h1 class="bg-bright bg-transparent-ns pa3 pb0-ns"><a class="white bright-ns" href="{{ thePost.url }}">{{ thePost.title }}</a></h1>
   <div class="ph3">
     {{ thePost.content }}
     <p class="mb0">{{ thePost.date | date: "%B %-d, %Y" }}</p>

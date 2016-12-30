@@ -27,3 +27,11 @@ $default-text: $neutral;
 .bright {
   color: $bright;
 }
+@media(min-width: 30em) {
+  .bright-ns {
+    color: $bright;
+  }
+  .bg-transparent-ns {
+    background-color: transparent;
+  }
+}
