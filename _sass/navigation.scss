@@ -2,129 +2,58 @@
  * Navigation
  */
 
-/* Bracket link hover effect  */
-.bracket a::before,
-.bracket a::after {
-	display: inline-block;
-	opacity: 0;
-	-webkit-transition: -webkit-transform 0.4s, opacity 0.3s;
-	   -moz-transition: -moz-transform 0.4s, opacity 0.3s;
-	        transition: transform 0.4s, opacity 0.3s;
-}
-.bracket a::before {
-	margin-right: 7px;
-	content: '(';
-	-webkit-transform: translateX(7px);
-	-moz-transform: translateX(7px);
-	transform: translateX(7px);
-  vertical-align: 5%;
-}
-.bracket a::after {
-	margin-left: 7px;
-	content: ')';
-	-webkit-transform: translateX(-7px);
-	-moz-transform: translateX(-7px);
-	transform: translateX(-7px);
-  vertical-align: 5%;
-}
-.bracket a:hover::before,
-.bracket a:hover::after,
-.bracket a:focus::before,
-.bracket a:focus::after,
-.bracket li.active a::before,
-.bracket li.active a::after {
-	opacity: 1;
-	-webkit-transform: translateX(0px);
-	-moz-transform: translateX(0px);
-	transform: translateX(0px);
-}
 .navbar {
-  background: rgba(23, 165, 204, .80);
-  border: 0px;
+	background-color: $white;
+  border-bottom: 1px solid $light;
   border-radius: 0px;
   transition: .3s all;
-  font-family: 'Bree', sans-serif;
+  // font-family: 'Bree', sans-serif;
   font-size: 1rem;
-}
-.navbar:hover {
-  cursor: pointer;
+	margin-bottom: 0;
 }
 .navbar .navbar-brand {
-  color: #FFF;
-  opacity: .8;
+  color: $neutral;
   font-weight: bold;
   border-bottom: 0px;
-  transition: .3s all;
   font-size: 1.1rem;
-}
-@media (min-width: 992px) {
-  .navbar .navbar-brand {
-    margin-right: -.5rem;
-  }
-}
-.navbar-nav {
-  display: inline-block;
-  padding-top:1px;
-}
-.navbar-right {
-  float: right;
-  padding-right: 15px;
 }
 .navbar-nav li {
   margin-bottom: 0px;
-  display: inline-block;
 }
 .navbar-nav li a {
-  padding-left: 0;
   padding-right: 0;
 }
 @media (min-width: 768px) {
   .navbar-nav li a {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
-}
-.navbar-nav a,
-.navbar-toggle i {
-  border-bottom: 0px;
-  color: #FFF;
-  opacity: .8;
-  font-size: 1rem;
-  transition: .3s all;
 }
 .nav>li>a:hover, .nav>li>a:focus, .navbar-toggle:hover i {
   background-color: initial;
-  color: #FFF;
-  opacity: 1;
-  transition: .3s all;
 }
 .navbar-nav li.active a {
-  color: #fff;
-}
-.navbar a.navbar-brand:hover {
-  opacity: 1;
-  transition: .3s all;
-}
-.icon-panel {
-  color: #FFF !important;
-  opacity: .8;
-  transition: .3s all;
-}
-.navbar:hover .icon-panel,
-.icon-panel:hover {
-  opacity: 1;
-  transition: .3s all;
+  color: $bright;
 }
 /* Changes font size of gamepad to match other icon */
 .fa-gamepad {
-	font-size: 1.5rem;
+	font-size: 1.4rem;
 	vertical-align: -8%;
 	margin-top: -10px;
 }
-/*.fa-th {
+.fa-th {
 	vertical-align: -10%;
-}*/
+}
 .navbar-transparent {
   background-color: transparent;
   transition: .5s all;
+}
+
+.menu a {
+	color: $light;
+	border-bottom: 0; // Remove default link border
+}
+.menu a:hover {
+	color: $bright;
+	border-bottom: 0;
 }

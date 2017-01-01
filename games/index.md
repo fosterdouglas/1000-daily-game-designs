@@ -1,5 +1,0 @@
----
-layout: games
-title: Games
-description: Every day I create a game concept, design, system, or critique. My goal is to make 1000.
----

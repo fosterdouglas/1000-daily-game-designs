@@ -1,21 +1,18 @@
-<header>
-  {% include panel.html %}
-  <nav class="navbar navbar-fixed-top" role="navigation" id="navbar">
-    <div class="container">
-      <div class="navbar-header bracket no-cf">
-        <a href="{{ site.baseurl }}/" class="navbar-brand">Foster Douglas</a>
-      </div>
-      <div class="no-cf">
-        <ul class="nav navbar-nav navbar-left bracket">
-          <li {% if page.home or page.category == 'projects' %}class="active"{% endif %}><a href="/"><i class="fa fa-th"></i></a></li>
-          <li {% if page.url contains "/games" %}class="active"{% endif %}><a href="/games"><i class="fa fa-gamepad"></i></a></li>
-        </ul>
-		    <ul class="nav navbar-nav navbar-right">
-		    	<li>
-		    		<a href="#"><i class="fa fa-caret-square-o-down icon-panel"></i></a>
-		    	</li>
-		    </ul>
-      </div>
+<header {% if page.url contains '/about' %}class="dn"{% endif %}>
+  <nav>
+    <div class="relative bb-ns b--light">
+      <h1 class="dib-ns pa3 bb b--light bn-ns bree f4 mb0"><a class="neutral" href="/">Foster Douglas <span class="sr-only">(Home)</span></a></h1>
+      <ul class="dib-ns list pa3 mb0">
+        <li class="dib ma0 mr2">
+          <a class="light {% if page.url contains '/games' or page.home or page.url contains '/archive' %}bright{% endif %}" href="/"><i class="fa fa-gamepad"></i><span class="sr-only">Game Posts</span></a>
+        </li>
+        <li class="dib ma0">
+          <a class="light {% if page.url contains '/projects' %}fs-blue{% endif %}" href="/projects"><i class="fa fa-th"></i><span class="sr-only">Projects</span></a>
+        </li>
+        <li class="pa3 v-mid absolute top-0 right-0 dib ma0 mt1">
+          <a class="tr neutral" href="/about"><i class="fa fa-caret-square-o-down icon-panel mr1"></i><span class="sr-only">About</span></a>
+        </li>
+      </ul>
     </div>
   </nav>
 </header>

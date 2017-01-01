@@ -1,25 +1,22 @@
-<div class="panel-group" id="accordion" role="tablist">
-  {% for post in site.categories.games %}
-  {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
-  {% capture nextmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
-  {% if month != nextmonth %}
-  {% if forloop.index != 1 %}</div></div></div>{% endif %}
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab">
-      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#{{ month }}">{{ post.date | date: '%B %Y' }}</h4>
-    </div>
-    {% if include.root %}
-    <div id="{{ month }}" {% capture pagemonth %}{{ page.date | date: '%m%Y' }}{% endcapture %}{% capture sitemonth %}{{ site.time | date: '%m%Y' }}{% endcapture %}{% if pagemonth == month or sitemonth == month %}class="panel-collapse collapse in"{% else %}class="panel-collapse collapse"{% endif %} role="tabpanel">
-    {% else %}
-    <div id="{{ month }}" {% capture pagemonth %}{{ page.date | date: '%m%Y' }}{% endcapture %}{% capture sitemonth %}{{ site.time | date: '%m%Y' }}{% endcapture %}{% if pagemonth == month %}class="panel-collapse collapse in"{% else %}class="panel-collapse collapse"{% endif %} role="tabpanel">
-    {% endif %}
-      <div class="panel-body">
-  {% endif %}
-        <p><a {% if page.url == post.url %}class="active"{% endif %} href="{{ post.url }}">{{ post.title }}</a></p>
-  {% endfor %}
-      </div>
-    </div>
-  </div>
+<div class="dn-ns ph3 ph0-ns pv4 bt b--light">
+  {% include post-footer-buttons.html %}
 </div>
 
-<p>Subscribe via <a href="/atom.xml">RSS <i class="fa fa-rss"></i></a></p>
+<div class="fl-ns w-30-ns pb3 ph3 bt b--light bn-ns">
+
+  <h3 class="ttu tracked mb3 neutral"><span style="margin-right: 5px;" class="fa fa-heart-o"></span> Recent Favorites</h3>
+  {% assign favoritePosts = site.categories.games | where:'favorite', true %}
+  {% for post in favoritePosts limit: 7 %}
+    <ul class="menu list-unstyled">
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    </ul>
+  {% endfor %}
+
+  <h3 class="ttu tracked mb3 neutral"><span style="margin-right: 5px;" class="fa fa-calendar"></span> Most Recent Posts</h3>
+  {% for post in site.categories.games limit: 6 %}
+    <ul class="menu list-unstyled">
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    </ul>
+  {% endfor %}
+
+</div>

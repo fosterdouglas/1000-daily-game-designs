@@ -1,27 +1,17 @@
 ---
 layout: default
 ---
-  
-  <div class="row">
-    <div class="col-md-4 col-xs-12">
-      <div class="card">
-        <div class="post-meta">
-          <h1>{{ page.title }}</h1>
-          {% if page.role %}
-          <h3>{{ page.role }}</h3>
-          {% endif %}
-          <p>{{ page.description }}</p>
-          <ul>{% for tag in page.tags %}<li>#{{ tag | remove: ","}}</li>{% endfor %}</ul>
-        </div>
-      </div>
-      <a class="btn btn-primary btn-lg hidden-sm hidden-xs" href="/"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp;&nbsp;See all projects</a>
-    </div>
-    <div class="post col-md-8 col-xs-12">
-      <div class="card">
-        <div id="main-content">
-          {{ content }}
-        </div>
-      </div>
-      <a class="btn btn-primary btn-lg btn-block hidden-md hidden-lg" href="/"><span class="glyphicon glyphicon-arrow-left"></span>&nbsp;&nbsp;See all projects</a>
+
+<div class="mw8 center cf pa3">
+  <div class="fl-ns w-30-ns pr3">
+    <div class="ba b--light pa3 br3 mb3">
+      <h1 class="fs-blue">{{ page.title }}</h1>
+      <h2 class="neutral cronos f5">{{ page.description }}</h2>
     </div>
   </div>
+  <div class="fl-ns w-70-ns">
+    <div class="ba b--light pa3 br3 mb3">
+      {{ content }}
+    </div>
+  </div>
+</div>

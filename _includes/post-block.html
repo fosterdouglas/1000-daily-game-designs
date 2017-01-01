@@ -1,0 +1,21 @@
+{% if page.home %}
+  {% for post in site.categories.games limit: 1 %}
+    {% assign thePost = post %}
+  {% endfor %}
+{% else %}
+  {% assign thePost = page %}
+{% endif %}
+
+<article class="fr-ns w-70-ns">
+	<h1 class="bg-bright bg-transparent-ns pa3 ph0-ns pb0-ns"><a class="white bright-ns" href="{{ thePost.url }}">{{ thePost.title }}</a></h1>
+  <div class="ph3 ph0-ns">
+    {{ thePost.content }}
+    <p class="mb0">{{ thePost.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta light mb5">{% for tag in thePost.tags %}#{{ tag }} {% endfor %}</p>
+    <hr class="mv4 short-rule">
+    <div class="mv4 measure">
+      {% capture bio %}{% include bio.md %}{% endcapture %}
+      {{ bio | markdownify }}
+    </div>
+  </div>
+</article>

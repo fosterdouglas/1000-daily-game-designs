@@ -5,7 +5,11 @@
 .tooltip-inner {
   background-color: #FFF;
   color: #7E7E7E;
+  font-weight: bold;
 }
 .tooltip.bottom .tooltip-arrow {
   border-bottom-color: #FFF;
+}
+.tooltip.right .tooltip-arrow {
+  border-right-color: #FFF;
 }

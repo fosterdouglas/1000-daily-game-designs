@@ -1,32 +1,13 @@
-<footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-10">
-        <p>&copy; {{ site.time | date: '%Y' }} Foster Douglas.</p>
-        <p>Site developed by my creative partner and general web wizard, <a href="http://kevinmcgillivray.net">Kevin</a>.
-      </div>
-      <div class="col-md-2">
-        <p class="social pull-right">
-          <a href="http://twitter.com/foster_stilp"><i class="fa fa-twitter"></i></a>
-          <a href="mailto:fosterstilp@me.com"><i class="fa fa-envelope"></i></a>
-        </p>
-      </div>
-    </div>
-  </div>
-</footer>
+<div class="fixed bottom-0 w-100 {% if page.url contains '/about' %}dn{% endif %}">
+  {% if page.layout == "project" or page.home or page.url contains "/games" %}
+    {% include post-footer.html %}
+  {% endif %}
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-<script src="{{ site.baseurl }}/js/scripts.js"></script>
-<script src="{{ site.baseurl }}/js/holder.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-    $("body").tooltip({ selector: '[data-toggle=tooltip]' });
-});
-</script>
-<script type="text/javascript">
-$(window).load(function() {
-  $('#loader').fadeOut();
-});
-</script>
+  <footer class="pa3 cf bg-white bt b--light">
+    <p class="fl w-50 mb0">&copy; {{ site.time | date: '%Y' }} Foster Douglas. <span class="dn di-ns">Site designed by me and developed by a <a href="http://kevinmcgillivray.net">wizard</a>.</span></p>
+    <div class="fl w-50 tr">
+      <a class="dim {% if page.url contains '/projects' %}fs-blue{% else %}bright{% endif %} mr2" href="mailto:{{ site.data.bio.social.email }}"><i class="fa fa-envelope"></i></a>
+      <a class="dim {% if page.url contains '/projects' %}fs-blue{% else %}bright{% endif %}" href="http://twitter.com/{{ site.data.bio.social.twitter }}"><i class="fa fa-twitter"></i></a>
+    </div>
+  </footer>
+</div>

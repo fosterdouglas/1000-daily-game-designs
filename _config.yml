@@ -1,6 +1,8 @@
 # Site settings
-title: "( Foster Douglas )"
+title: "Foster Douglas"
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+gems:
+- jemoji

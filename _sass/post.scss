@@ -15,40 +15,16 @@
   margin-bottom: .5rem;
 }
 
-/* Alert Warning override Restyling */
-
-.alert {
-	padding: 13px;
-}
-
-.alert-warning {
-	color:white;
-	background-color: rgb(153, 209, 224);
-	border-color:#2BA6CB;
-}
-
-.alert .close {
-	opacity: .8;
-	line-height: 1.3;
-	
-}
-
-.alert-dismissible .close {
-	right: 0px;
-	
-}
-
 /* All of the extra data about the post. Date, tags, etc. */
 .post-meta {
   font-size: .85rem;
-  color: rgb(150, 150, 150);
   margin-bottom: .5rem;
 }
 .post-meta h3 {
   margin-top: 0;
   font-weight: normal;
   font-size: .85rem;
-  color: #F8A17B;
+  color: $bright
 }
 .post-meta ul {
   list-style: none;

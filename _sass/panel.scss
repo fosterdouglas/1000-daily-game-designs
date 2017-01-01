@@ -19,7 +19,7 @@
   opacity: 1;
 }
 .panel-heading:hover .panel-title a {
-  color: #F8A17B;
+  color: $bright;
   opacity: 1;
 }
 .panel-body {
@@ -29,9 +29,9 @@
 }
 .panel-body .active {
   font-weight: bold;
-  color: #F8A17B;
+  color: $bright;
 }
 
 .panel-body p {
-	margin-bottom: .5rem;	
+	margin-bottom: .5rem;
 }

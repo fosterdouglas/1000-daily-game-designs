@@ -2,24 +2,16 @@
 <html lang="en-us">
 
   {% include head.html %}
-	
-  <body>
-			
-  		{% include header.html %}
-      
-    <div class="container main-content">
-      <div id="loader">
-        <div class="spinner">
-          <div class="loader">Loading...</div>
-          <div class="loader loader-2">Loading...</div>
-        </div>
-      </div>
-  	
-  	  {{ content }}
-			
-  	</div>
 
-  {% include footer.html %}
+  <body class="{% if page.url contains '/archive' %}pb4{% elsif page.url contains '/about' %}pb0{% else %}pb6{% endif %}">
+
+		{% include header.html %}
+
+	  {{ content }}
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
 
   </body>
 </html>
