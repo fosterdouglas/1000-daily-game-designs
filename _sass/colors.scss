@@ -12,7 +12,13 @@ $default-text: $neutral;
 .bg-bright {
   background-color: $bright;
 }
+.bg-light {
+  background-color: $light;
+}
 .neutral {
+  color: $neutral;
+}
+.hover-neutral:hover {
   color: $neutral;
 }
 .light {

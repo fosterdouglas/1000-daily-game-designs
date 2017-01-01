@@ -1,6 +1,6 @@
 <div class="fixed bottom-0 w-100 {% if page.url contains '/about' %}dn{% endif %}">
-  {% if page.url contains '/games' or page.home %}
-  {% include post-footer.html %}
+  {% if page.layout == "project" or page.home or page.url contains "/games" %}
+    {% include post-footer.html %}
   {% endif %}
 
   <footer class="pa3 cf bg-white bt b--light">
