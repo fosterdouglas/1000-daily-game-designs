@@ -6,17 +6,17 @@
   {% assign thePost = page %}
 {% endif %}
 
-<section class="bg-white bt-ns b--light cf">
+<section class="bg-white bt-l b--light cf">
   <div class="mw8 center cf">
-    <div class="fl-ns w-30-ns pa3">
+    <div class="fl-l w-30-l pa3">
       {% if page.layout == 'project' %}
-        <a class="db dib-ns br3 bw1 bree tc fs-blue b ba b--fs-blue pv2 ph4" href="/projects"><span class="glyphicon glyphicon-arrow-left mr2"></span>See all projects</a>
+        <a class="db dib-l br3 bw1 bree tc fs-blue b ba b--fs-blue pv2 ph4" href="/projects"><span class="glyphicon glyphicon-arrow-left mr2"></span>See all projects</a>
       {% else %}
-        <a href="/archive" class="db dib-ns br3 bw1 bree tc bright b ba b--bright pv2 ph4"><span class="fa fa-gamepad mr1"></span> All game posts</a>
+        <a href="/archive" class="db dib-l br3 bw1 bree tc bright b ba b--bright pv2 ph4"><span class="fa fa-gamepad mr1"></span> All game posts</a>
       {% endif %}
     </div>
     {% if page.layout != 'project' %}
-    <div class="dn db-ns fl-ns w-70-ns pv3">
+    <div class="dn db-l fl-l w-70-l pa3">
       {% include post-footer-buttons.html %}
     </div>
     {% endif %}
