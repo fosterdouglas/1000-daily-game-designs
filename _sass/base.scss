@@ -2,13 +2,6 @@
  * Global
  */
 
-body {
-  left: 0;
-  position: relative;
-}
-.main-content {
-  padding-top: 1.5rem;
-}
 img {
 	width: 100%;
 	height: auto;
@@ -33,23 +26,4 @@ img {
 iframe {
 	border: 5px solid rgba(0,0,0,1);
 	border-radius: .6rem;
-}
-.flipped {
-  -webkit-transform: rotate(-180deg);
-          transform: rotate(-180deg);
-}
-/* Helper class to center a group of columns horitontally */
-.center-block {
-  float: none;
-}
-/* Helper class to center things vertically */
-.vertical-center {
-  position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  	  -ms-transform: translateY(-50%);
-  	      transform: translateY(-50%);
-}
-.no-cf::after {
-  clear: none;
 }
