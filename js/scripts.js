@@ -7,12 +7,13 @@ huehue.init = function() {
   console.log("huehue!");
   huehue.randomButton();
   huehue.alertTracking();
+  huehue.projectsMenu();
   // if ($("body").hasClass("archive")) {
   //   huehue.archiveFilter();
   // }
 }
 
-huehue.posts = [
+huehue.gamePosts = [
   {% for post in site.categories.games %}
   {
     url: "{{ post.url }}",
@@ -24,9 +25,24 @@ huehue.posts = [
   {% endfor %}
 ];
 
+huehue.projectsMenu = function() {
+  $('.post-link').click(function(e) {
+    e.preventDefault();
+
+    var link = $(this).data('link');
+    var contentElement = $(this).parent().next();
+    if ($(this).hasClass('open')) {
+      $(contentElement).html("");
+    } else {
+      $(contentElement).load(link + ' #main-content');
+    }
+    $(this).toggleClass('light neutral open');
+  });
+}
+
 huehue.randomButton = function() {
   var getRandomPost = function() {
-    var postUrl = huehue.posts[Math.floor(Math.random()*huehue.posts.length)].url;
+    var postUrl = huehue.gamePosts[Math.floor(Math.random()*huehue.gamePosts.length)].url;
     return postUrl;
   };
 
@@ -64,7 +80,7 @@ huehue.archiveFilter = function() {
   };
 
   var firstState = true;
-  var mostRecentPost = huehue.posts[0];
+  var mostRecentPost = huehue.gamePosts[0];
 
   function updateFilterUrl(filter) {
     if (history.pushState) {
