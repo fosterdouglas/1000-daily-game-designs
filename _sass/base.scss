@@ -8,6 +8,9 @@ img {
 	border-radius: .6rem;
   vertical-align: middle;
 }
+.post img {
+	margin-bottom: 1rem;
+}
 .emoji,
 .post .emoji {
   max-width: 17px;
@@ -24,6 +27,7 @@ img {
   }
 }
 iframe {
-	border: 5px solid rgba(0,0,0,1);
 	border-radius: .6rem;
+	margin-bottom: 1rem;
+	margin-top: 0;
 }

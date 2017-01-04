@@ -26,17 +26,34 @@ huehue.gamePosts = [
 ];
 
 huehue.projectsMenu = function() {
+  var currentMenuItem = null;
+
+  function openMenuItem(item) {
+    currentMenuItem = item.data('index');
+    var link = item.data('link');
+    var contentElement = item.parent().next();
+    $(contentElement).load(link + ' #main-content');
+    item.toggleClass('light neutral open');
+  }
+
+  function hideMenuItem(item) {
+    currentMenuItem = null;
+    var contentElement = item.parent().next();
+    $(contentElement).html("");
+    item.toggleClass('light neutral open');
+  }
+
   $('.post-link').click(function(e) {
     e.preventDefault();
-
-    var link = $(this).data('link');
-    var contentElement = $(this).parent().next();
-    if ($(this).hasClass('open')) {
-      $(contentElement).html("");
+    var index = $(this).data('index');
+    if (currentMenuItem == index) {
+      hideMenuItem($(this));
+    } else if (currentMenuItem != index && currentMenuItem) {
+      hideMenuItem($('[data-index=' + currentMenuItem +']'));
+      openMenuItem($(this));
     } else {
-      $(contentElement).load(link + ' #main-content');
+      openMenuItem($(this));
     }
-    $(this).toggleClass('light neutral open');
   });
 }
 
