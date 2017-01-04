@@ -8,6 +8,7 @@ huehue.init = function() {
   huehue.randomButton();
   huehue.alertTracking();
   huehue.projectsMenu();
+  huehue.topPanel();
   // if ($("body").hasClass("archive")) {
   //   huehue.archiveFilter();
   // }
@@ -24,6 +25,23 @@ huehue.gamePosts = [
   },
   {% endfor %}
 ];
+
+huehue.topPanel = function() {
+  $.get('/js/includes/top-panel.html', function(html) {
+    $('body').prepend(html);
+    $('.panel-toggle').click(function(e) {
+      e.preventDefault();
+      console.log("click");
+      $('.top-panel').toggleClass('dn');
+    });
+    // $(".random-button").click(function(e) {
+    //   console.log("click");
+    //   e.preventDefault();
+    //   var postUrl = getRandomPost();
+    //   window.location.href = postUrl;
+    // });
+  });
+}
 
 huehue.projectsMenu = function() {
   var currentMenuItem = null;

@@ -2,77 +2,19 @@
  * Top Panel
  */
 
-.top-info-wrapper {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 0;
-  overflow: hidden
-}
 .top-panel {
-  display: none;
-  background: url(/img/foster-garden-4.jpg) no-repeat 0% 0% fixed;
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
-  background-size: 100%;
-  color: #FFF;
-  position: fixed;
-  width: 100%;
-  z-index: 1000;
+  background-image: url('../img/foster-portrait.jpg');
+  background-size: 820px;
+  background-position: -3rem -4rem;
 }
-.top-panel-caption {
-  margin-top: 20px;
-  margin-bottom: 300px;
-}
-@media (min-width: 768px) {
+@media (min-width: 30em) {
   .top-panel {
-    background: url(/img/foster-garden-3.jpg) no-repeat 0% 0% fixed;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-  }
-  .top-panel-caption {
-    margin-top: 30px;
-    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-position: center 30%;
   }
 }
-@media (min-width: 992px) {
-  .top-panel {
-    background: url(/img/foster-garden-3.jpg) no-repeat 0% -10% fixed;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
-  }
-  .top-panel-caption {
-    margin-top: 80px;
-    margin-bottom: 80px;
-  }
-}
-.top-panel h2 {
-  margin-top: .6rem;
-  color: #FFF;
-}
-.top-panel a {
-  color: #FFF;
-}
-.top-panel .img-sm {
-  max-width: 410px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.top-panel .img-lg {
-  display: none;
-}
-@media (min-width: 992px) {
-  .top-panel .img-lg {
-    display: block;
-  }
-  .top-panel .img-sm {
-    display: none;
-  }
-}
+// @media (min-width: 60em) {
+//   .top-panel {
+//     background-position: 0 -120%;
+//   }
+// }
