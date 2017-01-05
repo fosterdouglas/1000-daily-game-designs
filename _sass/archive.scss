@@ -8,6 +8,12 @@
 	-webkit-overflow-scrolling: touch;
 	white-space: nowrap;
 }
+.filter-button:hover {
+  cursor: pointer;
+}
+.filter-button:focus {
+  outline: none;
+}
 @media(min-width: 30em) {
 	.archive-list {
     overflow: hidden;
