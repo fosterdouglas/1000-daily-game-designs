@@ -4,32 +4,16 @@ class: archive
 title: Archive
 ---
 
-<div class="bg-bright pv4 min-vh-100">
-  <div class="container">
-    <h2 class="white mt0 mb3">Archive</h2>
-    <!-- <div class="mb2">
-      <button class="filter-button white bg-transparent ba b--white br2" data-year="2015">2015</button>
-      <button class="filter-button white bg-transparent ba b--white br2" data-year="2016">2016</button>
-    </div>
-    <button class="filter-button white bg-transparent bn br2" data-month="1">January</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="2">February</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="3">March</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="4">April</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="5">May</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="6">June</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="7">July</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="8">August</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="9">September</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="10">October</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="11">November</button>
-    <button class="filter-button white bg-transparent bn br2" data-month="12">December</button> -->
+<div class="bg-bright pa3 min-vh-100">
+  <h2 class="white mt0 mb3 sr-only">Archive</h2>
+  <div id="year-buttons"></div>
+  <div id="month-buttons"></div>
 
-    <ul class="list pl0 mt2">
-    {% for post in site.categories.games %}
-      <li class="post-list-item" data-year="{{ post.date | date: '%Y' }}" data-month="{{ post.date | date: '%-m' }}">
-        <a class="white hover-white dim" href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-    </ul>
-  </div>
+  <ul class="archive-list list pl0 mw8 mt3">
+  {% for post in site.categories.games %}
+    <li class="post-list-item mb0 pb1" data-year="{{ post.date | date: '%Y' }}" data-month="{{ post.date | date: '%-m' }}">
+      <a class="white hover-white dim" href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
 </div>

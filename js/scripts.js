@@ -9,9 +9,7 @@ huehue.init = function() {
   huehue.alertTracking();
   huehue.projectsMenu();
   huehue.topPanel();
-  // if ($("body").hasClass("archive")) {
-  //   huehue.archiveFilter();
-  // }
+  huehue.archiveFilter();
 }
 
 huehue.gamePosts = [
@@ -101,64 +99,132 @@ huehue.alertTracking = function() {
 
 huehue.archiveFilter = function() {
 
-  // If month isn't available in current year, disable the button
-  // If year is selected but current month isn't available... ??? show "no posts?" go to closest posts in that year??
+  var firstState = true;
+  var mostRecentPost = huehue.gamePosts[0];
+  var $filterButtons;
 
-  huehue.filter = {
+  var filter = {
     year: null,
     month: null
   };
 
-  var firstState = true;
-  var mostRecentPost = huehue.gamePosts[0];
+  var firstYear = huehue.gamePosts[huehue.gamePosts.length - 1].date.year;
+  var lastYear = huehue.gamePosts[0].date.year;
+  var years = (function() {
+    var yearCollection = {}
+    for (var year = firstYear; year <= lastYear; year++) {
+      yearCollection[year] = [];
+      for (var i = 0, numPosts = huehue.gamePosts.length; i < numPosts; i++) {
+        var date = huehue.gamePosts[i].date;
+        if (date.year == year && yearCollection[year].indexOf(parseInt(date.month)) == -1) {
+          yearCollection[year].push(parseInt(date.month));
+        }
+      }
+    }
+    return yearCollection;
+  })();
 
-  function updateFilterUrl(filter) {
+  function monthIsNotActive(i) {
+    return years[filter.year].indexOf(i) == -1;
+  }
+
+  console.log(years);
+  function buildButtons() {
+    var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+    function monthButtonTemplate(monthIndex) {
+      return '<button class="filter-button dib bree white bg-transparent bn br3 ph3 pv1" data-month="' + monthIndex + '">' + monthNames[monthIndex - 1] + '</button>';
+    }
+    function yearButtonTemplate(year) {
+      return '<button class="filter-button bree b f4 white bg-transparent ba b--white br3 bw1 mr2 mb3 ph3" data-year="' + year + '">' + year + '</button>';
+    }
+
+    for (var i = 1; i <= 12; i++) {
+      $('#month-buttons').append(monthButtonTemplate(i));
+    }
+
+    for (var year = firstYear; year <= lastYear; year++) {
+      $('#year-buttons').append(yearButtonTemplate(year));
+    }
+
+    $filterButtons = $('.filter-button');
+
+  }
+
+  function updateFilterUrl() {
     if (history.pushState) {
       var newState = "?year=" + filter.year + "&month=" + filter.month;
       if (firstState) {
         history.replaceState({}, null, newState);
         firstState = false;
-        console.log("state replaced");
       } else {
         history.pushState({}, null, newState);
-        console.log("new state pushed");
       }
-
     }
   }
 
-  function updateView(filter) {
-    $(".filter-button").removeClass("bg-white bright").addClass("bg-transparent white");
+  function updateView() {
+    $filterButtons.removeClass("bg-white bright").addClass("bg-transparent white");
     $(".filter-button[data-year='" + filter.year + "'], .filter-button[data-month='" + filter.month + "']").removeClass("bg-transparent white").addClass("bg-white bright");
     var selectedPosts = $("[data-year='" + filter.year + "'][data-month='" + filter.month + "']");
     $(".post-list-item").hide();
     selectedPosts.show();
+    $filterButtons.removeClass('o-50 disabled');
+    for (var i = 1; i <= 12; i++) {
+      if (monthIsNotActive(i)) {
+        $('.filter-button[data-month=' + i + ']').addClass('o-50 disabled');
+      }
+    }
+    var leftPosition = $('.filter-button[data-month="' + filter.month + '"]').offset().left;
+    var currentPosition = $('#month-buttons').scrollLeft();
+    if (leftPosition > window.innerWidth) {
+      console.log(leftPosition);
+      // console.log($('#month-buttons').scrollLeft());
+      $('#month-buttons').scrollLeft(currentPosition + (leftPosition - window.innerWidth) + 120);
+      console.log($('#month-buttons').scrollLeft());
+    }
+    if (leftPosition < 0) {
+      $('#month-buttons').scrollLeft(currentPosition + leftPosition - 15);
+    }
   }
 
   function updateFilterObject(year, month) {
-    huehue.filter.year = year || huehue.filter.year;
-    huehue.filter.month = month || huehue.filter.month;
+    filter.year = year || getUrlParameter('year') || filter.year || mostRecentPost.date.year;
+    filter.month = month || getUrlParameter('month') || filter.month || mostRecentPost.date.month;
+    if (monthIsNotActive(parseInt(filter.month))) {
+      filter.month = years[filter.year][0];
+    }
   }
 
   function filterPosts(year, month, back) {
     updateFilterObject(year, month);
-    updateView(huehue.filter);
+    updateView();
     if (!back) {
-      updateFilterUrl(huehue.filter);
+      updateFilterUrl();
     }
   }
 
-  filterPosts(
-    getUrlParameter("year") || mostRecentPost.date.year, getUrlParameter("month") || mostRecentPost.date.month
-  );
+  function init() {
+    buildButtons();
+    filterPosts();
 
-  $(".filter-button").click(function() {
-    filterPosts($(this).data("year"), $(this).data("month"));
-  });
+    $filterButtons.click(function() {
+      var year = $(this).data("year");
+      var month = $(this).data("month");
+      if (!$(this).hasClass("disabled")) {
+        filterPosts($(this).data("year"), $(this).data("month"));
+      }
+    });
 
-  $(window).on("popstate", function(e) {
-    filterPosts(getUrlParameter("year"), getUrlParameter("month"), true);
-  });
+    $(window).on("popstate", function(e) {
+      filterPosts(getUrlParameter("year"), getUrlParameter("month"), true);
+    });
+  }
+
+  if ($('body').hasClass('archive')) {
+    console.log("go");
+    init();
+  }
 
 }
 
