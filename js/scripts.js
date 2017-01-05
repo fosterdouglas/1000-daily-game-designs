@@ -34,12 +34,6 @@ huehue.topPanel = function() {
       console.log("click");
       $('.top-panel').toggleClass('dn');
     });
-    // $(".random-button").click(function(e) {
-    //   console.log("click");
-    //   e.preventDefault();
-    //   var postUrl = getRandomPost();
-    //   window.location.href = postUrl;
-    // });
   });
 }
 
@@ -99,9 +93,10 @@ huehue.alertTracking = function() {
     $('#main-alert').hide();
   }
 
-  $('#main-alert').on('closed.bs.alert', function () {
+  $('#alert-close').click(function() {
+    $('#main-alert').hide();
     Cookies.set('fdalert', 'dismissed', { expires: 7 });
-	});
+  });
 }
 
 huehue.archiveFilter = function() {
