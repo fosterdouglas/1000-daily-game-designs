@@ -12,24 +12,11 @@ huehue.init = function() {
   huehue.archiveFilter();
 }
 
-huehue.gamePosts = [
-  {% for post in site.categories.games %}
-  {
-    url: "{{ post.url }}",
-    date: {
-      year: "{{ post.date | date: '%Y' }}",
-      month: "{{ post.date | date: '%-m' }}"
-    }
-  },
-  {% endfor %}
-];
-
 huehue.topPanel = function() {
   $.get('/js/includes/top-panel.html', function(html) {
     $('body').prepend(html);
     $('.panel-toggle').click(function(e) {
       e.preventDefault();
-      console.log("click");
       $('.top-panel').toggleClass('dn');
     });
   });
@@ -77,7 +64,6 @@ huehue.randomButton = function() {
     $.get('/js/includes/random-button.html', function(html) {
       $('.tweet-button').after(html);
       $(".random-button").click(function(e) {
-        console.log("click");
         e.preventDefault();
         var postUrl = getRandomPost();
         window.location.href = postUrl;
@@ -128,7 +114,6 @@ huehue.archiveFilter = function() {
     return years[filter.year].indexOf(i) == -1;
   }
 
-  console.log(years);
   function buildButtons() {
     var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
@@ -178,10 +163,7 @@ huehue.archiveFilter = function() {
     var leftPosition = $('.filter-button[data-month="' + filter.month + '"]').offset().left;
     var currentPosition = $('#month-buttons').scrollLeft();
     if (leftPosition > window.innerWidth) {
-      console.log(leftPosition);
-      // console.log($('#month-buttons').scrollLeft());
       $('#month-buttons').scrollLeft(currentPosition + (leftPosition - window.innerWidth) + 120);
-      console.log($('#month-buttons').scrollLeft());
     }
     if (leftPosition < 0) {
       $('#month-buttons').scrollLeft(currentPosition + leftPosition - 15);
@@ -222,75 +204,18 @@ huehue.archiveFilter = function() {
   }
 
   if ($('body').hasClass('archive')) {
-    console.log("go");
     init();
   }
 
 }
 
-// var main = function() {
-//
-//   $("body").tooltip({ selector: '[data-toggle=tooltip]' });
-//
-//   function toggleDiv(divId) {
-//     $("#"+divId).slideToggle();
-//   }
-//   $('.icon-panel').click(function() {
-//     toggleDiv('top-panel');
-//     $('.navbar').toggleClass("navbar-transparent");
-//     $('.navbar-brand, .navbar-left').toggle();
-//   });
-//
-//   // Remove widow words from project descriptions.
-//   $(function($) {
-//       $('.project p').each(function() {
-//           $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
-//       });
-//   });
-//
-//   // When the button is clicked
-//   $(document).on('click', '.modal-link', function (e) {
-//     e.preventDefault();
-//     // Find the link attribute
-//     var link = $(this).attr('data-link');
-//     // Find the associated modal
-//     var modal = $(this).attr('data-target');
-//     // Find the associated modal body
-//     var body = $(modal).find('.modal-body');
-//     // Load the link to the modal-body of the associated modal
-//     $(body).load(link + ' #main-content');
-//
-//     state = {
-//       action: 'popup'
-//     };
-//     history.pushState(state, '', link);
-//   });
-//
-//   //Restore the URL when modal is closed
-//   $(document).on('hidden.bs.modal', function (e) {
-//     var currentstate = history.state;
-//     if (currentstate) {
-//       history.back();
-//     }
-//   });
-//
-//   // Listen for history state changes
-//   window.addEventListener('popstate', function (e) {
-//     var state = history.state;
-//     // Back button pressed, close modal
-//     if (!state) {
-//       $('.modal.in').modal('hide');
-//     } else {
-//       // Forward button pressed, open modal
-//       var pathname = window.location.pathname;
-//       var modal = $('body').find("[data-pathname='" + pathname + "']");
-//       $(modal).modal('show');
-//     }
-//   });
-//
-// }
 
 $(document).ready(function() {
-  huehue.init();
-  // main();
+  $.getJSON("/js/game-posts.json").done(function(data) {
+    console.log('test');
+    huehue.gamePosts = data.games;
+    huehue.init();
+  }).fail(function(err) {
+    console.log(err);
+  });
 });

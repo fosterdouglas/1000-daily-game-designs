@@ -1,0 +1,16 @@
+---
+---
+
+{
+  "games": [
+    {% for post in site.categories.games %}
+    {
+      "url": "{{ post.url }}",
+      "date": {
+        "year": "{{ post.date | date: '%Y' }}",
+        "month": "{{ post.date | date: '%-m' }}"
+      }
+    }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ]
+}
