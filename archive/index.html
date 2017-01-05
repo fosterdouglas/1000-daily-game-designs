@@ -10,9 +10,9 @@ title: Archive
   <div id="month-buttons"></div>
 
   <ul class="archive-list list pl0 mw8 mt3">
-  {% for post in site.categories.games %}
+  {% for post in site.categories.games reversed %}
     <li class="post-list-item mb0 pb1" data-year="{{ post.date | date: '%Y' }}" data-month="{{ post.date | date: '%-m' }}">
-      <a class="white hover-white dim" href="{{ post.url }}">{{ post.title }}</a>
+      <a class="white hover-white dim" href="{{ post.url }}">{% if post.favorite %}<span class="fa fa-heart"></span> <span class="sr-only">(favorite)</span>{% endif %}{{ post.title }}</a>
     </li>
   {% endfor %}
   </ul>
