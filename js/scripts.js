@@ -17,7 +17,7 @@ huehue.topPanel = function() {
     $('body').prepend(html);
     $('.panel-toggle').click(function(e) {
       e.preventDefault();
-      $('.top-panel').toggleClass('dn');
+      $('.top-panel').slideToggle(500, 'easeOutQuint');
     });
   });
 }
