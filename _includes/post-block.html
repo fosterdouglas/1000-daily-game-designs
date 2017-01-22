@@ -9,7 +9,7 @@
 {% assign postArray = thePost.title | split: ' ' %}
 {% assign postNumber = postArray[0] %}
 
-<article class="fr-l w-70-l">
+<article class="fr-l w-70-l main-content">
 	<h1 class="bg-bright bg-transparent-ns pa3 pb0-ns"><a class="white bright-ns" href="{{ thePost.url }}"><span class="white neutral-ns">{{ postNumber }}</span>{{ thePost.title | remove_first: postNumber }}</a></h1>
   <div class="ph3">
     {{ thePost.content }}

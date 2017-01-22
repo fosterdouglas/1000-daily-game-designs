@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-<div class="mw8 cf pa3">
+<div class="mw8 center cf pa3">
   <h1 class="fs-blue ttu tracked">Recent Projects</h1>
   <div class="pl3">
   {% for post in site.categories.projects %}
