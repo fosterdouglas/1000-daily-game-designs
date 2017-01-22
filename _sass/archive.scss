@@ -25,6 +25,10 @@
 		column-count: 2;
 		column-gap: 1rem;
 	}
+  .archive-list li {
+    break-inside: avoid-column;
+    -webkit-column-break-inside: avoid;
+  }
 }
 @media(min-width: 60em) {
 	.archive-list {

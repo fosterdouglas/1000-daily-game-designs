@@ -5,15 +5,21 @@ title: Archive
 ---
 
 <div class="bg-bright pa3 min-vh-100">
-  <h2 class="white mt0 mb3 sr-only">Archive</h2>
-  <div id="year-buttons"></div>
-  <div id="month-buttons"></div>
+  <div class="mw8 center">
+    <div class="ph3-ns">
+      <h2 class="white mt0 mb3 sr-only">Archive</h2>
+      <div id="year-buttons"></div>
+      <div id="month-buttons"></div>
+    </div>
 
-  <ul class="archive-list list pl0 mw8 mt3">
-  {% for post in site.categories.games reversed %}
-    <li class="post-list-item mb0 pb1" data-year="{{ post.date | date: '%Y' }}" data-month="{{ post.date | date: '%-m' }}">
-      <a class="white hover-white dim" href="{{ post.url }}">{% if post.favorite %}<span class="fa fa-heart"></span> <span class="sr-only">(favorite)</span>{% endif %}{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
+    <ul class="archive-list list pl0 mt3">
+    {% for post in site.categories.games reversed %}
+      <li class="post-list-item mb0 pb1" data-year="{{ post.date | date: '%Y' }}" data-month="{{ post.date | date: '%-m' }}">
+        {% assign postArray = post.title | split: ' ' %}
+        {% assign postNumber = postArray[0] %}
+        <a class="white hover-white dim lh-title" href="{{ post.url }}"><span class="dib {% if post.favorite %}fa fa-heart{% endif %} v-top" style="width: 7%;"></span><span class="dib w-10 v-top">{{ postNumber }}</span><span class="dib w-80">{{ post.title | remove_first: postNumber }}</span></a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
 </div>
