@@ -18,6 +18,11 @@ $default-text: $neutral;
 .neutral {
   color: $neutral;
 }
+@media(min-width: 30em) {
+  .neutral-ns {
+    color: $neutral;
+  }
+}
 .hover-neutral:hover {
   color: $neutral;
 }
