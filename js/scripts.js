@@ -118,10 +118,10 @@ huehue.archiveFilter = function() {
     var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
     function monthButtonTemplate(monthIndex) {
-      return '<button class="filter-button dib bree white bg-transparent bn br3 ph3 pv1" data-month="' + monthIndex + '">' + monthNames[monthIndex - 1] + '</button>';
+      return '<button class="filter-button dib bree white f5 bg-transparent bn br3 ph3 pb2 pt1" data-month="' + monthIndex + '">' + monthNames[monthIndex - 1] + '</button>';
     }
     function yearButtonTemplate(year) {
-      return '<button class="filter-button bree b f4 white bg-transparent ba b--white br3 bw1 mr2 mb3 ph3" data-year="' + year + '">' + year + '</button>';
+      return '<button class="filter-button bree b f4 white bg-transparent ba b--white br3 bw1 mr2 mb3 ph3 pb1" data-year="' + year + '">' + year + '</button>';
     }
 
     for (var i = 1; i <= 12; i++) {
@@ -148,12 +148,21 @@ huehue.archiveFilter = function() {
     }
   }
 
-  function updateView() {
+  function updateActiveButton() {
     $filterButtons.removeClass("bg-white bright").addClass("bg-transparent white");
     $(".filter-button[data-year='" + filter.year + "'], .filter-button[data-month='" + filter.month + "']").removeClass("bg-transparent white").addClass("bg-white bright");
+  }
+
+  function updateView() {
+    updateActiveButton();
     var selectedPosts = $("[data-year='" + filter.year + "'][data-month='" + filter.month + "']");
-    $(".post-list-item").hide();
-    selectedPosts.show();
+    $(".archive-list").fadeOut(200, function() {
+      $(".post-list-item").hide();
+      selectedPosts.show();
+      $(".archive-list").fadeIn(200);
+    });
+    // selectedPosts.show();
+
     $filterButtons.removeClass('o-50 disabled');
     for (var i = 1; i <= 12; i++) {
       if (monthIsNotActive(i)) {
@@ -187,14 +196,15 @@ huehue.archiveFilter = function() {
   }
 
   function init() {
+    $(".archive-list").hide();
     buildButtons();
     filterPosts();
 
     $filterButtons.click(function() {
-      var year = $(this).data("year");
-      var month = $(this).data("month");
       if (!$(this).hasClass("disabled")) {
-        filterPosts($(this).data("year"), $(this).data("month"));
+        var year = $(this).data("year");
+        var month = $(this).data("month");
+        filterPosts(year, month);
       }
     });
 
