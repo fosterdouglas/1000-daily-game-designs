@@ -65,7 +65,7 @@ a:hover {
   transition: .3s all;
 }
 .main-content a:hover {
-  color: darken($bright, 10%);
+  color: lighten($bright, 10%);
   text-decoration: none;
   transition: .3s all;
 }
