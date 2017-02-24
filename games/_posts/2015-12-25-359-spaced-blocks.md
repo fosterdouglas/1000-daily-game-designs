@@ -2,6 +2,7 @@
 layout: post
 title: 359 Spaced Blocks
 tags: game-modification, physical-game, word-game
+favorite: true
 ---
 A 3D version of Scrabble, using wooden alphabet blocks in the X, Y, and Z axises.
 

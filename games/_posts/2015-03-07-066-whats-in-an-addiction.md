@@ -2,6 +2,7 @@
 layout: post
 title: 066 What's In An Addiction
 tags: game-mechanic/system, game-review/critique
+favorite: true
 ---
 As I ride the train to work, watching people play level after level of *Temple Run* and other such “Endless Runner” clones, I wonder what it is about them that’s so ridiculously addicting.  I think I’ve broken it down:
 

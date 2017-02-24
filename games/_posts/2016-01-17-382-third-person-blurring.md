@@ -2,6 +2,7 @@
 layout: post
 title: 382 Third Person Blurring
 tags: game-mechanic-system
+favorite: true
 ---
 Third person games can be exciting to play, and are typically easy to control because of the range of view the player has. Below is an example of a third person "cover" mechanic:
 

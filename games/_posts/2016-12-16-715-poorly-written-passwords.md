@@ -2,6 +2,7 @@
 layout: post
 title: 715 Poorly Written Passwords
 tags: experimental-game, web-game
+favorite: true
 ---
 A game about guessing poorly hand written wi-fi passwords.
 

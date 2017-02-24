@@ -2,6 +2,7 @@
 layout: post
 title: 047 Underground Stacks
 tags: card-game
+favorite: true
 ---
 The officially licensed spin-off adventure card game from the minds that brought you Underground.
 
