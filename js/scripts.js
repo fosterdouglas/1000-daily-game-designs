@@ -17,6 +17,7 @@ huehue.topPanel = function() {
     $('body').prepend(html);
     $('.panel-toggle').click(function(e) {
       e.preventDefault();
+      $(this).toggleClass('open');
       $('.top-panel').slideToggle(500, 'easeOutQuint');
     });
   });
@@ -222,7 +223,6 @@ huehue.archiveFilter = function() {
 
 $(document).ready(function() {
   $.getJSON("/js/game-posts.json").done(function(data) {
-    console.log('test');
     huehue.gamePosts = data.games;
     huehue.init();
   }).fail(function(err) {

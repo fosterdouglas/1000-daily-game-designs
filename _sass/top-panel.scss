@@ -15,3 +15,10 @@
     background-position: center 30%;
   }
 }
+.panel-toggle i {
+  transition: .5s transform;
+}
+.panel-toggle.open i {
+  transform: rotate(180deg);
+  transition: .5s transform;
+}
