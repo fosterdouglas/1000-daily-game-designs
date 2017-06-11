@@ -64,6 +64,12 @@ a:hover {
   text-decoration: none;
   transition: .3s all;
 }
+.transition {
+	transition: .3s color;
+}
+.transition:hover {
+	transition: .3s color;
+}
 .main-content a:hover {
   color: lighten($bright, 10%);
   text-decoration: none;

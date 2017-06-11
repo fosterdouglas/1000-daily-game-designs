@@ -25,6 +25,25 @@ huehue.topPanel = function() {
 
 huehue.projectsMenu = function() {
   var currentMenuItem = null;
+  var currentCategory = null;
+
+  $('.category-header').removeClass('fs-blue').addClass('light hover-fs-blue pointer transition');
+  $('.project-list').hide();
+
+  function openCategory(item) {
+    currentCategory = item.data('category');
+    $('#' + currentCategory).toggle();
+    item.removeClass('light');
+    item.addClass('fs-blue');
+  }
+
+  function hideCategory(item) {
+    item.addClass('light');
+    item.removeClass('fs-blue');
+    var category = item.data('category');
+    $('#' + currentCategory).hide();
+    currentCategory = null;
+  }
 
   function openMenuItem(item) {
     currentMenuItem = item.data('index');
@@ -53,6 +72,20 @@ huehue.projectsMenu = function() {
       openMenuItem($(this));
     }
   });
+
+  $('.category-header').click(function() {
+    var category = $(this).data('category');
+    if (currentCategory == category) {
+      hideCategory($(this));
+    } else if (currentCategory != category && currentCategory) {
+      hideCategory($('[data-category="' + currentCategory + '"]'));
+      openCategory($(this));
+    } else {
+      openCategory($(this));
+    }
+  });
+
+  openCategory($('[data-category="recent-projects"]'));
 }
 
 huehue.randomButton = function() {
