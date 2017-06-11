@@ -128,3 +128,10 @@ hr {
 	color: rgb(181, 181, 181);
 	line-height: .8rem
 }
+
+.wf-loading {
+	visibility: hidden;
+}
+.wf-active {
+	visibility: visible;
+}
