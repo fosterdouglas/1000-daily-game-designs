@@ -64,6 +64,12 @@ a:hover {
   text-decoration: none;
   transition: .3s all;
 }
+.transition {
+	transition: .3s color;
+}
+.transition:hover {
+	transition: .3s color;
+}
 .main-content a:hover {
   color: lighten($bright, 10%);
   text-decoration: none;
@@ -121,4 +127,11 @@ hr {
 	width: 75%;
 	color: rgb(181, 181, 181);
 	line-height: .8rem
+}
+
+.wf-loading {
+	visibility: hidden;
+}
+.wf-active {
+	visibility: visible;
 }

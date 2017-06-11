@@ -3,15 +3,21 @@
  */
 
 .top-panel {
-  background-image: url('../img/foster-portrait.jpg');
-  /*background-image: url('../img/foster-portrait2.jpeg');*/
-  /*background-image: url('../img/foster-portrait3.JPG');*/
+  background-image: url('../img/foster-portrait-compressed.jpg');
   background-size: 820px;
   background-position: -3rem -4rem;
+  background-color: $fs-blue;
 }
 @media (min-width: 30em) {
   .top-panel {
     background-repeat: no-repeat;
     background-position: center 30%;
   }
+}
+.panel-toggle i {
+  transition: .5s transform;
+}
+.panel-toggle.open i {
+  transform: rotate(180deg);
+  transition: .5s transform;
 }
