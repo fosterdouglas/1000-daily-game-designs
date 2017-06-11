@@ -6,7 +6,7 @@ window.huehue = window.huehue || {};
 huehue.init = function() {
   console.log("huehue!");
   huehue.randomButton();
-  huehue.alertTracking();
+  // huehue.alertTracking();
   huehue.projectsMenu();
   huehue.topPanel();
   huehue.archiveFilter();
