@@ -10,7 +10,7 @@ On the first day of 2015, I began an epic quest to design and share one idea eac
 
 My goal is to do at least 1000.
 
-The posts can be found over at the [Daily Game Designs](http://www.foster-douglas.com/games) section of this site.  Below are some of my favorite posts (so far!):
+The posts can be found over at the [Daily Game Designs](http://www.foster-douglas.com/games) section of this site.  Below are the posts that I've marked as my favorites:
 
 {% for post in site.categories.games reversed %}
 {% if post.favorite %}
