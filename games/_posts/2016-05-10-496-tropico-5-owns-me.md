@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 496 Tropico 5 Owns Me
-tags: game-opinion, game-review-critique
+categories: game-opinion, game-review-critique
 ---
 Something about this game has its grubby city-building clutches around my unsuspecting neck, refusing to let go, as I refuse to try and escape.  It’s the first game in quite a while that has me certifiably addicted.  In the future, I’d love to do a full-scale investigation into why strategy games like this are so hard to put down. But for now, we’ll just analyze locally with *Tropico 5*.
 

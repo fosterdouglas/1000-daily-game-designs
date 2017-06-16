@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 709 Know The Words
-tags: brain-game, word-game
+categories: brain-game, word-game
 ---
 A game about knowing the dialogue in movies and being able to repeat along with it.
 

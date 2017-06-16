@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 348 Frank Lloyd Who?
-tags: simulation-game
+categories: simulation-game
 ---
 In this game, you’re a well-known carpenter contractor, and it’s your job to interpret the (sometimes unclear) will of your clients into beautifully designed rooms.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 705 Changing Characters Mid Game In Dishonored 2
-tags: game-opinion
+categories: game-opinion
 ---
 I loved almost everything about *Dishonored 2*. But, right at the beginning of the game you’re forced to choose to play as one of two very different characters.
 

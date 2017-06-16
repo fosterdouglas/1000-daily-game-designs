@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 196 Alphabear, You're Great
-tags: game-modification
+categories: game-modification
 ---
 Spry Fox kills it once again with their recently released [Alphabear](http://spryfox.com/our-games/alphabear/) mobile word game.
 

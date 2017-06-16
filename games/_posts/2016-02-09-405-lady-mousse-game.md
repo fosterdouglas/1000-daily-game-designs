@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 405 Lady Mousse Game
-tags: adventure-game, simulation-game
+categories: adventure-game, simulation-game
 ---
 A pun-y simulation game about a moose named Lady that owns her own hair salon.
 

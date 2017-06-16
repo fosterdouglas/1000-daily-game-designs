@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 211 Teaching New Languages Through Regular Games
-tags: educational-game, experimental-game
+categories: educational-game, experimental-game
 ---
 A series a games designed to subtly teach you additional languages.
 

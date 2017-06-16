@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 519 Summer Activity Board
-tags: board-game, childrens-game, family-game, physical-game, social-game
+categories: board-game, childrens-game, family-game, physical-game, social-game
 ---
 A refrigerator game for planning family activities for the summer.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 351 Collaborative World Design
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 As I walk through my neighborhood, I look at the small details, imperfections, and a nuances that make it look the way it looks, and feel the way it feels.  It’s hard to pinpoint one specific thing, though; Madeleine uses the word **Gestalt** to describe similar things lately.  Kevin once wrote a song about it, called [Synecdoche](/music/synecdoche_d2.mp3 "Synecdoche"){:target="_blank"}.
 

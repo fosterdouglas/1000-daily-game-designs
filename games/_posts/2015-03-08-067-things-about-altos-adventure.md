@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 067 Things About Alto's Adventure
-tags: game-modifcation, game-review/critique
+categories: game-modifcation, game-review/critique
 ---
 This game does a lot of things right, and certain transcends the traditional “Endless Runner” genre.  It has beautiful design and music, smart and generative level design, attainable but achievable goals each level, a beautiful and dynamic weather / day-night cycle, and a basic character upgrade system.
 

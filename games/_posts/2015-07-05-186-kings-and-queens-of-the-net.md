@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 186 Kings And Queens Of The Net
-tags: co-op-game, experimental-game
+categories: co-op-game, experimental-game
 ---
 A couch cooperative game with one player at the controller and another at a laptop, computer, or cell phone using the internet as support.
 

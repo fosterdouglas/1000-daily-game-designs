@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 168 So Many Explosions
-tags: game-opinion
+categories: game-opinion
 ---
 E3 is upon us once again, and with it comes a downpour of new trailers, announcements, and exciting tidbits of news to consume.  And wherever video games go, violence follows.  Playstation’s stage presentation of *Call of Duty: Black Ops III* was bombastic as ever, riddled with explosions and the heart-pumping intensity we’ve come to expect.
 

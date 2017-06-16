@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "402 Sleepy Roads: LA to NYC"
-tags: driving-game, endless-runner-game, experimental-game
+categories: driving-game, endless-runner-game, experimental-game
 ---
 A game about staying awake while driving across the country.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 255 I Like Armello
-tags: game-opinion
+categories: game-opinion
 ---
 The [fantasy digital board](http://armello.com){:target="_blank"} game *Armello* is a truly unique experience.
 

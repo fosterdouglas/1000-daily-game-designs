@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 646 Tree Simulator
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 A full-featured tree growing simulator.
 

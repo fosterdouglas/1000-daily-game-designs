@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 242 Asynchronous Co-Op Strategy
-tags: co-op-game, strategy-game
+categories: co-op-game, strategy-game
 ---
 A deeply strategic and tactical turn-based co-op experience.
 

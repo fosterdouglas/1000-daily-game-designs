@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 394 CYO-TV (Choose Your Own)
-tags: experimental-game, narrative-game
+categories: experimental-game, narrative-game
 ---
 A choose-your-own-adventure style TV show.
 

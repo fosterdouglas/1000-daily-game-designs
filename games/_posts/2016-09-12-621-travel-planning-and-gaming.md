@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 621 Travel Planning And Gaming
-tags: game-opinion
+categories: game-opinion
 ---
 The parallels between travel planning and gaming are apparent.  When you sit down to plan a trip or activity while traveling, it pans out a lot like a game. At least in the modern era of travel planning that revolves around the internet.
 

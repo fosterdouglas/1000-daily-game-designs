@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 377 Game Marketing Using Guerrilla Geocaching
-tags: game-marketing, underground
+categories: game-marketing, underground
 ---
 A marketing campaign for a game that includes a collectible card game / geocaching element.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 466 That NES Glock Gun
-tags: game-opinion
+categories: game-opinion
 ---
 I get a little disappointed / overwhelmed / confused by the video game journalism industry sometimes.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "567 Pokemon Go: Cards"
-tags: adventure-game, board-game, card-game
+categories: adventure-game, board-game, card-game
 ---
 A tabletop card game version of *Pokemon Go*.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 316 Majority Rules
-tags: quiz-game
+categories: quiz-game
 ---
 This interactive quiz game helps you and your friends take a large collection of activities and reduce it down to the most unanimously interesting choices.
 

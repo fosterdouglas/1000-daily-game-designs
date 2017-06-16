@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 299 Delayed Input
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 I recently saw the guys from [Tested.com](http://www.tested.com){:target="_blank"} put on a live show here in San Francisco at the fabulous Castro Theatre (see what I did there?).  During one of the experiments, the guys brought a remote-controlled toy truck on the stage, and someone drove it by issuing distance commands to someone else, who inputted them into an arduino system and then executed them.
 

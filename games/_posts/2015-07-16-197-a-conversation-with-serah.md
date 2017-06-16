@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 197 A Conversation With Serah
-tags: brain-game, experimental-game, VR-game
+categories: brain-game, experimental-game, VR-game
 ---
 A VR personality test game.
 

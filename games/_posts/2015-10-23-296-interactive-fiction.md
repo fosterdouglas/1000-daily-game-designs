@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 296 Interactive Fiction+
-tags: experimental-game, text-game, touch-controlled-game
+categories: experimental-game, text-game, touch-controlled-game
 ---
 As mentioned [yesterday](http://www.foster-douglas.com/games/295-lifeline-is-flawed-but-so-unique/) in my post about Lifeline, I’m interested in exploring how this idea can be pushed further.  We’ll continue with the idea of a stranded astronaut in space, since it’s relevant.
 

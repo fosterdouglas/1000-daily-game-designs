@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 414 Real Bumper Pool
-tags: sports-game
+categories: sports-game
 ---
 Like regular pool, but with bumpers.
 

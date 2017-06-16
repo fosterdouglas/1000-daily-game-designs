@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 312 Escape From Alcatraz
-tags: adventure-game, simulation-game
+categories: adventure-game, simulation-game
 ---
 Play as one of the three famous Alcatraz convicts, but plot the escape your own way and with your own tools.
 

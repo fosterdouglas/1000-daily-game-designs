@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 574 A Gradual Skill Tree
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 Skill trees are pretty much defined by their "monuments" or leaps of skill the player can choose from, every so often. This system would instead use more gradual change.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 740 Blind ConnectFour
-tags: board-game, classic-game, game-modification
+categories: board-game, classic-game, game-modification
 ---
 A modification of ConnectFour.
 

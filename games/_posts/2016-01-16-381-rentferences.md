@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 381 Rentferences
-tags: social-game
+categories: social-game
 ---
 A game about making secret references to Rent.
 

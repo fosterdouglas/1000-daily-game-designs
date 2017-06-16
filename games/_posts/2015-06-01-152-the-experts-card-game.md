@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "152 The Experts (Card Game)"
-tags: card-game
+categories: card-game
 ---
 Play as one of the six Experts in this unique card adaptation of the popular cooperative video game!
 

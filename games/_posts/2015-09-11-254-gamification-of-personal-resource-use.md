@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 254 Gamification Of Personal Resource Use
-tags: experimental-game, gamification
+categories: experimental-game, gamification
 ---
 How can we use gamification to help drive changes in people’s ecological habits?
 

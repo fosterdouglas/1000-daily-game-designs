@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 588 A Revision Of Archery
-tags: game-revision, physical-game
+categories: game-revision, physical-game
 ---
 Olympic games are something that don't often change.  The reason people do them and the reason it means so much is because it's a standardization, a measure of the physical and mental skill of human beings over the course of centuries and beyond.  We have recorded measure of the furthest distance a shot put can be thrown, and each Olympic games, someone tries to beat that record.  If and when new sports are introduced, they lose that context and deep history.
 

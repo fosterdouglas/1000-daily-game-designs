@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 363 Digital Drawing Skills
-tags: brain-game, creativity-game
+categories: brain-game, creativity-game
 ---
 A game that uses the iPad and Apple Pencil to teach fundamental drawing skills.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 321 Jethro The Janitor
-tags: simulation-game, time-management-game
+categories: simulation-game, time-management-game
 ---
 A game about cleaning things.
 

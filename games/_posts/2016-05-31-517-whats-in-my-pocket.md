@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 517 What's In My Pocket?
-tags: childrens-game, puzzle-game
+categories: childrens-game, puzzle-game
 ---
 A game where you have to guess which objects are in various types and sizes of pockets, just based on the outline they make.
 

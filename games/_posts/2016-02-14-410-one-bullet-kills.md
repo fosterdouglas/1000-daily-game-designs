@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 410 One Bullet Kills
-tags: educational-game, experimental-game, first-person-game, shooter-game
+categories: educational-game, experimental-game, first-person-game, shooter-game
 ---
 A first person shooter used to teach kids and teens (...and adults) about the danger and severity of guns.
 

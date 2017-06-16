@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 337 Open World Games Vs. Sandbox Games
-tags: game-genres, game-opinion
+categories: game-genres, game-opinion
 ---
 Talking with my friend Eric recently, I found myself struggling to vocalize the subtle (but important) differences between two games that seem on the surface to be alike.  It led me to consider the distinction between two similar genres.
 

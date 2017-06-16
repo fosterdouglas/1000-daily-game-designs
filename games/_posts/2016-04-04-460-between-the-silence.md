@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 460 Between The Silence
-tags: experimental-game, relationship-game
+categories: experimental-game, relationship-game
 ---
 A relationship game about speaking your mind at the right time.
 

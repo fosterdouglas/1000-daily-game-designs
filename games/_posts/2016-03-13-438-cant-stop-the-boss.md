@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 438 Can't Stop The Boss
-tags: experimental-game, physical-game
+categories: experimental-game, physical-game
 ---
 A game about physical endurance.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 501 Website Redesign
-tags: game-marketing
+categories: game-marketing
 ---
 I’m working on a redesign of this blog (well, a redesign of my entire site, really).  See below for an in-progress mock! Before and then After.
 

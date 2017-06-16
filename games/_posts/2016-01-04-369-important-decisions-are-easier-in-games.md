@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 369 Important Decisions Are Easier In Games
-tags: game-opinion
+categories: game-opinion
 ---
 Playing a lot of *Fallout 4* recently has me thinking about morality in decisions in gaming versus real life.
 

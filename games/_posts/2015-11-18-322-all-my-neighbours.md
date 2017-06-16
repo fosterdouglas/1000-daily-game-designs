@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 322 All My Neighbours
-tags: puzzle-game, side-scrolling-game, time-management-game
+categories: puzzle-game, side-scrolling-game, time-management-game
 ---
 A puzzle game about the going-ons of your local neighborhood.
 

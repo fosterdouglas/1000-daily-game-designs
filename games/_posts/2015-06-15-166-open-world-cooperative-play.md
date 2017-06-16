@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 166 Open World Cooperative Play
-tags: game-mechanic/system, game-opinion
+categories: game-mechanic/system, game-opinion
 ---
 I was inspired by many parts of the first annual Bethesda showcase this evening.  The most impressive thing, and probably the consensus highlight, was *Fallout 4*.  My first thought afterward was regarding multiplayer, specifically cooperative multiplayer.  There has yet to be a game of this scale that includes some sort of cooperative play.  
 

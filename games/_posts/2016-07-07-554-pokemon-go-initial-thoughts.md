@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 554 Pokemon Go, Initial Thoughts
-tags: game-opinion
+categories: game-opinion
 ---
 Once in a while a game comes along that completely changes the way people interact with each other, interact with games, or interact with the world.  Pokemon Go is on track to change all of those things.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 216 The World Gallery
-tags: vr-game, educational-game
+categories: vr-game, educational-game
 ---
 Enjoy digital recreations of popular art from the world’s most prestigious galleries, in VR.
 

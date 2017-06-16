@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 159 A Game About Texting And Driving
-tags: educational-game, experimental-game
+categories: educational-game, experimental-game
 ---
 An educational game that illustrates the distraction of texting while driving.
 

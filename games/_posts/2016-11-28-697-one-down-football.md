@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 697 One Down Football
-tags: game-modification, sports-game
+categories: game-modification, sports-game
 ---
 A variation on [my variation](http://www.foster-douglas.com/games/668-one-play-football/){:target="_blank"} of football. 
 

@@ -13,7 +13,7 @@
 
   <h3 class="ttu mb3 neutral"><span style="margin-right: 5px;" class="fa fa-heart-o"></span> My Recent Favorites</h3>
   {% assign favoritePosts = site.categories.games | where:'favorite', true %}
-  {% for post in favoritePosts limit: 7 %}
+  {% for post in favoritePosts limit: 10 %}
     <ul class="menu list pl0">
       <li><a class="light" href="{{ post.url }}">{{ post.title }}</a></li>
     </ul>

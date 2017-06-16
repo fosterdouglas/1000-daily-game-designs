@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 425 Ouch, My Punny Bone
-tags: web-game
+categories: web-game
 ---
 A pretty punny game.
 

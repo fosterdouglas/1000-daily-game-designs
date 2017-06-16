@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 736 Airline Speak
-tags: audio-game, simulation-game
+categories: audio-game, simulation-game
 ---
 A game where you must comprehend the enigma that is the airplane pilot intercom voice.
 

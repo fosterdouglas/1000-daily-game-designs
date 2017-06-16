@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 495 Underground Update 0007
-tags: adventure-game, strategy-game, turn-based-game, underground
+categories: adventure-game, strategy-game, turn-based-game, underground
 ---
 I’ve designed the basics for the write up for the 5th tech test, **proximity encounters**.
 

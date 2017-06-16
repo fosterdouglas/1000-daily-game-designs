@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 191 Quit Being So Rude To NPCs
-tags: game-opinion
+categories: game-opinion
 ---
 Why are we so rude to NPCs?    
 

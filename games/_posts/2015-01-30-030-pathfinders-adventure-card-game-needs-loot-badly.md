@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 030 Pathfinder Adventure Card Game Needs Loot Badly
-tags: card-game, game-modification
+categories: card-game, game-modification
 ---
 The Patherfinder Adventure Card Game is one of the coolest gaming experiences I’ve ever had.  Essentially, it's a co-op dungeon-crawling RPG, but using cards and dice.  My update to this game would be to adapt a monetary system into the game’s core play.  If you haven’t played this game before, most of the following might not make a ton of sense.
 

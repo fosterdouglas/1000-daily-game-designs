@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 555 Metal Gear Solid Midway Review
-tags: game-review-critique
+categories: game-review-critique
 ---
 Something about older games, they always take me forever to get through.  *Metal Gear Solid* (originally released on the PS1 in the ripe year of 1998) isn’t a particularly long game, 10 hours at most if you’re using a bit of help, maybe 15 at most if not.  But somehow it’s taken me almost year to get **half-way** through it.  Maybe it’s just easier to get excited about new games because they’re, well, **new**.  I could have played *Metal Gear Solid* through three times over in the time I spent on *Tropico 5* a few months back, and that all happened within a few weeks.
 

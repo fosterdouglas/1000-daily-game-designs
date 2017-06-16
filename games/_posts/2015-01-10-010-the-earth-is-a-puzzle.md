@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 010 The Earth is a Puzzle
-tags: physical-game, puzzle-game
+categories: physical-game, puzzle-game
 ---
 A physical puzzle of the planet Earth.  The globe is split up on 20 latitude and 20 longitude lines, and each of these sections is moveable, similar to a rubix cube. The puzzle is a total of 400 identical squares which are interlocking, each able to move either horizontally or vertically.
 

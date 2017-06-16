@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 660 MiniMetro Verses
-tags: game-modification
+categories: game-modification
 ---
 An asynchronous multiplayer experience inside of *MiniMetro*.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 074 Switching Items In Zelda
-tags: game-modification, game-review/critique
+categories: game-modification, game-review/critique
 ---
 Despite the many absolutely amazing parts about A Link Between Worlds (where to start!? the dungeon design, the item rental system, the innovative wall walking puzzles, the 3D usage, the music… it goes on and on), there’s one aspect of the game that I think could use some attention. 
 

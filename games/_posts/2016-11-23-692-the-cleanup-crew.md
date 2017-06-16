@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 692 The Cleanup Crew
-tags: experimental-game, meta-game
+categories: experimental-game, meta-game
 ---
 Who cleans up the mess that game protagonists leave behind?
 

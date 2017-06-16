@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 329 Dishes Tonight
-tags: social-game
+categories: social-game
 ---
 Use a fun and competitive mobile game to decide who has to do the dishes tonight.
 

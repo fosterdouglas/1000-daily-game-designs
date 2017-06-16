@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 340 Cooperative Questing
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 Even in games that are specifically designed for co-op play, it feels like sometimes they aren’t.
 

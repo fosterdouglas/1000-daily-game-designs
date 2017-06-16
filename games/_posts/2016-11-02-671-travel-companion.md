@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 671 Travel Companion
-tags: travel-game
+categories: travel-game
 ---
 A suite a games designed for the solitary traveler.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 110 Puzzle Battle
-tags: puzzle-game, competitive-game
+categories: puzzle-game, competitive-game
 ---
 A competitive game where puzzle pieces are picked and used to complete (or block) various patterns, shapes, and lines created.
 

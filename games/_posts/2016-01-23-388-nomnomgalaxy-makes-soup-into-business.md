@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 388 NomNomGalaxy Makes Soup Into Business
-tags: game-opinion, guest-writer, kevin
+categories: game-opinion, guest-writer, kevin
 favorite: true
 ---
 *Today marks an important day on this here game design journal blog thing! I’m having my first guest writer, Kevin, take over for a second and talk about what he loves most about the game NomNomGalaxy, which we recently played together via its local co-op mode:*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 661 The Overbearing Boyfriend
-tags: experimental-game, simulation-game
+categories: experimental-game, simulation-game
 ---
 Play the role of The Overbearing Boyfriend (or girlfriend).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 345 HydroTracker
-tags: game-hardware, gamification
+categories: game-hardware, gamification
 ---
 A game, app, or piece of hardware that encourages people to drink more water during the day.
 

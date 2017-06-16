@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 203 The UnGathering
-tags: card-game, experimental-game, game-modification
+categories: card-game, experimental-game, game-modification
 ---
 In this time-twisted take on *Magic: The Gathering*, players must “UnFight” key battles in *MTG* history to regain lost artifacts and learn the truth about their character's past.
 

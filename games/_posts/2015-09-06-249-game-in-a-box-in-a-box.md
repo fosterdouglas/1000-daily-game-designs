@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 249 Game-In-A-Box, In A Box
-tags: board-game
+categories: board-game
 ---
 A board game that’s played entirely inside of its box.
 

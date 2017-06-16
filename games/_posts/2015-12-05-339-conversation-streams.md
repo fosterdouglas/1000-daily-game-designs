@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 339 Conversation Streams
-tags: brain-game
+categories: brain-game
 ---
 In this brain game, manage as many concurrent conversations as possible.
 

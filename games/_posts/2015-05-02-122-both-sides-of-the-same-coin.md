@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 122 Both Sides Of The Same Coin
-tags: puzzle-game, rhythm-game
+categories: puzzle-game, rhythm-game
 ---
 This digital puzzle game uses two analog sticks to line up and organize different shapes inside two radial boards.
 

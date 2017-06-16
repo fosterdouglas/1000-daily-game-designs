@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 447 Complex Binary Decisions Are King
-tags: game-opinion
+categories: game-opinion
 ---
 The topic of decisions in gaming is tricky to navigate.  Hundreds of articles and videos have already debated the merits of player choice against the design/illusion of it.  Affordances in gaming, and the impact our decisions have on our avatars as well as introspectively on ourselves, are important if little-thought-of aspects to the average gamer.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 603 ScrabbleScript
-tags: coding-game, education-game
+categories: coding-game, education-game
 ---
 A teaching tool for JavaScript using a Scrabble board.
 

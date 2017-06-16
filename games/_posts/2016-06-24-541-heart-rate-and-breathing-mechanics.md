@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 541 Heart Rate And Breathing Mechanics
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 I’ve played a few games that implement certain audio assets or cues in their design that indicate that the player’s character is winded, out of energy, or full of adrenaline.
 

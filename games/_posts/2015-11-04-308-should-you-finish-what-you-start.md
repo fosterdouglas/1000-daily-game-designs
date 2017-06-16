@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 308 Should You Finish What You Start?
-tags: game-opinion
+categories: game-opinion
 ---
 The gaming community, [it’s well known](http://www.ign.com/articles/2014/03/17/gdc-most-players-donat-finish-games){:target="_blank"}, is bad at finishing what we start.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 578 Pokemon Go, One Month Later
-tags: game-opinion
+categories: game-opinion
 ---
 Certainly, *Pokemon Go* has lost its appeal. And how couldn’t it have? Anything that becomes that popular that fast will be scrutinized intensely and played by some until the game screams uncle.
 

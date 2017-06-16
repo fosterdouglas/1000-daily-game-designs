@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 723 Health And Healing
-tags: game-opinion
+categories: game-opinion
 ---
 The more I see it, and the more I think about it, the weirder it gets.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 502 Underground Update 0009
-tags: adventure-game, strategy-game, turn-based-game, underground
+categories: adventure-game, strategy-game, turn-based-game, underground
 ---
 We’ve got pathfinding!
 

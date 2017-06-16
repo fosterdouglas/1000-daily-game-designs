@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 542 Climbing Fatigue
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 Similar to yesterday’s mechanic, this would be used in an adventure/exploration game that uses climbing regularly in its core gameplay.
 

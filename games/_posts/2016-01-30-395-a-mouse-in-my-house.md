@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 395 A Mouse In My House
-tags: adventure-game, simulation-game, vr-game
+categories: adventure-game, simulation-game, vr-game
 ---
 So, there’s been a mouse problem at my house.
 

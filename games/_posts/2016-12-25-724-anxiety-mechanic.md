@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 724 Anxiety Mechanic
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 The *XCOM* series has an interesting mechanic based around the stress of the in-game character.  The stress is triggered when something horrific happens on the battlefield near the character.  They lose their cool a bit and start freaking out, maybe acting randomly or refusing to act at all.  Usually over time, the stress dissipates and the character returns to normal.
 

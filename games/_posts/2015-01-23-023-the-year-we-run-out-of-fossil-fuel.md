@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 023 The Year We Run Out Of Fossil Fuel
-tags: simulation-game
+categories: simulation-game
 ---
 In this sim game, the world's oil supply is down to the last 5 year's worth, and your coalition needs to decide how the following 5 years will pan out.
 

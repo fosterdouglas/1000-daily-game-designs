@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 224 More Music For Dicey
-tags: brain-game, dice-game, dicey, game-music, web-game
+categories: brain-game, dice-game, dicey, game-music, web-game
 ---
 In posts [#215](http://www.foster-douglas.com/games/215-dicey/) and [#217](http://www.foster-douglas.com/games/217-music-for-dicey/) I began detailing work on a dice-based brain training game called Dicey.
 

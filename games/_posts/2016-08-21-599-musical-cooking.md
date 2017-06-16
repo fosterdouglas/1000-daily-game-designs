@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 599 Musical Cooking
-tags: educational-game, food-game, music-game
+categories: educational-game, food-game, music-game
 ---
 Cooking and music aren't something that I immediately think pair together inheritly. While putting on music in the kitchen while cooking is always wonderful, and going out to eat somewhere while a band is playing create a wonderful mood... I don't think the connection goes much deeper than this.
 

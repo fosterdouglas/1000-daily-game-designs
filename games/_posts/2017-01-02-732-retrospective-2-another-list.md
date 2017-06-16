@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 732 Retrospective #2 (Another List)
-tags: game-opinion
+categories: game-opinion
 ---
 [Last year](http://www.foster-douglas.com/games/367-retrospective-the-list/){:target="_blank"} I did this thing where I made a retrospective list of some of my favorite or most meaningful posts of the year.  I think I’ll do it again this year! Here we go:
 

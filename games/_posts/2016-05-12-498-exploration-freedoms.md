@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 498 Exploration Freedoms In Uncharted 4
-tags: game-opinion
+categories: game-opinion
 ---
 As I play through *Uncharted 4*, slowly but surely, I can’t help but compare it to the series’ 3 (er.. 4, I guess) past entries. Exploration has always been a big piece of the *Uncharted* series, but it has always been restricted exploration.  Probably for the best, too, as it keeps the game flow moving forward and cements it solidly  as a story-based game, rather than donning the coveted **open-world** moniker (not all that coveted to me, actually).
 

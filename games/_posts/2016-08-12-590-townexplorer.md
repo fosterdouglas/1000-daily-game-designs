@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 590 TownExplorer
-tags: physical-game
+categories: physical-game
 ---
 A game that encourages you to explore every street in a city.
 

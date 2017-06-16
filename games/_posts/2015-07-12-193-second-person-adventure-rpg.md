@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 193 Second-Person Adventure RPG
-tags: experimental-game, narrative-game, role-playing-game
+categories: experimental-game, narrative-game, role-playing-game
 ---
 A second-person choose-your-own-adventure RPG.
 

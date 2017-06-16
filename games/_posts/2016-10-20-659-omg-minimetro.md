@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 659 OMG MiniMetro
-tags: game-review-critique
+categories: game-review-critique
 ---
 Where to begin with this game?
 

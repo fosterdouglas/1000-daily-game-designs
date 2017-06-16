@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 017 Mechanical Systems Builder
-tags: sandbox-game, puzzle-game
+categories: sandbox-game, puzzle-game
 ---
 Using an array of pieces, you're able to build and simulate complex mechanical systems. Examples would include pulleys, doors, hinges, tracks, levers, gears, pedals, hammers, belts, and all other mechanical-based aspects of machinery.
 

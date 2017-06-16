@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 214 Number-Free RPG
-tags: experimental-game, role-playing-game
+categories: experimental-game, role-playing-game
 ---
 An RPG that uses no numbers.
 

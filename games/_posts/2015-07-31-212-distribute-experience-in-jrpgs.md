@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 212 Distribute Experience In JRPGs
-tags: game-mechanic-system, game-opinion
+categories: game-mechanic-system, game-opinion
 ---
 In post [#127](http://www.foster-douglas.com/games/127-jrpgs-have-too-many-playable-characters/), I talked about how characters in JRPGs typically go forgotten eventually, if you favor using certain specific characters only.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 620 Life Is Strange, But The Game Was Not
-tags: game-opinion, game-review-critique
+categories: game-opinion, game-review-critique
 ---
 Recently I finished the 5th and final chapter of *Life is Strange*.
 

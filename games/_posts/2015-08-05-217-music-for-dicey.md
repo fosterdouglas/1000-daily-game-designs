@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 217 Music For Dicey
-tags: brain-game, dice-game, dicey, game-music, web-game
+categories: brain-game, dice-game, dicey, game-music, web-game
 ---
 In [post #215](http://www.foster-douglas.com/games/215-dicey/){:target="_blank"}, I conceptualized a brain training game about counting dice.
 

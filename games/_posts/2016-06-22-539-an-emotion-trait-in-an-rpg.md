@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 539 An Emotion Trait In An RPG
-tags: game-mechanic-system, role-playing-game
+categories: game-mechanic-system, role-playing-game
 ---
 This mechanic is used to describe an "emotional state" that a character is in.
 

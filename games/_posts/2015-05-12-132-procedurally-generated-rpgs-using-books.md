@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 132 Procedurally Generated RPGs Using Books
-tags: experimental-game, role-playing-game
+categories: experimental-game, role-playing-game
 ---
 This RPG uses book text as an input for its procedural algorithms. 
 

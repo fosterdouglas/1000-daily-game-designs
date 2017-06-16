@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 449 Snowflake Simulator
-tags: experimental-game, simulation-game
+categories: experimental-game, simulation-game
 ---
 A snowflake sim game, featuring a robust character creator.
 

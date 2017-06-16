@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 243 Something-A-Day
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 Instead of making a game design each day, make a game that has a system that allows content to be created for it, and create something daily for it.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 688 The Elements Of A Card
-tags: card-game, game-mechanic-system, game-opinion
+categories: card-game, game-mechanic-system, game-opinion
 ---
 A modern deck of cards is defined by the elements on the cards that are in common with or different from other cards.  There are 3 pieces of information that are used to group the cards:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 053 Learn The Clouds
-tags: childrens-game, educational-game
+categories: childrens-game, educational-game
 ---
 An educational game that teaches children the various types of clouds at an early and impressionable age.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 543 Uncharted's Smarter AI
-tags: game-mechanic-system, game-opinion
+categories: game-mechanic-system, game-opinion
 ---
 As a continuation of my *Uncharted 4: A Thief’s End* gushing, I was recently surprised by the step up that the game has made in AI compared to previous entries.
 

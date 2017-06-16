@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 234 Death Is Lazy Game Design
-tags: game-opinion
+categories: game-opinion
 ---
 In gaming, why is failure most commonly represented as death?
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 506 Permanent Consequence
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 A system of permanent consequence in characters.
 

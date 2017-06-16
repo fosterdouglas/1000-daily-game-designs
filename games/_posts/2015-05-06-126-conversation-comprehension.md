@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 126 Conversation Comprehension
-tags: brain-game, educational-game
+categories: brain-game, educational-game
 ---
 In this brain training exercise, you’re presented with messages shown sequentially, such as in a Messaging program.  The messages are from and to multiple different people, and its your task to keep track of each of the different conversations’ content. 
 

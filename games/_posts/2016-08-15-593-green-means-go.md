@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 593 Green Means Go
-tags: time-management-game, touch-controlled-game
+categories: time-management-game, touch-controlled-game
 ---
 A city driving game where you try to hit all green lights and touch your brake as little as possible.
 

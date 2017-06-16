@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 721 Gamer Perspective And Expectation
-tags: game-opinion
+categories: game-opinion
 ---
 I’ve noticed a lot recently in game design trends, developers leaning on their assumption of their players’ past knowledge of gaming.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 580 The Forever Poll
-tags: quiz-game, web-game
+categories: quiz-game, web-game
 ---
 A Forever-Poll is an online poll designed to ask similar basic questions to people over the course of 100’s of years.
 

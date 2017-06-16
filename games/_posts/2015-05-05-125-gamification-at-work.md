@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 125 Gamification At Work
-tags: gamification, social-game
+categories: gamification, social-game
 ---
 A gamification system that makes your mind-numbingly boring job slightly more bearable. 
 

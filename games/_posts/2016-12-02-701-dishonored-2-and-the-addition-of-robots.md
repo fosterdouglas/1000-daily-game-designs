@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 701 Dishonored 2 And The Addition Of Robots
-tags: game-opinion
+categories: game-opinion
 ---
 About half-way through *Dishonored 2*, the game introduces a new type of obstacle, basically robots.  In the first game there were some things that were robot-like, but still controlled or driven by a human.
 

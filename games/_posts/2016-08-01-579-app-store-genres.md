@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 579 App Store Genres
-tags: game-opinion
+categories: game-opinion
 ---
 After recently getting a new iPad after about three years without one, I've been exposed (again) to Apple's iOS App Store.
 

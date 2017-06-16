@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 647 Hidden Cooperation
-tags: game-opinion
+categories: game-opinion
 ---
 I love cooperation.
 

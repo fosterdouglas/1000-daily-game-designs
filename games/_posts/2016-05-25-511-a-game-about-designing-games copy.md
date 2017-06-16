@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 511 A Game About Designing Games
-tags: meta-game
+categories: meta-game
 ---
 In this game, it’s your job to design a game each day.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 639 First Forward
-tags: experimental-game
+categories: experimental-game
 ---
 I’ve always wanted to play a game that could be played again in reverse once it was completed.
 

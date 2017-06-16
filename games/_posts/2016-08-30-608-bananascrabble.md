@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 608 BananaScrabble
-tags: word-game, game-revision, board-game
+categories: word-game, game-revision, board-game
 ---
 On our vacation to Lago di Como this weekend, Madeleine and I invented a fun variation on Scrabble, similar to Bananagrams in some ways.
 

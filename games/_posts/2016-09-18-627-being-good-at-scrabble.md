@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 627 Being Good At Scrabble
-tags: board-game, game-opinion, word-game
+categories: board-game, game-opinion, word-game
 ---
 Madeleine has a certain aptitude for Scrabble that I can't seem to compete with.  It doesn't bother me really, and our games are all in good fun (except when they **aren't**!) But it does have me thinking about general strategies for the game.
 

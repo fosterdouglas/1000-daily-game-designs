@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 681 Fostering (Ha) Creativity
-tags: game-opinion
+categories: game-opinion
 ---
 I’ve been watching a lot of *Planet Coaster* streaming lately.  I haven’t boughten it yet mostly because it’s only on Windows.  Bummer.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 301 Complex Controls
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 On [Monday](http://www.foster-douglas.com/games/299-delayed-input/){:target="_blank"}, I talked a little bit about an idea of having a purposeful input delay in digital gaming.  This week, I came across something somewhat similar.  The game *Super Time Force Ultra*(SUCH A GOOD GAME!), is a side-scrolling shooter.  But, it transcends those bounds by also being an interesting action/puzzle game.
 

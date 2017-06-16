@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 307 Surprise Final Boss Encounters
-tags: game-opinion
+categories: game-opinion
 ---
 I would say that I hate nothing more than surprise bosses at the end of a game.  There are some games that have gotten away with it (*Persona 4* omg, and *Kingdom Hearts*, although I don’t forgive you for it still).  But generally speaking, it’s a terrible practice and lazy game design.
 

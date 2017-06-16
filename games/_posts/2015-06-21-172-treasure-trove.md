@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 172 Treasure Trove
-tags: co-op-game, experimental-game, physical-game, social-game
+categories: co-op-game, experimental-game, physical-game, social-game
 ---
 A two player cooperative treasure hunting game with one person at home on the console giving directions while the other person is on a mobile device receiving direction.
 

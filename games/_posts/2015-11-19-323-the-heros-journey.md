@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 323 The Hero's Journey
-tags: educational-game, experimental-game
+categories: educational-game, experimental-game
 ---
 A game about stories, why we tell them, and why we tell them how we do.
 

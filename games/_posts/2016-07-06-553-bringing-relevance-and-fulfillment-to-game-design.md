@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 553 Bringing Relevance And Fulfillment To Game Design
-tags: game-opinion
+categories: game-opinion
 ---
 One of my daily struggles as a game designer is figuring out how to bring relevance to the games and ideas that I work on.  And how that relevance affects people in the world.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 545 Death-GameOver-SavePoint
-tags: game-mechanic-system, game-opinion
+categories: game-mechanic-system, game-opinion
 ---
 I was watching a streamer play the new *Star Ocean* game today, and noticed that, as it is a classically designed JRPG, it still utilizes the common Death-GameOver-SavePoint system that was invented over 30 years ago.
 

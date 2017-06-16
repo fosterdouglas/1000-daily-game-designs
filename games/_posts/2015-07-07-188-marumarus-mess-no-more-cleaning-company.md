@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 188 MaruMaru's Mess-No-More Cleaning Company
-tags: order-in-chaos-game, time-management-game, touch-controlled-game
+categories: order-in-chaos-game, time-management-game, touch-controlled-game
 ---
 An iPad game about about cleaning houses.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 128 Tutorials After Prolonged Absence
-tags: game-mechanic/system
+categories: game-mechanic/system
 ---
 I’ve been known to play multiple games simultaneous, typically of a variety of genres.  But there does come the occasion that I’m playing two third-person adventure games, or two side-scrolling platforms, or two first-person shooters (you get the point).  When this happens, I’m prone to forgetting the nuances of a game’s control scheme.  Yes, I know that L1 aims, and R1 shoots; but I’ll never remember the complex button dance I need to be able to use a special ability while crouching behind cover while throwing a grenade while eating a sandwich.
 

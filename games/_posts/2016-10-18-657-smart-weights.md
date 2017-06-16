@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 657 Smart Weights
-tags: game-hardware, sports-game
+categories: game-hardware, sports-game
 ---
 Dumbell/free weights should be smarter.  It wouldn’t be hard for a system to be incorporated that tracks your sets and reps, gives you a weekly routine/schedule, helps you choose the right weight to be using, etc. 
 

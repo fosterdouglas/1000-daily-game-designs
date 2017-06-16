@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 640 Football Companion App
-tags: experimental-game, mobile-game, social-game, sports-game
+categories: experimental-game, mobile-game, social-game, sports-game
 ---
 In this football companion app, guess which plays the coach will choose next while you watch your favorite team play.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 658 Overcooked And The Blissful Couch Co-Op Experience
-tags: game-review-critique
+categories: game-review-critique
 ---
 I recently played the smart and frantic game *Overcooked*, cooperatively with my friend Eric. It was in many ways the perfect couch co-op experience.  It’s quick to get into, easy to understand the rules of, and provides the best kind of mass chaos. Most of the levels are designed in ways that force you to work together with the other players.
 

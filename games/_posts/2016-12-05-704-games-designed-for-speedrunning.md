@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 704 Games Designed For Speedrunning
-tags: game-opinion
+categories: game-opinion
 ---
 Speedrunning is a unique aspect of the gaming community.  I love that it takes something that already exists, and gives it a completely new purpose.
 

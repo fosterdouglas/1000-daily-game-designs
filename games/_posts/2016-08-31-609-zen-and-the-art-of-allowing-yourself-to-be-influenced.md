@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 609 Zen And The Art Of Allowing Yourself To Be Influenced
-tags: game-opinion
+categories: game-opinion
 ---
 Recently, I finished reading *Zen and the Art of the Motorcycle*.  Unfortunately this is a games-focused blog, so I can’t wax poetic endlessly about my opinions on it. (spoiler, I loved it. well, most of it.)
 

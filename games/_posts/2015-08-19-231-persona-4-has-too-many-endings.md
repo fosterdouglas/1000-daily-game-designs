@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 231 Persona 4 Has Too Many Endings
-tags: game-opinion
+categories: game-opinion
 ---
 Player agency is a big piece of modern gaming.  Being able to make decisions that matter and feeling like you are involved with the outcome are some of the most desirable qualities of games lately.
 

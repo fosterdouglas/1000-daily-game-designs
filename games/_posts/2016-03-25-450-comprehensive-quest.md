@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 450 Comprehensive Quest
-tags: active-game, food-game, physical-game
+categories: active-game, food-game, physical-game
 ---
 A game where you choose a specific activity, type of restaurant, or type of destination and visit as many of those as you possibly can.
 

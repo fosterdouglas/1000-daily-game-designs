@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "153 What's In A Brainstorm"
-tags: educational-game
+categories: educational-game
 ---
 Brainstorming exercises need to be less stressful.  If I’m sitting down in a room that’s about to have a brainstorm session, the main thing on my mind is how embarrassed I’m going to be when somebody rejects my ideas, or worse yet I can’t come up with any at all.
 

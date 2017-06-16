@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 612 Organic Language Learning
-tags: educational-game, language-game
+categories: educational-game, language-game
 ---
 I’ve been doing three different methods to prepare for my visit to Italy and my lack of proficiency in the Italian language.
 

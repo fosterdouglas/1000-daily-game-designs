@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 480 No-Screen Sundays
-tags: experimental-game
+categories: experimental-game
 ---
 Today I did an experiment.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 497 Underground Update 0008
-tags: adventure-game, strategy-game, turn-based-game, underground
+categories: adventure-game, strategy-game, turn-based-game, underground
 ---
 We’ve started dabbling with our fourth tech test, **pathfinding**, continuing under the guidance of Red Blob Games’ amazing articles (and injecting our own creativity, too).
 

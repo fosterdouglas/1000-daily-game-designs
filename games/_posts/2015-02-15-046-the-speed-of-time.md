@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 046 The Speed of Time
-tags: game-mechanic, narrative-game
+categories: game-mechanic, narrative-game
 ---
 As you progress forward through the game, time slowly and imperceptibly begins moving more slowly.
 

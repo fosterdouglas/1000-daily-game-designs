@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 678 You Recognize Me
-tags: game-modification, simulation-game
+categories: game-modification, simulation-game
 ---
 A flip on [a previous post](http://www.foster-douglas.com/games/650-i-recognize-you/){:target="_blank"}, where the goal was to avoid people you know in a cafe simulation game.
 

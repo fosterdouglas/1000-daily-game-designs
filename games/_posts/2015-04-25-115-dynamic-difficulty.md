@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 115 Dynamic Difficulty
-tags: game-system/mechanic
+categories: game-system/mechanic
 ---
 This system tracks players movements, decisions, and focus closely, and responds behind the scenes to accommodate game difficulty scaling.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 289 Fiori Musicali
-tags: childrens-game, educational-game, music-game
+categories: childrens-game, educational-game, music-game
 ---
 Live through the early 1600’s as a musician and composer.
 

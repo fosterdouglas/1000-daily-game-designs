@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 324 RelationShips
-tags: board-game, social-game
+categories: board-game, social-game
 ---
 A pirate-themed board game that’s focused on growing and maturing your relationship with your significant other.
 

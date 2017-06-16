@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 384 Impressions After Fallout 4
-tags: narrative-game
+categories: narrative-game
 ---
 I’ve talked *about Fallout 4* a little bit so far; like that time it [influenced the way I think about making decisions in life](http://www.foster-douglas.com/games/369-important-decisions-are-easier-in-games/){:target="_blank"}, or my [critique on its dialogue system](http://www.foster-douglas.com/games/378-evolved-dialogue-system/){:target="_blank"}, and even a weird idea to include more [voice and microphone input](http://www.foster-douglas.com/games/379-using-controller-microphones/){:target="_blank"}.  But I’ve certainly had many more thoughts than those throughout the 49 hours I put into it, over the course of 2 months (for any non-gamers, that’s not quite as much time as it sounds like; it’s about identical in hours to watching the Breaking Bad series).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 653 Emoji Journal
-tags: experimental-game
+categories: experimental-game
 ---
 Keep a journal of the highlights of each day of your life.  This is like a normal journal, except you can only type using emoji.  
 

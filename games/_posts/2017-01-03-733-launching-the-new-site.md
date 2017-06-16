@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 733 Launching The New Site
-tags: game-marketing
+categories: game-marketing
 ---
 Here we are, **seven hundred and thirty-three** posts into this crazy experiment… and it’s time for a face lift!  A major one!
 

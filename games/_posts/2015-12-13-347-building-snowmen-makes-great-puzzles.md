@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 347 Building Snowmen Makes Great Puzzles
-tags: game-review-critique
+categories: game-review-critique
 ---
 Atmospheric/zen puzzle games can be hit-or-miss for me; sometimes they’re totally transcendent and wonderful experiences, and other times it feels like a chic minimal tragedies with one interesting "hook" that definitely doesn’t deserve an entire game’s worth of puzzles.
 

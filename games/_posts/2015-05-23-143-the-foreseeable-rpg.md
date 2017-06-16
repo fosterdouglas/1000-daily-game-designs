@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 143 The Foreseeable RPG
-tags: game-review/critique, role-playing-game
+categories: game-review/critique, role-playing-game
 ---
 I’ve been playing a recently released iOS RPG (*Knights of Pen & Paper 2*), and it’s becoming clear an issue plagues many of these types of games.  On the surface, they can be a lot of fun.  They’ve got interesting settings, some fun stats to manage, a bit of difficult battling to do, and things like that.  The problem comes when you dive deeper into the game.
 

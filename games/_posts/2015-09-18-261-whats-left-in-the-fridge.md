@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 261 What's Left In The Fridge?
-tags: brain-game
+categories: brain-game
 ---
 A brain training game about refrigerator memory.
 

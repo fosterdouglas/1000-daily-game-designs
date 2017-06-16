@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 202 Nap Prevention App
-tags: brain-game, experimental-game
+categories: brain-game, experimental-game
 ---
 An application that guides you through a short nap-reduction sequence.
 

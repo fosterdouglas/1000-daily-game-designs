@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 233 The RPG Boss Tropes
-tags: game-opinion
+categories: game-opinion
 ---
 One thing that has always bothered me about the majority of JRPG and JRPG-inspired American RPGs is the boss design. 
 

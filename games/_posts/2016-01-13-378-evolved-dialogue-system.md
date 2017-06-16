@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 378 Evolved Dialogue System
-tags: game-opinion
+categories: game-opinion
 ---
 I’ve talked about dialogue in the past, multiple times.  It can play so many critical and different roles across various game genres, but since I’ve been playing a fair amount of *Fallout 4* recently, I’ve been thinking about it in relation to open world games specifically.
 

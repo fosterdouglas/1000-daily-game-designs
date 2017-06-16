@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 305 ALE (Alpha Level Editor)
-tags: experimental-game, meta-game, side-scrolling-game
+categories: experimental-game, meta-game, side-scrolling-game
 ---
 You’re a game designer who accidentally trapped her favorite character inside of an Alpha-state incomplete level editor for a game.
 

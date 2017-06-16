@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 634 Race Chase Space Displace
-tags: game-opinion
+categories: game-opinion
 ---
 I wanted to write about this article, and about the book it references. Unfortunately, the book is too expensive to justify buying.  $65, really? Sorry, maybe next time.
 

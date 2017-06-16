@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 096 The Wyoming Basin
-tags: adventure-game, driving-game, narrative-game, survival-game
+categories: adventure-game, driving-game, narrative-game, survival-game
 ---
 A petrol-pocolypse world where petrol became scarce before we were quite prepared to live without it.  Three sisters must drive from Cheyenne, Wyoming to Mount Whitney in California, with an extremely important piece of cargo. They must use ingenuity as the three women cross through the Wyoming Basin and beyond, constantly on the search for petrol to keep them moving.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 223 A Mini Inventory In Borderlands
-tags: game-modification
+categories: game-modification
 ---
 Playing Borderlands 2 recently, it dawned on my co-op partner Kevin that there could be a better way to view your guns without going into the pause menu.
 

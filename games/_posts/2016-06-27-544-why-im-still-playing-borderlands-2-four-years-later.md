@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 544 Why I'm Still Playing Borderlands 2, Four Years Later
-tags: game-opinion
+categories: game-opinion
 ---
 Hay! My first click-bait title!
 

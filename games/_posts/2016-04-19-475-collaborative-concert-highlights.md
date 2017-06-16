@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 475 Collaborative Concert Highlights
-tags: music-game
+categories: music-game
 ---
 A game/app that helps fellow concert-goers create a collaborative post-show video highlight experience.
 

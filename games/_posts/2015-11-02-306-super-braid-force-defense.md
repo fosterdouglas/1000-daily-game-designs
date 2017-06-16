@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 306 Super Braid Force Defense
-tags: experimental-game, strategy-game
+categories: experimental-game, strategy-game
 ---
 I played the crap out of *Super Time Force Ultra* recently, and was genuinely overjoyed with the experience (hmm… it might make this year’s favorites list!). And naturally, it will likely influence the designs coming out of my head for the next few weeks.
 

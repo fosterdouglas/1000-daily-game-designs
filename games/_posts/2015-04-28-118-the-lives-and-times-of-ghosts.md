@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 118 The Lives And Times Of Ghosts
-tags: narrative-game
+categories: narrative-game
 ---
 A narrative game, opening on the grand ceremony of the 1964 World’s Fair, in New York City.
 

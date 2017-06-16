@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 559 phonesidedown
-tags: experimental-game
+categories: experimental-game
 ---
 A game that flips your phone’s interface/screen upside down.
 

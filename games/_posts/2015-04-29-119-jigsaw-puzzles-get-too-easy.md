@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 119 Jigsaw Puzzles Get Too Easy
-tags: game-modification, physical-puzzle
+categories: game-modification, physical-puzzle
 ---
 Typically, when putting together a jigsaw puzzle, as you get toward the end of the puzzle, it begins getting easier and easier. This augmented puzzle concept maintains its difficulty through to the final pieces.
 

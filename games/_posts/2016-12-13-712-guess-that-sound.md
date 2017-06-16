@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 712 Guess That Sound
-tags: brain-game, puzzle-game
+categories: brain-game, puzzle-game
 ---
 A simple game of guess the sound.
 

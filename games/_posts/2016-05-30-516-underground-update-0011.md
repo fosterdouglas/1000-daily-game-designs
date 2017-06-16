@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 516 Underground Update 0011
-tags: adventure-game, strategy-game, turn-based-game, underground
+categories: adventure-game, strategy-game, turn-based-game, underground
 ---
 Kevin has been working on making the **pathfinding** a little bit smarter and a little bit slower!
 

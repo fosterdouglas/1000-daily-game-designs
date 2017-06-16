@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 205 Why Are We Always The Good Guy?
-tags: game-opinion
+categories: game-opinion
 ---
 It’s common in games to have a morally ambiguous character handed to the player, asking them to decide how to enact out their own values compass vicariously through that character.
 

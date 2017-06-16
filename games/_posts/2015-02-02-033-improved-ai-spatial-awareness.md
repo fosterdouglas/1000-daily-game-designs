@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 033 Improved AI Spatial Awareness
-tags: game-algorithm, game-mechanic
+categories: game-algorithm, game-mechanic
 ---
 In many 3D games with large numbers of NPCs, such as Assassin’s Creed, as well as in mobile and 2D games, crowd interaction is incredibly important to the realism of an experience.  Not only the player’s interaction with NPUs (non-player units), but also the interactions between NPUs.  I propose an algorithm to address this.
 

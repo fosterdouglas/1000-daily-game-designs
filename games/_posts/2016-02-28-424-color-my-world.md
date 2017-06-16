@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 424 Color My World
-tags: web-game
+categories: web-game
 ---
 A web game/app that makes bedroom interior design more fun and affordable!
 

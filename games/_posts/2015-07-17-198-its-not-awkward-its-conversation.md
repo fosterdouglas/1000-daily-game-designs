@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 198 It's Not Awkward, It's Conversation
-tags: game-mechanic-system, game-opinion
+categories: game-mechanic-system, game-opinion
 ---
 Games like *Dragon Age* (or anything by Bioware really, or Bethesda Softworks) are known for their unique branching and dynamic dialogue-based interactions.
 

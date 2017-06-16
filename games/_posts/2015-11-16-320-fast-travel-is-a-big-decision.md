@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 320 Fast Travel Is A Big Decision
-tags: game-mechanic-system, game-opinion
+categories: game-mechanic-system, game-opinion
 ---
 The concept of "fast travel" is simple; open world games require a lot time-consuming traversal, minimized by allowing the player to instantly teleport to places they’ve already visited.
 

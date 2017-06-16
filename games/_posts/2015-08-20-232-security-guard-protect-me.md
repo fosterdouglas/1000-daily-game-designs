@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 232 Security Guard, Protect Me!
-tags: experimental-game, simulation-game
+categories: experimental-game, simulation-game
 ---
 Why do we always play characters that are sneaking past security guards? Nobody ever wants to play as the security guard.
 

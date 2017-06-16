@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 181 A Game With No Sound
-tags: experimental-game
+categories: experimental-game
 ---
 A game with no sound.
 

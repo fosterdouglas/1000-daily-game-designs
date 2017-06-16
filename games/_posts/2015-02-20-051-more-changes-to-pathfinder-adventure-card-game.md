@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 051 More Changes To Pathfinder Adventure Card Game
-tags: adventure-game, card-game, co-op-game, game-modification
+categories: adventure-game, card-game, co-op-game, game-modification
 ---
 Rules or character abilities:
 

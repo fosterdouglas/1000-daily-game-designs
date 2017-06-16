@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 221 The Problem (And Beauty) Of Open Exploration Games
-tags: game-opinion
+categories: game-opinion
 ---
 Playing *The Vanishing of Ethan Carter* this weekend got me thinking more about the emerging **interactive exploration/story-telling** genre recently.  This game type has numerous redeeming qualities, and the capstone of the genre so far is Fullbright’s *Gone Home*, from 2013.  In my opinion, it’s one of the video game genre’s greatest story-telling achievements of all time.  And it’s what opened me up to trying more games that are similar, like *The Vanishing of Ethan Carter*.  And so far, a few hours in, I’m having an awesome time with it.  That said, I have a bone to pick.
 

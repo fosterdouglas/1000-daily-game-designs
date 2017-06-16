@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 310 Improvise This!
-tags: brain-game, educational-game, music-game
+categories: brain-game, educational-game, music-game
 ---
 Any musician hopes to better their improvisational skills at any given time; the ability to improvise melodies and chords is greatly sought after.  Maybe there’s a way that a game can help unlock this potential in people.
 

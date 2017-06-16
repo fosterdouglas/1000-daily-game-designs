@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 572 Fixed Cameras In 3D Games
-tags: game-mechanic-system
+categories: game-mechanic-system
 ---
 Were these ever a good idea?
 

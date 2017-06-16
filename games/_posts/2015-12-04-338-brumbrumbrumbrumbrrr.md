@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 338 BrumBrumBrumBrumBrrr
-tags: driving-game, experimental-game
+categories: driving-game, experimental-game
 ---
 An arcade racing game made using only the human mouth to produce all sounds for the cars and environments.
 

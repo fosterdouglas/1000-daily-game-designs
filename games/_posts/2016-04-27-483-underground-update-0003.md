@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 483 Underground Update 0003
-tags: adventure-game, strategy-game, turn-based-game, underground
+categories: adventure-game, strategy-game, turn-based-game, underground
 ---
 I've refined the visual design of the **hex board** test, and Kevin has implemented some basic interactivity and animation.  We’re excited about the direction that this is moving in!
 

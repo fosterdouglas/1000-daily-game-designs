@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 285 Chord Climbing
-tags: experimental-game, physical-game, puzzle-game
+categories: experimental-game, physical-game, puzzle-game
 ---
 A game played using a standard 88-key piano.
 

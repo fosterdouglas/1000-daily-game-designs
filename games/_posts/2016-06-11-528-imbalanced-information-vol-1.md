@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 528 Imbalanced Information, Vol. 1
-tags: game-opinion, game-theory, strategy-game
+categories: game-opinion, game-theory, strategy-game
 favorite: true
 ---
 Information is a valuable commodity in strategy games.  It’s most heavily coveted in complex and balanced board games and in multiplayer strategy video games. Knowing something about an opponent— especially something your opponent doesn’t know you know— can turn the tides of an competition immensely.

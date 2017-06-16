@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 142 Asymmetrical Baseball
-tags: game-modification, sports-game
+categories: game-modification, sports-game
 ---
 This is a concept of an alteration of the classic game of baseball.
 

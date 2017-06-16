@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 225 Trampoline Ball
-tags: game-modification, sports-game
+categories: game-modification, sports-game
 ---
 Basketball, except played on trampolines.
 

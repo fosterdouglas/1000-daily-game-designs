@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 470 XCOM Gets Real
-tags: game-modification, strategy-game, turn-based-game
+categories: game-modification, strategy-game, turn-based-game
 ---
 I love strategy games like the *XCOM* series. I like that I get to pause and think about my options and craft a strategy based on every piece of information that’s available to me.  But I also love real-time games, like Warcraft.  They are improvisational and reactionary, and ask the player to be quick-thinking.  It’s book smarts versus street smarts.
 

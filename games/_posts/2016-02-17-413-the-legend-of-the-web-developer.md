@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 413 The Legend Of The Web Developer
-tags: educational-game, simulation-game
+categories: educational-game, simulation-game
 ---
 A game about the heroics of an unassuming web developer.
 

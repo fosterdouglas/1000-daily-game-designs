@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 293 Pirates Of The C
-tags: childrens-game, educational-game
+categories: childrens-game, educational-game
 ---
 A kids narrative/educational game about a group of mischievous pirates that accidentally lost all the letters of the alphabet.
 

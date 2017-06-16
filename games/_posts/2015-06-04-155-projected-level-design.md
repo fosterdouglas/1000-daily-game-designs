@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 155 Projected Level Design
-tags: game-development-software, game-hardware
+categories: game-development-software, game-hardware
 ---
 A method of designing levels that developers could use to enhance the realism of their work.
 

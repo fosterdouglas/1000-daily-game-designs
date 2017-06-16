@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 366 Retrospective (The Words)
-tags: game-opinion
+categories: game-opinion
 ---
 Exactly a year ago, I had this crazy idea to create a new interactive idea each day of the year.  I’m happy to report that I made it through the entire year!  I didn’t ever doubt that I could do it, despite ideas sometimes being painfully hard to conjure.  While sometimes I would wait a few days to actually publish the posts, I consistently thought about and wrote up posts each day of the year.
 

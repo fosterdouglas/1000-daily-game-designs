@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 064 The Reduction Of Affordances
-tags: game-mechanic/system
+categories: game-mechanic/system
 ---
 Affordances are things that the player is able to do, within the interactive environment of gaming. In many games, affordances typically start out limited (for example, I can run and jump at level one) and slowly grow (by level six I can swim), and eventually plateau at a certain functionality (at level ten I’m flying).
 

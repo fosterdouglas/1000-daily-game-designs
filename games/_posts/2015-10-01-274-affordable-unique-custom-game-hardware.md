@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 274 Affordable Unique Custom Game Hardware
-tags: game-hardware, game-opinion, physical-game
+categories: game-hardware, game-opinion, physical-game
 ---
 More games should use unique custom hardware.
 

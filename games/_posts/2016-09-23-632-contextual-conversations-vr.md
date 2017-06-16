@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 632 Contextual Conversations VR
-tags: educational-game, vr-game
+categories: educational-game, vr-game
 ---
 An educational game that helps you exercise your ear for foreign languages.
 

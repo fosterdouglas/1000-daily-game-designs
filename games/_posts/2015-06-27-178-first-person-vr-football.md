@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 178 First-Person VR Football
-tags: experimental-game, first-person-game, sports-game, vr-game
+categories: experimental-game, first-person-game, sports-game, vr-game
 ---
 A 22-player competitive online game with each person playing as a part of an (American) football team.
 

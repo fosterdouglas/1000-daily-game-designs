@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 676 Synchronized Multi-Tasking
-tags: game-opinion
+categories: game-opinion
 ---
 Sometimes there is a certain synergy that exists between two seemingly unrelated activities.  Things like walking and thinking, flying in an airplane and sleeping, or singing and dancing.  They are all viable activities on their own, but something about doing them together creates a unique energy.
 

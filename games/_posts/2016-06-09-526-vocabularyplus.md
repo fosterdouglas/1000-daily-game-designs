@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 526 "Vocabulary+"
-tags: mobile-game, word-game
+categories: mobile-game, word-game
 ---
 A add-on for Apple’s Messages app that tracks and gamifies your vocabulary use.
 

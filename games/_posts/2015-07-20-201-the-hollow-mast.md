@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 201 The Hollow Mast
-tags: adventure-game, role-playing-game
+categories: adventure-game, role-playing-game
 ---
 Join a 10-month British transatlantic Brigantine expedition during the early 1800’s, scouting enemy ships, transporting crucial cargo, and contributing to a ship crew of over a hundred members.
 
