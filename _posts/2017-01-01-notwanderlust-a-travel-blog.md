@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Not Wanderlust  A Travel Journal
+title:  "[Not] Wanderlust - A Travel Journal"
 image: notwanderlust.jpg
 category: projects
 role: Writer

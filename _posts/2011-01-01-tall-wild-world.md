@@ -1,13 +1,9 @@
 ---
 layout: project
-title:  Tall Wild World
-image: tallwildworld.jpg
-
+title: Tall Wild World
 category: projects
-role: Designer and Curator
-description: A designed and curated show of various children's illustrations, with art by Kevin McGillivray.
 ---
-I collaborated with [Kevin McGillivray](http://kevinmcgillivray.net/ "Kevin McGillivray") on this show, helping to curate the final selections, design their layout, design and print posters and cards, and assemble the show.
+I collaborated with [Kevin McGillivray](http://kevinmcgillivray.net/ "Kevin McGillivray") on his children's illustrations show, helping to curate the final selections, design their layout, design and print posters and cards, and assemble the show.
 
 Additional details about the pieces in the gallery can be seen here:
 
@@ -17,11 +13,7 @@ Additional details about the pieces in the gallery can be seen here:
 
 [Alpha Bugs](http://kevinmcgillivray.net/alphabugs/ "Alpha Bugs")
 
-Also check out Kevin's [Etsy](http://www.etsy.com "Etsy") shop for purchasing information.
-
-
 ![tallwildworld_image01](/img/tallwildworld_image01.jpg "Tall Wild World Image 01")
 ![tallwildworld_image02](/img/tallwildworld_image02.jpg "Tall Wild World Image 02")
 ![tallwildworld_image03](/img/tallwildworld_image03.jpg "Tall Wild World Image 03")
-![tallwildworld_image04](/img/tallwildworld_image04.png "Tall Wild World Image 04")
 ![tallwildworld_image05](/img/tallwildworld_image05.jpg "Tall Wild World Image 05")

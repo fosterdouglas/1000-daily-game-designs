@@ -71,7 +71,7 @@ a:hover {
 	transition: .3s color;
 }
 .main-content a:hover {
-  color: lighten($bright, 10%);
+  color: $light;
   text-decoration: none;
   transition: .3s all;
 }
@@ -80,7 +80,7 @@ a:hover {
 	color: $fs-blue;
 }
 .post-content a:hover {
-	color: darken($fs-blue, 10%);
+	color: $light;
 }
 ol li,
 ul li {

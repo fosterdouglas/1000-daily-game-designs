@@ -1,12 +1,10 @@
 ---
 layout: project
 title:  UWM Research Assistant
-image: surf.jpeg
 category: projects
-description: A collection of collaborative projects, by interactive artist Nathaniel Stern.
 ---
 
-The _SURF_ program (Support for Undergraduate Research Fellows) allowed me the opportunity, at UW-Milwaukee, to work closely with an accomplished and currently active professor. Activities would vary from studio production time, installation setup, consultations, and general preperation. Although I worked on a large assortment of things, I had the most significant impact on the following projects:
+The _SURF_ program (Support for Undergraduate Research Fellows) at the University of Wisconsin Milwaukee allowed me the opportunity to work closely with an accomplished and currently artistically active professor. Activities varied from studio production time, installation setup, consultations, and general preperation. Although I worked on a large assortment of things, I had the most significant impact on the following projects:
 
 ## 13 Views of a Journey
 
@@ -32,7 +30,7 @@ More info on [Falling Still](http://nathanielstern.com/artwork/falling-still/ "1
 
 _Given Time simultaneously activates and performs two permanently logged-in Second Life avatars, each forever and only seen by and through the other. They hover in mid-air, almost completely still, gazing into one another’s interface. Viewers encounter this networked partnership as a diptych of large-scale and facing video projections in a real world gallery, both exhibiting a live view of one avatar, as perceived by the other._
 
-Although Given Time was produced before my time with Dr. Stern, it was exhibited later in a gallery in London which I was invited to assist with. I was on location during the setup to install the piece, as well as other related pieces in the exhibition. Collaborator [Kevin McGillivray](http://kevinmcgillivray.net/ "Kevin McGillivray") also assisted.
+Although Given Time was produced before my time with Dr. Stern, it was exhibited later in a gallery in London which I was invited to assist with. I was on location during the setup to install the piece, as well as other related pieces in the exhibition. Long-time collaborator [Kevin McGillivray](http://kevinmcgillivray.net/ "Kevin McGillivray") also assisted.
 
 I also produced a video for the London exhibition, which was used during the [2011 Transmediale](http://www.transmediale.de/category/tm-year/tm11) presentation about [Wikipedia Art](http://foster-douglas.com/wikipedia-art.org "Wikipedia Art"). Additional video and images of the London exhbition can be seen [here](http://nathanielstern.com/artwork/wikipedia-art/ "Wikipedia Art Installation").
 
