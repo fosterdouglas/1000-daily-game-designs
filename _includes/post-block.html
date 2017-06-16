@@ -16,7 +16,7 @@
     <hr class="mv4 short-rule">
     <p class="bree mb0">{{ thePost.date | date: "%B %-d, %Y" }}</p>
     <p class="bree light mb3">{% for category in thePost.categories %}#{{ category }} {% endfor %}</p>
-    <div class="mv4 measure">
+    <div class="bree mv4 measure">
       {% capture bio %}{% include bio.md %}{% endcapture %}
       {{ bio | markdownify }}
     </div>
