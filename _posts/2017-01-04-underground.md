@@ -15,3 +15,9 @@ It is the largest and most in-depth game project we've done, and is still in its
 ![underground_image06](/img/underground6.gif)
 ![underground_image07](/img/underground7.png)
 ![underground_image08](/img/underground8.gif)
+
+Below are all of the posts written over the course of the game's progress so far:
+
+{% for post in site.categories.underground %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
