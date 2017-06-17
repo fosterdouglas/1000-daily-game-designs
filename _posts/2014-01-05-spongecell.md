@@ -7,6 +7,8 @@ At [Spongecell](http://www.spongecell.com), I had client-facing interactions wit
 
 I used primarily HTML5 and Flash to produce interactive ad placements, and tools like [Asana](http://www.asana.com) and [JIRA](https://www.atlassian.com/software/jira) to collaborate with the product, engineering, and sales teams, as well as for general project management. Check out their [gallery of ads](http://www.spongecell.com/gallery) to see other examples of Spongecell's work.
 
+![spongecell_image01](/img/spongecell-white.jpg)
+
 Below is a comparison on one of many enhancements made on Zappos' digital advertising:
 
 <iframe src="https://player.vimeo.com/video/126886181?color=2ba6cb&title=0&byline=0&portrait=0" width="100%" height="377" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

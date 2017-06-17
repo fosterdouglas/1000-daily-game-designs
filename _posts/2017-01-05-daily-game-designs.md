@@ -15,3 +15,4 @@ All the posts I've done so far can be found over in the [Daily Game Designs](htt
 {% endif %}
 {% endfor %}
 
+<a href="/archive/" target="_blank" class="db br3 bw1 bree tc neutral b ba b--neutral pv2 ph4">Game Posts Archive</a>

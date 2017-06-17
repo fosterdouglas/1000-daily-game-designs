@@ -7,4 +7,4 @@ CodeConvoy was a web development school run by myself and [Kevin McGillivray](ht
 
 <a href="http://codeconvoy.com" target="_blank" class="db br3 bw1 bree tc neutral b ba b--neutral pv2 ph4">Visit CodeConvoy</a>
 
-
+![codeconvoy_image01](/img/codeconvoy1.png)
