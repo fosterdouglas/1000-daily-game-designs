@@ -19,7 +19,7 @@ Kevin and I donted our time and services to this project, a first-year literary 
 
 <h2 style="color:#EDC336;">Foster Douglas Personal Website</h2>
 
-My personal website has gone through a ridiculous number of visual iterations, finally recently landing comfortably on the current iteration. The project is a good example of how I've grown as a designer, and how important it is to sometimes revisit and update past designs.
+My personal website has gone through a ridiculous number of visual iterations, finally recently landing comfortably on its current look. This project is a good example of how immensely I've grown as a designer, and how important it is to sometimes revisit and update your past designs.
 
 <iframe src="https://player.vimeo.com/video/221784437?color=EDC336&title=0&byline=0&portrait=0" width="100%" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
