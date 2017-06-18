@@ -6,7 +6,7 @@ category: projects
 
 The _SURF_ program (Support for Undergraduate Research Fellows) at the University of Wisconsin Milwaukee allowed me the opportunity to work closely with an accomplished and currently artistically active professor. Activities varied from studio production time, installation setup, consultations, and general preperation. Although I worked on a large assortment of things, I had the most significant impact on the following projects:
 
-## 13 Views of a Journey
+<h2 style="color:#9B9B9B;">13 Views of a Journey</h2>
 
 _Large-scale translucent prints are mounted to plexiglass with rear projected video through them, creating moving images on paper. Their 12 animated vignettes are continuously played in random order behind fibrous and inky paper prints, making a dynamic and room-sized book art project._
 
@@ -16,17 +16,17 @@ More info on [13 Views of a Journey](http://nathanielstern.com/artwork/13-views-
 
 ![surf_image01](/img/surf_image01.png "SURF Image 01")
 
-## Falling Still
+<h2 style="color:#9B9B9B;">Falling Still</h2>
 
 _Falling Still utilizes 200 cement-cast feathers as individual pixels to create a larger image across 6 planes. Each of these sculptures has been hand-poured into molds of actual feathers, exhibiting finely detailed quills on one side, and flat concrete surfaces on the other. They hang from the ceiling via discrete fishing lines, swinging, twisting and turning as viewers move around the 8 x 15 x 4 foot installation area. From all perspectives but one, the work floats between 1-dimensional lines, 2-dimensional planes and 3-dimensional pixels. View it exactly perpendicular to its planes, and all the work’s elements cohere into a bit-mapped image of a body, leaping through the air._
 
 During this project, I did the initial design of the entire layout of where the feathers would eventually hang, using Google's SketchUp. I then participated in revisions, documentation, and eventually the installation of the piece.
 
-More info on [Falling Still](http://nathanielstern.com/artwork/falling-still/ "13 View of a Journey").
+More info on [Falling Still](http://nathanielstern.com/artwork/falling-still/ "Falling Still").
 
 ![surf_image02](/img/surf_image02.png "SURF Image 02")
 
-## Given Time
+<h2 style="color:#9B9B9B;">Given Time</h2>
 
 _Given Time simultaneously activates and performs two permanently logged-in Second Life avatars, each forever and only seen by and through the other. They hover in mid-air, almost completely still, gazing into one another’s interface. Viewers encounter this networked partnership as a diptych of large-scale and facing video projections in a real world gallery, both exhibiting a live view of one avatar, as perceived by the other._
 
@@ -38,7 +38,7 @@ More info on [Given Time](http://nathanielstern.com/artwork/given-time/ "Given T
 
 ![surf_image03](/img/surf_image03.png "SURF Image 03")
 
-## Strange Vegetation
+<h2 style="color:#9B9B9B;">Strange Vegetation</h2>
 
 _Strange Vegetation is an interconnected and synthetic organism of over a dozen breathing, latex sculptures, in the shape of improbably large onion stalks. It is a site-conditioned installation incorporated with the repeated pattern of exotic greenery and floral iron work on the walls around it._
 
