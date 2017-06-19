@@ -7,7 +7,7 @@ title: Projects
 
   <h1 data-category="recent-projects" class="category-header fs-blue ttu mb2">Recent Projects</h1>
   {% capture year_now %}{{ site.time | date: '%Y' }}{% endcapture %}
-  <div id="recent-projects" class="project-list pa3">
+  <div id="recent-projects" class="project-list pv2">
   {% for post in site.categories.projects %}
     {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
     {% if year_now == post_year %}
