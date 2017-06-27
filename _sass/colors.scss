@@ -38,6 +38,10 @@ $default-text: $neutral;
 .b--light {
   border-color: $light;
 }
+.b--bright,
+.hover-b--bright:hover {
+  border-color: $bright;
+}
 .fs-blue {
   color: $fs-blue;
 }
