@@ -49,7 +49,9 @@ huehue.projectsMenu = function() {
     currentMenuItem = item.data('index');
     var link = item.data('link');
     var contentElement = item.parent().next();
-    $(contentElement).load(link + ' #main-content');
+    $(contentElement).load(link + ' #main-content', function() {
+      window.instgrm.Embeds.process();
+    });
     item.toggleClass('light neutral open');
   }
 

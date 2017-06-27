@@ -5,7 +5,7 @@
 img {
 	width: 100%;
 	height: auto;
-	border: .1em solid $neutral;
+	border: 1px solid $neutral;
 	//border-radius: .6rem;
   vertical-align: middle;
 }
@@ -29,7 +29,7 @@ img {
 }
 iframe {
 	//border-radius: .6rem;
-	border: .1em solid $neutral;
+	border: 1px solid $neutral;
 	margin-bottom: 1rem;
 	margin-top: 0;
 }

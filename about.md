@@ -5,9 +5,9 @@ layout: about
 # Hay, I'm Foster
 {: .white }
 
-I'm a digital creative, game designer, entrepreneur, and artist. I believe in diversity, collaboration, and creativity. I live in San Francisco, where the weather is consistently confusing.
+I'm a digital creative, game designer, entrepreneur, and artist. I believe in diversity, collaboration, and creativity. Sometimes I live in Italy, and sometimes I live in Oakland, California.
 
-I’m also the co-founder of [Sandcastle](http://sandcastle.co).
+I’m also the co-founder of [Sandcastle](http://sandcastle.co){:target="_blank"}.
 
 <div class="fixed static-ns bottom-0 pb3">
   <a class="db mb2 white b f4" href="http://twitter.com/{{ site.data.bio.social.twitter }}" target="_blank"><span class="fa fa-twitter mr2"></span>Twitter</a>
