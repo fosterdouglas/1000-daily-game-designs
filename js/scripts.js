@@ -5,11 +5,15 @@ window.huehue = window.huehue || {};
 
 huehue.init = function() {
   console.log("huehue!");
-  huehue.randomButton();
-  // huehue.alertTracking();
   huehue.projectsMenu();
   huehue.topPanel();
-  huehue.archiveFilter();
+  $.getJSON("/js/game-posts.json").done(function(data) {
+    huehue.gamePosts = data.games;
+    huehue.randomButton();
+    huehue.archiveFilter();
+  }).fail(function(err) {
+    console.log(err);
+  });
 }
 
 huehue.topPanel = function() {
@@ -26,9 +30,10 @@ huehue.topPanel = function() {
 huehue.projectsMenu = function() {
   var currentMenuItem = null;
   var currentCategory = null;
-
+  $('.projects-page').hide();
   $('.category-header').removeClass('fs-blue').addClass('light hover-fs-blue pointer transition');
   $('.project-list').hide();
+  $('.projects-page').fadeIn();
 
   function openCategory(item) {
     currentCategory = item.data('category');
@@ -257,10 +262,5 @@ huehue.archiveFilter = function() {
 
 
 $(document).ready(function() {
-  $.getJSON("/js/game-posts.json").done(function(data) {
-    huehue.gamePosts = data.games;
-    huehue.init();
-  }).fail(function(err) {
-    console.log(err);
-  });
+  huehue.init();
 });
