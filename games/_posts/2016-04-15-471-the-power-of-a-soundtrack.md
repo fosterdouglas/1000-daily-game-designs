@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 471 The Power Of A Soundtrack
-categories: game-music, game-opinion
+tags: game-music, game-opinion
 ---
 A soundtrack changes everything.
 

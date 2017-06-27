@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 500 The Big Five Oh Oh
-categories: 500-days, game-streaming
+tags: 500-days, game-streaming
 favorite: true
 ---
 If anyone missed out, today I had my **500 minute celebration stream**! below are links to each of the games played.  Enjoy!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 334 What The Details Mean In Narrative Game Design
-categories: game-opinion
+tags: game-opinion
 ---
 Often I’ll look back years later after playing a game, typically because I’m curious to see what it is that stuck with me most from the experience.  Of the 10, 25, or sometimes 50+ hours I spent with a single game in 2013, can I confidently say that I still benefit from having that experience?  Usually, yes.
 

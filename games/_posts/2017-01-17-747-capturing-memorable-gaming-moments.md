@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 747 Capturing Memorable Gaming Moments
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 A game system that records players best moments throughout a game and presents them as a collection shown during the credits.
 

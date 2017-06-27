@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 707 Memory Farming
-categories: narrative-game
+tags: narrative-game
 ---
 A narrative game about a corporation that sacrifices people to farm their memories.
 

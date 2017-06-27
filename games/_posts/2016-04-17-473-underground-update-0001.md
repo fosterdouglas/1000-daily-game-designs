@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 473 Underground Update 0001
-categories: adventure-game, strategy-game, turn-based-game, underground
+tags: adventure-game, strategy-game, turn-based-game, underground
 ---
 Kevin and I have, very reluctantly, been putting off this moment; we’re back at work on Underground.
 

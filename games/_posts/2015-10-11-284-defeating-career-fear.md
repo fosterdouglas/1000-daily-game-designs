@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 284 Defeating Career Fear
-categories: off-topic
+tags: off-topic
 ---
 Often times, the only thing preventing a great business idea from becoming reality is fear.  Let’s call it Career Fear, or the reluctance to alter our career path out of fear of the unknown.
 

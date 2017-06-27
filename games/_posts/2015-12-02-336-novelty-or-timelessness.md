@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 336 Novelty Or Timelessness
-categories: game-opinion
+tags: game-opinion
 ---
 What is it about a game that makes it either timeless or a novelty?
 

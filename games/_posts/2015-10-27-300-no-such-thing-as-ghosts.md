@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 300 No Such Thing As Ghosts
-categories: experimental-game, first-person-game, shooter-game
+tags: experimental-game, first-person-game, shooter-game
 favorite: true
 ---
 In this time-traveling online FPS, play a standard 8v8 match, with only one person controlling each team.

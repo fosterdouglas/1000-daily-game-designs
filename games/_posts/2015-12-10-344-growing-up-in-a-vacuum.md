@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 344 Growing Up In A Vacuum
-categories: narrative-game
+tags: narrative-game
 ---
 A story about Einstein’s **Theory of Special Relativity**, and what happens as it begins to unravel.
 

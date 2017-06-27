@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 002 Leveling Down
-categories: game-mechanic
+tags: game-mechanic
 ---
 In this game mechanic, the idea is that although we are used to constantly progressing and moving upward— “leveling up” — that there is an equal and opposite downward motion that can happen in life.  This mechanic would be a part of a game that took place over a longer span of time than most other games do, maybe 20 or 30 years.
 

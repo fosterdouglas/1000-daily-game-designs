@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 727 Headlander's Chess Interpretation
-categories: chess-game, game-opinion
+tags: chess-game, game-opinion
 ---
 There was a section inside of DoubleFine’s recent game *Headlander* that stood out to me as particularly innovative and interesting.
 

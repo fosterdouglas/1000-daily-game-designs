@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 513 Skill Tree Game
-categories: action-game, game-mechanic-system, gamification, meta-game, role-playing-game
+tags: action-game, game-mechanic-system, gamification, meta-game, role-playing-game
 ---
 An action RPG with a gamified skill tree.
 

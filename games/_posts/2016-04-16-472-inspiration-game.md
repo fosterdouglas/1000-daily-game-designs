@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 472 Inspiration Game
-categories: experimental-game
+tags: experimental-game
 ---
 Do you paint, write, compose, cook, design, think, or create in some way? (If not, are you human?) ;)
 

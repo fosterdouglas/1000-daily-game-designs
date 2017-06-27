@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 139 This Architecture Life
-categories: simulation-game, social-game
+tags: simulation-game, social-game
 ---
 Play as an aspiring architect in this classic sim game with an online twist.
 

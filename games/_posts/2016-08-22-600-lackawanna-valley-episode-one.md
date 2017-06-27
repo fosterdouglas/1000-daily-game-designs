@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 600 Lackawanna Valley (Episode One)
-categories: experimental-game, narrative-game
+tags: experimental-game, narrative-game
 ---
 A series of micro games set inside of oil paintings.
 

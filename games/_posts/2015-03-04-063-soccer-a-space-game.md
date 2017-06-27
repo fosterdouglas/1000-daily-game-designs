@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "063 Soccer+ (A Space Game)"
-categories: alternate-gravity-game, experimental-game, game-modifications, sports-game
+tags: alternate-gravity-game, experimental-game, game-modifications, sports-game
 ---
 Soccer, but in space. 
 

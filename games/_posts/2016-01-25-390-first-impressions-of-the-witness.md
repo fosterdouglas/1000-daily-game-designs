@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 390 First Impressions Of The Witness
-categories: game-opinion
+tags: game-opinion
 ---
 Jonathan Blow’s release of *Braid* in 2008 can confidently be, at least partially, attributed to the rise in popularity of "indie" gaming.  Indie gaming as a concept has evolved heavily almost yearly since then, so the term can be hard to pin down.  As a technical definition, **indie games typically use alternative funding methods, reduced distribution models, and often (though not always) have non-traditional aspects in gameplay, control scheme, and visual style.**  Even writing that definition was difficult, given the changing landscape of indie gaming.
 

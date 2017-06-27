@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 195 Nice Puzzles, MouseCraft
-categories: game-review-critique
+tags: game-review-critique
 ---
 MouseCraft is an amazing puzzle game.
 

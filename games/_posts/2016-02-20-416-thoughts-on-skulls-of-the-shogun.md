@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 416 Thoughts On Skulls Of The Shogun
-categories: game-opinion, game-review-critique
+tags: game-opinion, game-review-critique
 ---
 I took an oddly long time to play this game, and I think there was a good reason for it.
 

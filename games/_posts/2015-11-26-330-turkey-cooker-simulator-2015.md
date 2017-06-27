@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 330 Turkey Cooker Simulator 2015
-categories: educational-game, experimental-game
+tags: educational-game, experimental-game
 ---
 Learn to prep, season, brine, baste, and cook a turkey in a safe and fun environment.
 

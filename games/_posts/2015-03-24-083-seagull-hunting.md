@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 083 Seagull Hunting
-categories: arcade-game
+tags: arcade-game
 ---
 You have 1 minute; kill as many seagulls as possible.  Because, damn those seagulls.
 

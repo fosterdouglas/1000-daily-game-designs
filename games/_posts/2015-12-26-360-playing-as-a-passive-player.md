@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 360 Playing As A Passive Character
-categories: adventure-game, experimental-game
+tags: adventure-game, experimental-game
 ---
 A game where you’re being protected instead of doing the protecting.
 

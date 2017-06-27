@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 062 eyesontheback ofyourhead
-categories: experimental-game, narrative-game
+tags: experimental-game, narrative-game
 ---
 A first person narrative where you play a baby riding in a father's baby backpack, facing backward.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 386 Dice+Cards Chess Set
-categories: card-game, dice-game, physical-game
+tags: card-game, dice-game, physical-game
 ---
 A collection of dice and cards that doubles as a set of chess pieces.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 654 Game Rules For Old People
-categories: game-opinion
+tags: game-opinion
 ---
 Last week I saw a group of elderly (elderly? is that appropriate? they were only in their 70’s probably) people playing bridge together at a coffee shop.  Actually, it was like 4 groups of them.  It was quite the sight; 2 parts cute, 2 parts intense, 1 part funny.
 

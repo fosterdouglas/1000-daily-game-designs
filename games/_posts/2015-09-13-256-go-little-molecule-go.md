@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 256 Go, Little Molecule, Go!
-categories: touch-controlled-game
+tags: touch-controlled-game
 ---
 Play as a single water molecule, in search of her ocean-bound family.
 

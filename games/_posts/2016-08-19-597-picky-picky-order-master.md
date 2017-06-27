@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 597 Picky Picky Order Master
-categories: food-game, simulation-game, time-management-game
+tags: food-game, simulation-game, time-management-game
 ---
 A comical chef simulator game featuring increasingly picky eaters.
 

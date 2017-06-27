@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 406 Impossible Airport
-categories: simulation-game
+tags: simulation-game
 ---
 A sim game about crafting the most unnecessarily complex airport layout ever, while still making it technically useable.
 

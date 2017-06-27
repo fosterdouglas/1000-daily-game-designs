@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 245 The One Currency To Rule Them All
-categories: game-opinion, social-game
+tags: game-opinion, social-game
 ---
 A social game with one (or less) type of currency.
 

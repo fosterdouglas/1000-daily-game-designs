@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 601 GT 0000 - An Introduction
-categories: game-testing
+tags: game-testing
 ---
 When Kevin and I come together to talk about something, we dive in deep.  Nothing isn't worth analyzing in depth and at length until we either completely understand all facets of it or entirely realize that we couldn't possibly understand what it actually means.
 

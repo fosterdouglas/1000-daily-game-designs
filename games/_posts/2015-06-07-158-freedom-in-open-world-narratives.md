@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 158 Freedom In Open World Narratives
-categories: game-opinion, open-world-game
+tags: game-opinion, open-world-game
 ---
 While playing the narrative piece of an open world game (*Elder Scrolls*, *Assassin’s Creed*, *Grand Theft Auto*, *Watch Dogs*, *Far Cry*), it doesn’t make sense that there isn’t a restriction or time limit between the main chapter beats.  I get that one of the main appeals of these types of games is that you can go anywhere and do anything at any time. But as a storytelling mechanism? It’s certain unconventional.
 

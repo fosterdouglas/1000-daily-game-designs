@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 276 Be The Narrator
-categories: action-game, experimental-game
+tags: action-game, experimental-game
 ---
 A traditional 3rd-person action game, with your character controlled indirectly through the narrator’s words.
 

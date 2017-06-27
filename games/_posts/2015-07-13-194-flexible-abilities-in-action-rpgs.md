@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 194 Flexible Abilities In Action RPGs
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 If magic really did exist, and people really could summon force missiles from their fingertips, I’d imagine we’d have more control over our mystical powers than merely “Press B to shoot."
 

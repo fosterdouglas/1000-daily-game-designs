@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 185 Underground Shopping UI
-categories: interface-game-design, underground
+tags: interface-game-design, underground
 favorite: true
 ---
 I’ve recently started working on the visual layout and design for a shopping menu for my iPad game, Underground.  See below for a .GIF of the current progress and images from different states in the design:

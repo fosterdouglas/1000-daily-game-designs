@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 275 The Physi-Digital Board Game
-categories: board-game, digital-game, physical-game
+tags: board-game, digital-game, physical-game
 ---
 After [yesterday’s post](http://www.foster-douglas.com/games/274-affordable-unique-custom-game-hardware/){:target="_blank"} about custom game hardware, I thought more about implementing it in a unique way.  Lots of games have tried, failed, or had limited/niche appeal.  I think in many ways (outside of something as universal as music, as with *Rock Band* / *Guitar Hero*), it’s unavoidable that it will be niche.  Embracing this might be its best shot at success.
 

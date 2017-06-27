@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 454 CompostQuest
-categories: food-game
+tags: food-game
 ---
 A game to help you track your contribution to a home composting bin.
 

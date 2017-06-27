@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 549 Tetris Future
-categories: game-modification
+tags: game-modification
 ---
 After talking last month about [Imbalanced Information](http://www.foster-douglas.com/games/528-imbalanced-information-vol-1/){:target="_blank"}, I started thinking about a modified version of Tetris that would put it closer on the scale toward a Balanced type game.
 

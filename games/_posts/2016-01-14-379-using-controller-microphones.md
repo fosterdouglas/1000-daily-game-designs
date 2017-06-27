@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 379 Using Controller Microphones
-categories: experimental-game, game-hardware
+tags: experimental-game, game-hardware
 ---
 An additional idea that came out of [yesterday’s post] is the idea of using our console’s controller microphones in some more creative ways.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 453 20 Questions - People
-categories: classic-game, quiz-game
+tags: classic-game, quiz-game
 ---
 A simple variation on the standard 20 Questions formula.
 

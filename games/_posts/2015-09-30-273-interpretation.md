@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 273 Interpretation
-categories: co-op-game, competitive-game, experimental-game, social-game
+tags: co-op-game, competitive-game, experimental-game, social-game
 ---
 An online, iterative, compounding game of telephone.
 

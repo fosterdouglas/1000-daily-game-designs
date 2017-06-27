@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 095 Big Hero 6 Could Be A Game
-categories: action-game, co-op-game
+tags: action-game, co-op-game
 ---
 A 5-player local or online co-op action game, using Big Hero 6 as a theme.
 

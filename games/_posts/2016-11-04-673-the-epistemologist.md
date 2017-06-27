@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 673 The Epistemologist
-categories: narrative-game
+tags: narrative-game
 ---
 A game about knowledge.
 

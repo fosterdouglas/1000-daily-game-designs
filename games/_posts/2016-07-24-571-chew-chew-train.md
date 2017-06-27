@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 571 Chew Chew Train
-categories: childrens-game, educational-game, food-game
+tags: childrens-game, educational-game, food-game
 ---
 A game about the preposterous vehicles we use to get children to eat "yucky" foods.
 

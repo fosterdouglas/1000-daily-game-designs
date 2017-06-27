@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 079 The Symmetry Of Fruit
-categories: childrens-game, educational-game, touch-controlled-game
+tags: childrens-game, educational-game, touch-controlled-game
 ---
 A game designed to teach children basic principles of symmetry in math and in nature, by using fruit as a theme.
 

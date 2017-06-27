@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 092 PacMan Reduex
-categories: classic-game, game-modification
+tags: classic-game, game-modification
 ---
 A slight twist on PacMan, where the goal is to pick up as few dots as possible instead, while still eating all six of the ghosts.
 

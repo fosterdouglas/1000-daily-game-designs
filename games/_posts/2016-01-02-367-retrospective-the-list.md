@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 367 Retrospective (The List)
-categories: game-opinion
+tags: game-opinion
 ---
 As mentioned yesterday, I wanted to compile a short list of my favorite posts from 2015, and include a small snippet of text with each explaining, retrospectively, why I think it’s interesting.
 

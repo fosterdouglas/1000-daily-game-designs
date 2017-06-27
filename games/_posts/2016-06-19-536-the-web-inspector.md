@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 536 The Web Inspector
-categories: experimental-game, game-mechanic-system, puzzle-game, web-game
+tags: experimental-game, game-mechanic-system, puzzle-game, web-game
 ---
 This web game mechanic requires the player to dive into their browser’s "inspector" mode to turn on and off elements of the page to solve problems and puzzles.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 534 Uncharted's Vocal Hints
-categories: game-mechanic-system, game-review-critique
+tags: game-mechanic-system, game-review-critique
 ---
 A small but important detail I noticed in *Uncharted 4: A Thief’s End* is their use of character vocals to deliver puzzle and gameplay hints.
 

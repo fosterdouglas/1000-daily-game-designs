@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 540 Imbalanced Information, Vol. 2
-categories: game-opinion, game-theory, strategy-game
+tags: game-opinion, game-theory, strategy-game
 favorite: true
 ---
 [Last week](http://www.foster-douglas.com/games/528-imbalanced-information-vol-1/){:target="_blank"}, we laid the groundwork for the idea of imbalanced information, with the general goal of getting to here, Vol. 2, where I will be relating it to gaming.

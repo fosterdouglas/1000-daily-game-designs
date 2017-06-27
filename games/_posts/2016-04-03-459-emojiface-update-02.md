@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 459 emojiFace Update 02
-categories: emoji-game, emojiface, puzzle-game
+tags: emoji-game, emojiface, puzzle-game
 ---
 Some example sets of upcoming levels for emojiFace.
 

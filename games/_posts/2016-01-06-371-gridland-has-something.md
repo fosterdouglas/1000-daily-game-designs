@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 371 Gridland Has... Something
-categories: game-opinion
+tags: game-opinion
 ---
 Much like A Dark Room, the game *Gridland* is uniquely minimalistic, innovative, and insanely addicting.
 

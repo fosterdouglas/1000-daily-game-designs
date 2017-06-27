@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 491 Underground Update 0005
-categories: adventure-game, strategy-game, turn-based-game, underground
+tags: adventure-game, strategy-game, turn-based-game, underground
 ---
 Kevin has been working hard on the 3rd tech test, the **cube hex grid**. The goal of this one is the systematically generate the hex grid using efficient reusable functions. We've been using this indispensable resource:
 

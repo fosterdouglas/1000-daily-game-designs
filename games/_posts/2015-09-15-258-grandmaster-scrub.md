@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 258 Grandmaster Scrub!
-categories: experimental-game, funny-game, simulation-game
+tags: experimental-game, funny-game, simulation-game
 ---
 Conquer the sink in this wacky dish washing simulator.
 

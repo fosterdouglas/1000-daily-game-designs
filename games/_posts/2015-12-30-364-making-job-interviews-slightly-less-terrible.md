@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 364 Making Job Interviews Slightly Less Terrible
-categories: brain-game, experimental-game
+tags: brain-game, experimental-game
 ---
 This brain game helps train you for the difficult mental stresses leading up to and during an interview for a job.
 

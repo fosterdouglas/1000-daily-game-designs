@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 595 Muscle Tracking
-categories: exercise-game
+tags: exercise-game
 ---
 A game and peripheral that simplifies muscle growth or weight loss tracking.
 

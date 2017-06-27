@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 271 A Town Called Bedias
-categories: adventure-game, narrative-game
+tags: adventure-game, narrative-game
 ---
 A weird narrative-based adventure game set in the (very) small town of [Bedias](http://www.bedias.com){:target="_blank"}, Texas.
 

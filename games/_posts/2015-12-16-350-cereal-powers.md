@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 350 Cereal Powers
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 A group of kids realize that, after playing near a local sewer drain, they’ve gained the ability to transform and enhance aspects of themselves based on which cereal they eat each morning.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 652 Two-Screen Games
-categories: experimental-game
+tags: experimental-game
 ---
 A game that you play using both your computer and your iPad next to each other.
 

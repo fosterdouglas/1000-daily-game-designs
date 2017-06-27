@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 160 Predictability Vs Consistency
-categories: game-opinion
+tags: game-opinion
 ---
 In game design, consistency is good.  Your player learns what to expect from the game, what they can and can’t do, and how.  But the distinction between consistency and predictability is important.  Predictability is tired, boring, and potentially frustrating.  Predictable game designs are those titles that seem on the outside that they should be fun, usually have excitement and hype around them, but ultimately score low with gamers and critics. 
 

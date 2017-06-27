@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 648 Jack O'Legs The Giant
-categories: adventure-game, narrative-game
+tags: adventure-game, narrative-game
 ---
 A narrative/action game where you play as a giant.  Because how many games like that exist? 
 

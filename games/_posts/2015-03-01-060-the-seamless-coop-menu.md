@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 060 The Seamless Co-Op Menu
-categories: co-op-game, game-mechanic/system
+tags: co-op-game, game-mechanic/system
 ---
 During seamless co-op play of any digital game, everything should be designed in a way that encourages the cooperation and doesn’t block or interrupt play for either one of the players.  Menus in particular are a point of contention; who controls them, when, how, and what is the other player doing while its being controlled?
 

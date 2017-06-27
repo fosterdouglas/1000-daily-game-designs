@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 124 Speak Your Own Narrative Lines
-categories: game-mechanic/system
+tags: game-mechanic/system
 ---
 When presented with a narrative dialogue choice in a game, say or type your own response instead of choosing from a couple of predetermined options.
 

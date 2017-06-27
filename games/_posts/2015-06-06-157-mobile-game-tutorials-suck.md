@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 157 Mobile Game Tutorials Suck
-categories: free-to-play-game, game-opinion
+tags: free-to-play-game, game-opinion
 ---
 Why is it that any free-to-play mobile game has the most moronic and frustrating tutorial slapped on at the beginning.
 

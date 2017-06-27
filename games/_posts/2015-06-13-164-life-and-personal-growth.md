@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 164 Life And Personal Growth
-categories: educational-game
+tags: educational-game
 ---
 A game that becomes a lifestyle.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 265 Punctuation Poker (or, Poker?)
-categories: card-game, game-modification
+tags: card-game, game-modification
 ---
 In this loosely-based-on variation of poker, players draw cards with punctuation marks on them, and rearrange them to try and one-up each other’s draw.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 235 Persona, On Being Rewarded With Narrative
-categories: game-opinion
+tags: game-opinion
 ---
 The most successful trait of *Persona 4: Golden*, my most recent obsession, is its ability to reward the player at the right time with something meaningful.
 

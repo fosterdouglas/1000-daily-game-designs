@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 607 A Great Story Beats Good Gameplay (Sometimes)
-categories: game-opinion
+tags: game-opinion
 ---
 Although I haven’t played *Witcher 3: Wild Hunt* yet, my brother has been talking to me about it a lot recently.
 

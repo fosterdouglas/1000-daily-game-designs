@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 638 Gamification
-categories: game-opinion, gamification
+tags: game-opinion, gamification
 ---
 I’ve talked in the past how we could better "gamify" the process of exercising.  I hesitate to use the word "gamify" though, in general, and I put it in quotes because I think it has taken on a meaning that isn’t directly in line with I think it’s actually about.  Actually, let’s come back to talking about exercising in a different post, and just talk about gamification.
 

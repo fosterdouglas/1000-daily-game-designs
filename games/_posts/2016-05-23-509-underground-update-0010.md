@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 509 Underground Update 0010
-categories: adventure-game, strategy-game, turn-based-game, underground
+tags: adventure-game, strategy-game, turn-based-game, underground
 ---
 We’re working on our **proximity encounters** tech test!
 

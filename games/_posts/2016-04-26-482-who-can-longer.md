@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 482 Who Can Longer?
-categories: childrens-game, classic-game
+tags: childrens-game, classic-game
 ---
 A children’s game of "Who Can ______ Longer!?"
 

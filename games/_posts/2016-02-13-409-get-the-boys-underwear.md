@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 409 Get The Boy's Underwear
-categories: dating-sim-game, experimental-game
+tags: dating-sim-game, experimental-game
 ---
 In this dating sim, play as a Tinder-addicted girl with a twisted (but funny) penchant for stealing the underwear from her dates.
 

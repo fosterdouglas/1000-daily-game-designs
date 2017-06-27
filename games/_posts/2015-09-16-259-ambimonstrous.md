@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 259 Ambimonstrous
-categories: brain-game, educational-game, touch-controlled-game
+tags: brain-game, educational-game, touch-controlled-game
 ---
 A touch-controlled game that helps diversify your handed-ness.
 

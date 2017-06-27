@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 615 Why Two Dots Is Better Than (And The Same As) Candy Crush
-categories: game-opinion
+tags: game-opinion
 ---
 I’ve been playing *Two Dots* a lot recently (Thanks Madeleine…….).
 

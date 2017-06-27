@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 644 Cooking Simulator
-categories: food-game, simulation-game
+tags: food-game, simulation-game
 ---
 A full-blown food simulator.
 

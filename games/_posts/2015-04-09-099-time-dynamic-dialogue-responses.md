@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 099 Timed Dynamic Dialogue Responses
-categories: game-mechanic/system
+tags: game-mechanic/system
 ---
 Timed dialogue decisions is popular mechanic in games recently.  Games like *Mass Effect*, *The Witcher*, and most of Tell Tale Games’ recent releases incorporate it. Essentially, when presented with a key story moment within the game, a list of dialogue choices your character can respond with will appear, with a timer just below them notating how long you have to pick one of the options before it automatically picks one at random. Typically you have 4 to 10 seconds to respond, depending on how many and how long the responses are.
 

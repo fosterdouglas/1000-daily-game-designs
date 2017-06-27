@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 591 Cooperative MMO Characters
-categories: game-mechanic-system, MMO-game
+tags: game-mechanic-system, MMO-game
 ---
 A system of shared MMO characters.
 

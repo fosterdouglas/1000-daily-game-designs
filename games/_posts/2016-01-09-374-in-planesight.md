@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 374 In Planesight
-categories: travel-game
+tags: travel-game
 ---
 A airplane game of iSpy out the windows.
 

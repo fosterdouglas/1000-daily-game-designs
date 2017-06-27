@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 011 The Streets Are Alive With The Sound Of Car Alarms
-categories: driving-game, web-site
+tags: driving-game, web-site
 ---
 In this game, your goal is to wake up all the stupid sleeping people in your neighbourhood at 4am because that’s the best time to ride a motorcycle through the suburban streets of San Francisco...
 

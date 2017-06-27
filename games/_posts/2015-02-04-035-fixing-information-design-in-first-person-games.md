@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 035 Fixing Information Design In First Person Games
-categories: first-person-game, interface-game-design
+tags: first-person-game, interface-game-design
 ---
 It’s interesting to me that the on-screen information design of modern first-person games has remained  fairly consistent for so long; multiplayer/story information in the bottom left, weapon and ammo information in the bottom right, and map in the top left.
 

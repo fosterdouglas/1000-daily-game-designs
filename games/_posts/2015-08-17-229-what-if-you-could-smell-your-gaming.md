@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 229 What If You Could Smell Your Gaming
-categories: experimental-game, game-hardware, game-opinion
+tags: experimental-game, game-hardware, game-opinion
 ---
 I think smell is an underrated sense in storytelling.
 

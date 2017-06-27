@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 695 Travel Agent The Game
-categories: simulation-game
+tags: simulation-game
 ---
 The more I travel, the more I realize how absolutely impossible the job of a travel agent used to be, before the internet.
 

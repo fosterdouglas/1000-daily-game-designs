@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 635 ClobberChess
-categories: chess-game, game-modification
+tags: chess-game, game-modification
 ---
 In this mashup, the rules and board are used from Clobber, but the pieces (and their specific rules) are instead taken from Chess.
 

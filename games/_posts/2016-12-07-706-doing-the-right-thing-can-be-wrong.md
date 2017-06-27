@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 706 Doing The Right Thing Can Be Wrong
-categories: narrative-game
+tags: narrative-game
 ---
 A serious game that illustrates the insane "grey area" of right and wrong.
 

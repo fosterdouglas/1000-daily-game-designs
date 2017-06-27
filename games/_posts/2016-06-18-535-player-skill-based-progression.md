@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 535 Player Skill-Based Progression
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 \***It’s unfortunate that I have to use guns as a vehicle for this mechanic idea, but it is easiest to think in terms of them since they are so prevalent in gaming.** :(
 

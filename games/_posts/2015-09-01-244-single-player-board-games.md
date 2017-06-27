@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 244 Single Player Board Games
-categories: board-game, experimental-game
+tags: board-game, experimental-game
 ---
 Why aren’t there more single player board games?
 

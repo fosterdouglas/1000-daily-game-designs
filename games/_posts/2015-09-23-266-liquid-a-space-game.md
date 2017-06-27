@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 266 LiQuiD (A Space Game)
-categories: alternate-gravity-game, space-game, sports-game
+tags: alternate-gravity-game, space-game, sports-game
 ---
 LiQuiD (or LQD) is a zero-g water shooting extravaganza sport.
 

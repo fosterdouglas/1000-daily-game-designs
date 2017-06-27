@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 531 Where The One-Way Ends (And The Two-Way Begins)
-categories: geo-game, social-game
+tags: geo-game, social-game
 ---
 A geo-game where treasure is hidden around cities.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 684 The Importance Of Contextual Design
-categories: game-mechanic-system, game-opinion
+tags: game-mechanic-system, game-opinion
 favorite: true
 ---
 I saw this image on the Playstation blog recently, and it has me thinking about the importance of contextual design in gaming user interfaces (UI).

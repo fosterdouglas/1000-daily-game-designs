@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 613 Scrabble Wars
-categories: board-game, game-revision, word-game
+tags: board-game, game-revision, word-game
 ---
 A game of Scrabble using differently colored tiles.
 

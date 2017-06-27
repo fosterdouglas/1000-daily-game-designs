@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 443 Variations On A Scrabble
-categories: board-game, physical-game, word-game
+tags: board-game, physical-game, word-game
 ---
 Scrabble is one of the greatest games ever made.  Here are some variations of it:
 

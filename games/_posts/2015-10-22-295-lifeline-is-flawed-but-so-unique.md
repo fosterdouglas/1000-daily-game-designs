@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 295 Lifeline Is Flawed, But So Unique
-categories: game-opinion, game-review-critique
+tags: game-opinion, game-review-critique
 ---
 Lifeline, by [Three Minute Games](http://3mingames.com){:target="_blank"}, is essentially a simplified version of classic text-only interactive fiction.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 532 Pure Mayhem/Joy Moments In Uncharted
-categories: game-review-critique
+tags: game-review-critique
 ---
 Continuing my slow and steady playthrough of *Uncharted 4: A Thief’s End*, it continues to shock and surprise me in a lot of wonderful ways.
 

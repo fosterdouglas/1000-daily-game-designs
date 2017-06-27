@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 290 Digital Games Treatise
-categories: game-literature, game-opinion, game-review-critique
+tags: game-literature, game-opinion, game-review-critique
 favorite: true
 ---
 A book about games.

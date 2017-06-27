@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 560 Just Some Video Game Tropes
-categories: game-opinion
+tags: game-opinion
 ---
 - breakable crates with valuable things inside of them
 - items that are highlighted or glowing

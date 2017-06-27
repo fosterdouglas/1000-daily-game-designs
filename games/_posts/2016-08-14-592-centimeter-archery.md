@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 592 Centimeter Archery
-categories: physical-game, sports-game
+tags: physical-game, sports-game
 ---
 A few days ago, I [posted](http://www.foster-douglas.com/games/588-a-revision-of-archery/){:target="_blank"} my thoughts on a how the sport of archery could be improved.
 

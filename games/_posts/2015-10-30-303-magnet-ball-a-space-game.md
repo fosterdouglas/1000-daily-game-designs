@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 303 Magnet Ball (A Space Game)
-categories: alternate-gravity-game, space-game, sports-game
+tags: alternate-gravity-game, space-game, sports-game
 ---
 This space game consists of what is essentially a double sided basketball court.  Take a basketball court, suspend it 30 meters in the air, make a copy of that basketball court, invert it, and attach it to the bottom of the first basketball court.  That’s basically a Magnet Ball court.
 

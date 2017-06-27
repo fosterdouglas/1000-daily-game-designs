@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "430 Pink Lady Cleaners: 90 Seconds To Freedom"
-categories: simulation-game, touch-controlled-game
+tags: simulation-game, touch-controlled-game
 ---
 This is a game about cleaning, inspired by the insanely fast bullet-train cleaning ladies of Japan.
 

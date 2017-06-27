@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 068 Demolition Construction
-categories: competitive-game, physical-game, puzzle-game
+tags: competitive-game, physical-game, puzzle-game
 ---
 The game starts with a physical object built between the players out of the skyscraper blocks given, in the style similar to Jenga.  Each of the pieces, however, are sections of a skyscraper (instead of nondescript wooden pieces).  As each player takes a single piece out of the center skyscraper on their turn, they use that piece to begin building their own city building. 
 

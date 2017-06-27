@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 551 Stacks And Stacks And Stacks
-categories: game-opinion
+tags: game-opinion
 ---
 Collecting has always been a core component of video games.  It probably satisfies some primal urge of survival that I know nothing about, really.  But it’s probably a real thing!
 

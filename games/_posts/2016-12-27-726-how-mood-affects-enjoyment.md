@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 726 How Mood Affects Enjoyment
-categories: game-opinion
+tags: game-opinion
 ---
 Sometimes I don’t want to play a game.  And it’s not because the game isn’t fun.  It’s because I’m not in the right mood.
 

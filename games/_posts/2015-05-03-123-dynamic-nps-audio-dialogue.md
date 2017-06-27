@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 123 Dynamic NPC Audio Dialogue
-categories: game-mechanic/system
+tags: game-mechanic/system
 ---
 A system that eliminates the player from ever hearing “repeating” audio dialogue in voice-over narrative games.
 

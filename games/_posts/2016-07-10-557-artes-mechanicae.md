@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 557 Artes Mechanicae
-categories: narrative-game, role-playing-game
+tags: narrative-game, role-playing-game
 ---
 A game that uses the 7 "artes" as a basis for a medieval fiction.
 

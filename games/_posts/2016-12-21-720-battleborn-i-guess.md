@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 720 Battleborn, I Guess
-categories: game-opinion, game-review-critique
+tags: game-opinion, game-review-critique
 ---
 I’ve played a decent amount of Gearbox’s new game *Battleborn* over the past few months, but I haven’t bothered to talk about it much.  I think there’s a reason for this.
 

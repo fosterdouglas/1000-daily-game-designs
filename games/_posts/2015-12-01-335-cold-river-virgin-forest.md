@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 335 Cold River Virgin Forest
-categories: narrative-game
+tags: narrative-game
 ---
 A story about a deadly hemlock medicine grown in a remote forest of northwestern Massachusetts.
 

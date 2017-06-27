@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 311 Momentary Lapse Of Decision
-categories: brain-game, touch-controlled-game
+tags: brain-game, touch-controlled-game
 ---
 In this brain training game, you must fight off your experience of momentary indecision.
 

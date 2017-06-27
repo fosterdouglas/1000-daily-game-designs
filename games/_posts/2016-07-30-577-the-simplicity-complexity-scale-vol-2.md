@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 577 The Simplicity Complexity Scale, Vol. 2
-categories: game-opinion, game-theory
+tags: game-opinion, game-theory
 favorite: true
 ---
 In [Vol. 1](http://www.foster-douglas.com/games/548-the-simplicity-complexity-scale-vol-1/){:target="_blank"} of this series, we took the time to define what two terms mean in the realm of game design: Simplicity and Complexity.  But we didn't talk much about practical examples of either, so let's dive into that.

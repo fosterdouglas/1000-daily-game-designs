@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 144 Cooperative Play Shouldn't Be An Afterthought
-categories: game-opinion
+tags: game-opinion
 ---
 Over the past week, I’ve been playing a lot of co-op games.  My friend Eric was visiting me, and we’re known to plow through some great cooperative game experiences.  However, it was clear to us the dire situation that cooperative games have been facing lately.
 

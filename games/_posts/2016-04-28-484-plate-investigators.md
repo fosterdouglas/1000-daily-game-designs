@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 484 Plate Investigators
-categories: childrens-game, food-game
+tags: childrens-game, food-game
 ---
 A game about investigating empty plates.
 

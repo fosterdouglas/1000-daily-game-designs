@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 636 Scrabble Babble
-categories: game-modification, word-game
+tags: game-modification, word-game
 ---
 A Scrabble variant rule where all players are looking at the same letters once each round.
 

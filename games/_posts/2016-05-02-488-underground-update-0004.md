@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 488 Underground Update 0004
-categories: adventure-game, strategy-game, turn-based-game, underground
+tags: adventure-game, strategy-game, turn-based-game, underground
 ---
 Kevin is clipping along nicely with development of our 2nd tech test, the **hex board**.
 

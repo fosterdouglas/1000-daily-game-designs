@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 664 Apollo's Rampage
-categories: cat-game, experimental-game
+tags: cat-game, experimental-game
 ---
 The spiritual sequel to *Alto’s Adventure*. Actually, not at all.
 

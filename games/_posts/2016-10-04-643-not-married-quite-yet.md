@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 643 Not Married Quite Yet
-categories: experimental-game, mobile-game, web-game
+tags: experimental-game, mobile-game, web-game
 ---
 A game that you give to your significant other to play that is secretly a way to figure out what their ring size is without asking them directly.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 048 What The Fuck Is That!?
-categories: board-game, party-game
+tags: board-game, party-game
 ---
 Cranium style game where you’re shown a picture of something hyper-enlarged, and have an extremely short time to guess what it is.
 

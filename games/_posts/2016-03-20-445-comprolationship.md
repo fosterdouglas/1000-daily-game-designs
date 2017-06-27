@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 445 Comprolationship
-categories: relationship-game
+tags: relationship-game
 ---
 A game about coming to compromises.
 

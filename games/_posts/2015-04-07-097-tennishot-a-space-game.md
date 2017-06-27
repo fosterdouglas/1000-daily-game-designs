@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "097 Tennishot (A Space Game)"
-categories: alternate-gravity-game, physical-game, sports-game
+tags: alternate-gravity-game, physical-game, sports-game
 ---
 Billiards + tennis + golf, in space!
 

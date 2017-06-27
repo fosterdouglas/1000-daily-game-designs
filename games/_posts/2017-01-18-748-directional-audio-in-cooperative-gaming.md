@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 748 Directional Audio In Cooperative Gaming
-categories: audio-game, game-mechanic-system
+tags: audio-game, game-mechanic-system
 ---
 In 3D gaming, directional audio is massively important.  It helps you to know where you are spatially in the environment, if there are threats or points of interest near you, and helps craft a general ambience that creates immersion.
 

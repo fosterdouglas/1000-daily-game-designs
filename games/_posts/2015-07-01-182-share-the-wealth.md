@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 182 Share The Wealth
-categories: experimental-game, first-person-shooter
+tags: experimental-game, first-person-shooter
 ---
 A multiplayer first-person shooter where each team shares a single gun.
 

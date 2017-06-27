@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 346 Crystalline Laramie
-categories: episodic-game, narrative-game
+tags: episodic-game, narrative-game
 ---
 A story about cocaine and heroine destroying a small Wyoming town (and one of its residents).
 

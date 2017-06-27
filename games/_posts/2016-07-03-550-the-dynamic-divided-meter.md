@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 550 The Dynamic Divided Meter
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 I love the dynamic divided meter.
 

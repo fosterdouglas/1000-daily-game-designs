@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "208 What's In A Level Up? (Part 1)"
-categories: interface-game-design, underground
+tags: interface-game-design, underground
 ---
 As I play an unhealthy amount of *Persona 4: Golden* (actually BRB, I’m gonna go play for a minute)...
 

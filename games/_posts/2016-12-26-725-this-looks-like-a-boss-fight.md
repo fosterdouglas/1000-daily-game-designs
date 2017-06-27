@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 725 This Looks Like A Boss Fight
-categories: game-opinion
+tags: game-opinion
 ---
 A phrase I heard *CohCarnage* say on Twitch recently… "This looks like a boss fight."
 

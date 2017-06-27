@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 529 One Handed Typing
-categories: educational-game, web-game
+tags: educational-game, web-game
 ---
 A web game about increasing keyboard proficiency for web developers through focused one-handed typing exercises.
 

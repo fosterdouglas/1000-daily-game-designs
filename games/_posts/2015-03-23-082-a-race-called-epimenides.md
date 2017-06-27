@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 082 A Race Called Epimenides
-categories: narrative-game
+tags: narrative-game
 ---
 In this story premise, there exists a race of people called Epimenides, who are, in fact, liars.  Not everything an Epimendie says is a lie, but each and every one of them are liars at their core.  They are a group of people that lie to survive; like thieves, deception is their strongest attribute. 
 

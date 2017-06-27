@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 538 MMO Player Level-Gap Interaction
-categories: game-mechanic-system, MMO-game
+tags: game-mechanic-system, MMO-game
 ---
 This mechanic encourages high-level players in MMO style games to interact with and give support to lower-level and newer players.
 

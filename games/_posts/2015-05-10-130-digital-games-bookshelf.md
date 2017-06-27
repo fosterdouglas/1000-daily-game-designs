@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 130 Digital Games Bookshelf
-categories: game-hardware
+tags: game-hardware
 ---
 A touch-LED display that’s dedicated to showing off your digital games collection.
 

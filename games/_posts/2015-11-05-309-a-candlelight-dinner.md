@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 309 A Candlelight Dinner
-categories: simulation-game, time-management-game
+tags: simulation-game, time-management-game
 ---
 Your goal is to prepare to host a romantic dinner this evening; you have 3 hours to get everything prepared for it.
 

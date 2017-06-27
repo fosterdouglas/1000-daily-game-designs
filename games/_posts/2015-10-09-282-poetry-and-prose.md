@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 282 Poetry And Prose
-categories: brain-game
+tags: brain-game
 ---
 A brain game that tests your ability to decipher multiple streams of input simultaneously.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 685 Rarity And Chance
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 I’ve been playing *Diablo III* again recently, and it has me thinking about the rarity mechanic that is seen in many modern games.
 

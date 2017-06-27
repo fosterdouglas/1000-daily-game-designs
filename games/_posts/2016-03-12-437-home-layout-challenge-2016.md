@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 437 Home Layout Challenge 2016
-categories: simulation-game
+tags: simulation-game
 ---
 A game about small spaces and big ideas.
 

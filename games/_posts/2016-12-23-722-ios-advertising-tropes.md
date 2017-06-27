@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 722 iOS Advertising Tropes 
-categories: game-opinion, mobile-game
+tags: game-opinion, mobile-game
 ---
 A trend on Apple’s App Store for games has creeped into a full-blown epidemic.
 

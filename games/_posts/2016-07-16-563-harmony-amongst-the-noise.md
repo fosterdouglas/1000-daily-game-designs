@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 563 Harmony Amongst The Noise
-categories: audio-game, experimental-game, music-game
+tags: audio-game, experimental-game, music-game
 ---
 An audio game about identifying clashing music.
 

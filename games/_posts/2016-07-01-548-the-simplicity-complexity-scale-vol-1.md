@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 548 The Simplicity Complexity Scale, Vol. 1
-categories: game-opinion, game-theory
+tags: game-opinion, game-theory
 favorite: true
 ---
 Every game lands somewhere on this scale, whether they know it or not. in Vol. 1, we’ll first define the terms **Simplicity** and **Complexity** in order to get a solid framework for the scale.  In future volumes, we’ll illustrate some examples of it and analyze its importance in game design.

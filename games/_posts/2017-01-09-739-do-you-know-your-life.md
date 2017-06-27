@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 739 Do You Know Your Life
-categories: quiz-game
+tags: quiz-game
 ---
 A game that shows you random photos from your Photos library and asks you to guess the date it was taken.
 

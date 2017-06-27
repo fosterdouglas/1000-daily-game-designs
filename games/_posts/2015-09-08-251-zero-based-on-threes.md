@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 251 Zero, Based On Threes
-categories: game-modification, puzzle-game
+tags: game-modification, puzzle-game
 ---
 I’ve talked before in [post #192](http://www.foster-douglas.com/games/192-mindless-or-methodical/){:target="_blank"} about *Threes*, the everlasting puzzle game by [Asher Vollmer](https://twitter.com/AsherVo){:target="_blank"}, and all of its glory.  I’ve been thinking about a way to mod the game.
 

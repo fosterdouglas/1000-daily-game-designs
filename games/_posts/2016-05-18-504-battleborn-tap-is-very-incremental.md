@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 504 Battleborn Tap Is Very Incremental
-categories: game-opinion
+tags: game-opinion
 ---
 Gearbox’s companion iOS game *Battleborn Tap* took over my life recently, for about 12 hours.
 

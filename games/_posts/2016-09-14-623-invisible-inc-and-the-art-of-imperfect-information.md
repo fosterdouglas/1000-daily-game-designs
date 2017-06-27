@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 623 Invisible Inc. And The Art Of Imperfect Information
-categories: game-opinion, game-revision
+tags: game-opinion, game-revision
 ---
 I won’t pretend like I know literally anything about traditional Game Theory, but I have read a small amount about Perfect/Imperfect information.  I started playing Klei Games’ *Invisible Inc.* recently, which features heavily this concept.
 

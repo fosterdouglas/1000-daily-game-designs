@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 333 The Colour Of Your Soul
-categories: game-mechanic-system, narrative-game
+tags: game-mechanic-system, narrative-game
 ---
 A mechanic (or plot) in a game that’s focused around the color of different characters’ eyes.
 

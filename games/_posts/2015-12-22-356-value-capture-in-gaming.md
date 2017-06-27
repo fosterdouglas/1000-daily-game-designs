@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 356 Value Capture In Gaming
-categories: game-opinion
+tags: game-opinion
 ---
 Value capture, according the Josh Kaufman’s *The Personal MBA*, is the difference between how much something is worth to your customer, and how much you charge them for it.  He also talks about two strategies a business can take with value capture, either "maximizing" or "minimizing."
 

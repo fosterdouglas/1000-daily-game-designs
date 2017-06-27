@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 680 Dishonored 2 Has A Quick Save And Load
-categories: game-system-mechanic
+tags: game-system-mechanic
 ---
 I love this.  And I love this game.
 

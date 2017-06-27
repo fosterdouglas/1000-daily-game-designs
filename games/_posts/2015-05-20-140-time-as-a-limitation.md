@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 140 Time As A Limitation
-categories: game-mechanic/system
+tags: game-mechanic/system
 ---
 Many games use resource management as a main gameplay restriction. Instead, this mechanic would use time as its main restriction, and treat the resource as a unlimited element, the way time is in many other games.
 

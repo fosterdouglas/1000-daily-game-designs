@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 090 Why Am I Killing People In Watchdogs?
-categories: game-revision, open-world-game, third-person-shooter
+tags: game-revision, open-world-game, third-person-shooter
 ---
 The hype of an exciting new game release is no stranger to the fatal promise/reality gap; trailers, interviews, and excitement promise a industry-changing game like we’ve never seen before, but the reality of the game falls short of these unrealistic expectations.
 

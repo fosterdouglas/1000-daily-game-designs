@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 670 Revisiting Dishonored
-categories: game-review-critique
+tags: game-review-critique
 ---
 Over the past week, in excitement for the release of *Dishonored 2*, I’ve revisited playing *Dishonored*.  I played this once, the year it came out (2013, right?), and it was tied for GOTY for me, with *X-COM: Enemy Unknown*. 
 

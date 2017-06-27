@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 174 Confessions Of An Internet Password Box
-categories: adventure-game, classic-game, text-game
+tags: adventure-game, classic-game, text-game
 favorite: true
 ---
 A short text adventure where you play as a password entry box on a defunct website in a quiet corner of the internet.

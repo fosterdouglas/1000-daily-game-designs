@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 668 One-Play Football
-categories: game-modification, physical-game, sports-game
+tags: game-modification, physical-game, sports-game
 ---
 A variation on the game of American football that allows each team to have only a single "down" per possession.
 

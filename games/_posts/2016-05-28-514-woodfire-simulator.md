@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 514 Woodfire Simulator
-categories: augmented-reality-game, passive-game, VR-game
+tags: augmented-reality-game, passive-game, VR-game
 ---
 An entire game system designed around the realistic simulation of wood burning.
 

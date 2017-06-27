@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 616 A Pay Gate For Your Phone
-categories: experimental-game
+tags: experimental-game
 ---
 This is similar to that app you can use on your phone/computer to prevent you from going to certain websites for a set amount of time (students often use this to eliminate temptation to go to time-suck websites like Facebook during important study days?).
 

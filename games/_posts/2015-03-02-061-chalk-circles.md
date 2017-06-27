@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 061 Chalk Circles
-categories: childrens-game, physical-game
+tags: childrens-game, physical-game
 ---
 Each person is given a different colored piece of chalk, and draws a circle around themselves at the start of the game.  Once the game starts, you must place your chalk down on the ground somewhere around you, outside of your circle.  The goal is to collect as many of the other players’ chalk pieces as possible, while staying inside your or another player's circle.  When a piece of chalk is collected, you may also place it somewhere outside of your own circle (or return to your circle if you aren’t there), however it is still vulnerable like your first piece of chalk was.
 

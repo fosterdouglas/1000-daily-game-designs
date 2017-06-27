@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 699 Watching Twitch Together
-categories: game-streaming
+tags: game-streaming
 ---
 Twitch to me has always been a platform to consume in solitude.  There are people, I’m sure, who watch it with their significant other or with a group of friends occasionally.  But in general, it’s a thing to do alone. 
 

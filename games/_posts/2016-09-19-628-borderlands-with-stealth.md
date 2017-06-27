@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 628 Borderlands With Stealth
-categories: co-op-game, game-opinion, stealth-game
+tags: co-op-game, game-opinion, stealth-game
 ---
 I really want a game to exist that blends the feeling of the *Borderlands* series with the stealth of something like *Dishonored* or *Thief*.
 

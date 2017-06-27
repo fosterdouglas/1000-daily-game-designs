@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 489 Blacklight Dice
-categories: dice-game
+tags: dice-game
 ---
 A dice game with all blank dice.
 

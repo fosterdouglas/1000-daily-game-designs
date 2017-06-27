@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 222 Random Card Draws In Digital Games
-categories: game-modification, game-opinion
+tags: game-modification, game-opinion
 ---
 In shorter level-based strategy games, I wonder how designers decide on which parts are random and which aren’t.
 

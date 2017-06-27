@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 702 Reverse Level Design In Dishonored 2
-categories: game-opinion
+tags: game-opinion
 ---
 One aspect of *Dishonored 2* (er, actually maybe the first game did this too but whatever), is the reuse of level design.  As in, when you get to the end of a level, and achieve your "objective," the game doesn’t just acquiesce.  It says to the player, "good job doing the thing you needed to, now go back to where you came from."
 

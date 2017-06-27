@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 575 A Gradual Leveling Up
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 Yesterday, I was talking about a [Gradual Skill Tree](){:target="_blank"} system, but maybe this can be applied to the classic "leveling up" system that’s found in so many games now.
 

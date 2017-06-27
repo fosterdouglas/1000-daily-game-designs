@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 683 26 Letter Scrabble
-categories: game-modification
+tags: game-modification
 ---
 A modification of Scrabble.
 

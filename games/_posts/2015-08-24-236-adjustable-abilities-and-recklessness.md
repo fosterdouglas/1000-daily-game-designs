@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 236 Adjustable Abilities, and Recklessness
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 A game system that uses sacrifice and chance to increase the strength of an ability.
 

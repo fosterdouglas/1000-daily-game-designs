@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 698 Mary, Oh Par Tee
-categories: party-game
+tags: party-game
 ---
 A stupid, stupid, stupid pun on *Mario Party*.
 

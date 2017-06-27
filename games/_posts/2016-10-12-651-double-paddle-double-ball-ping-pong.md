@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 651 Double-Paddle Double-Ball Ping Pong
-categories: puzzle-game, simulation-game, time-management-game
+tags: puzzle-game, simulation-game, time-management-game
 ---
 A game that my friend Eric and I made up a few years ago.
 

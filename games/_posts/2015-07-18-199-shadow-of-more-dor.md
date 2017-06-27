@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 199 Shadow of More-Dor
-categories: game-mechanic-system, game-review-critique
+tags: game-mechanic-system, game-review-critique
 ---
 Articles abound online about last year’s incredible action game, *Middle Earth: Shadow of Mordor*.  Most of them shower it with praise for its groundbreaking “nemesis” system, and rightfully so.  It can’t be understated the impact this system will have on the game industry from a design perspective.  
 

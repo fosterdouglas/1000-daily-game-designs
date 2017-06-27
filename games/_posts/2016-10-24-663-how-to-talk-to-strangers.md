@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 663 How To Talk To Strangers
-categories: educational-game, experimental-game, vr-game
+tags: educational-game, experimental-game, vr-game
 ---
 An educational game of being more outgoing when it matters most.
 

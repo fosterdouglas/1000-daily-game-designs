@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 700 Repeat Customers In Sim Games
-categories: game-algorithm, simulation-game
+tags: game-algorithm, simulation-game
 ---
 I’m deeply interested in the algorithms behind the AI in simulation games.
 

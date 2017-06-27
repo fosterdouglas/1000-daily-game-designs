@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 493 Underground Update 0006
-categories: adventure-game, strategy-game, turn-based-game, underground
+tags: adventure-game, strategy-game, turn-based-game, underground
 ---
 Kevin has started converting some of the variables in our tech tests into editable UI objects.  A few of the first ones are simple, but will be powerful:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 606 Frustration By Design
-categories: game-opinion
+tags: game-opinion
 ---
 My brother and I have playing a lot of *Borderlands 2* lately, in pursuit of the platinum trophy.  Neither of us cares that much about the actual trophy, but we do love the game a lot and so figured we would make it an arbitrary goal to play it enough to get the trophy.
 

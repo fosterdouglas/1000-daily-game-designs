@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 150 Your Portfolio As A Game
-categories: experimental-game
+tags: experimental-game
 ---
 I want to create a website portfolio that you explore as a video game.
 

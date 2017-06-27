@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 106 Prohibition Wilds
-categories: adventure-game, first-person-game, point-and-click-game, shooter-game
+tags: adventure-game, first-person-game, point-and-click-game, shooter-game
 ---
 A spirits-smuggling adventure game set in 1929, recounting a single night's exploits of a famous smuggling gang during the peak of Prohibition in the United States.
 

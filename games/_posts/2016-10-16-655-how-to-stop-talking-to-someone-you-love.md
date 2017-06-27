@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 655 How To Stop Talking To Someone You Love
-categories: off-topic
+tags: off-topic
 ---
 Good luck.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 729 Airplane Puzzler
-categories: puzzle-game, simulation-game
+tags: puzzle-game, simulation-game
 ---
 In this game, you manage larger and larger planes of needy passengers and quick-moving staff.
 

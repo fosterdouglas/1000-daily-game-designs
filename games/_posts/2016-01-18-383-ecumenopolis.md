@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 383 Ecumenopolis
-categories: narrative-game
+tags: narrative-game
 ---
 I came across this word recently and thought it was incredibly fascinating: Ecumenopolis.  I’m still not positive how to say it correctly, but it essentially means a "world city" or a city that’s as large as an entire planet.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 744 On A Boat Without A Room
-categories: adventure-game, walking-sim
+tags: adventure-game, walking-sim
 ---
 A narrative experience where you play as a character that’s stuck on an overnight ferry without a room to stay in.
 

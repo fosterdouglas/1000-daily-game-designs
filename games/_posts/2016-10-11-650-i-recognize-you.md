@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 650 I Recognize You
-categories: puzzle-game, simulation-game, time-management-game
+tags: puzzle-game, simulation-game, time-management-game
 ---
 This mobile time-management/puzzle game pits you against all the people you know but don’t want to see at a cafe in your old hometown.
 

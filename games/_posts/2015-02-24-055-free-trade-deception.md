@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 055 Free Trade Deception
-categories: card-game, co-op-game, physical-game
+tags: card-game, co-op-game, physical-game
 ---
 A card game about deception and information as a commodity, featuring a system where the front of your hand of cards tells one story, and the back tells another.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 582 Is It True Beefy?
-categories: experimental-game, web-game
+tags: experimental-game, web-game
 ---
 This game asks you one simple question...
 

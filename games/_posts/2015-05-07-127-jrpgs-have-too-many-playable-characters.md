@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 127 JRPGs Have Too Many Unused Playable Characters
-categories: game-mechanic/system, japanese-role-playing-game
+tags: game-mechanic/system, japanese-role-playing-game
 ---
 In this JRPG, instead of gaining near-limitless levels of power and experience, the party continues to grow in size.  This battle mechanic, however, allows for you to use all of your members at once, eliminating the issue of “forgetting” or “ignoring” certain characters while favoring others.
 

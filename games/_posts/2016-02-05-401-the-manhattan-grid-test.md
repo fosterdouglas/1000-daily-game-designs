@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 401 The Manhattan Grid Test
-categories: educational-game, map-game, quiz-game
+tags: educational-game, map-game, quiz-game
 ---
 How well do you know the streets of Manhattan?
 

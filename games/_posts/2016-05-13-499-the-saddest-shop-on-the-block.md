@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 499 The Saddest Shop On The Block
-categories: simulation-game
+tags: simulation-game
 ---
 A simulation game about that shop that nobody goes into, and how it could possibly still be in business even.
 

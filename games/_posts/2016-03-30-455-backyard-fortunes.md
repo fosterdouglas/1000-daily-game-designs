@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 455 Backyard Fortunes
-categories: childrens-game, outdoor-game, physical-game
+tags: childrens-game, outdoor-game, physical-game
 ---
 In this hunt-and-learn game, children explore the backyard while learning in-depth aspects of a specific topic.
 

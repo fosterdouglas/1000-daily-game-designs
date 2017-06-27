@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 218 Argumentative
-categories: experimental-game
+tags: experimental-game
 ---
 A game where you compete at being the best at arguing.
 

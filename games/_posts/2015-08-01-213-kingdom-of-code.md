@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 213 Kingdom Of Code
-categories: educational-game
+tags: educational-game
 ---
 A series of reward-driven mini-games that help teach coding languages at beginner, intermediate, and advanced levels.
 

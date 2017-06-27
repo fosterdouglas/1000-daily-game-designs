@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 689 Colorless Cards
-categories: card-game
+tags: card-game
 ---
 A deck of cards without the colors.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 076 You Can't Cheat At This
-categories: game-mechanic/system
+tags: game-mechanic/system
 ---
 This game system is designed to prevent people from making a guide or FAQ to help others chat at completing the game.
 

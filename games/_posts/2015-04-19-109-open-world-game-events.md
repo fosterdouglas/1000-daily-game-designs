@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 109 Open World Game Events
-categories: open-world-game
+tags: open-world-game
 ---
 In open world games, feature one-time-only entertainment events as activities for the player to attend.  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 087 A Game Of Rules
-categories: board-game, card-game, game-mechanic/system
+tags: board-game, card-game, game-mechanic/system
 ---
 A board game where each person’s first turn is spent choosing a rule card for the game.  Each rule card has a general rule on it that dictates how the game is played, as well as a personal rule that’s specific only to the person with the card.  The personal rule is typically a large disadvantage that the player must compensate for throughout the game.  For example:
 

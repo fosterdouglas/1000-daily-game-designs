@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 375 Spreadsheet Hero
-categories: experimental-game
+tags: experimental-game
 ---
 A game for bored office workers to play inside their boring spreadsheet application.
 

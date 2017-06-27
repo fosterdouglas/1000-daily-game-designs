@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 246 Relationship Decay
-categories: game-mechanic-system, game-opinion
+tags: game-mechanic-system, game-opinion
 ---
 I like games that allow me to build close relationships with the characters in the narrative.  The only unrealistic thing about this, in most cases, is that they don’t require you to maintain those relationships.  Aside from the niche games that are in the life- or dating-sim genre, this is completely absent from something like *Persona*.
 

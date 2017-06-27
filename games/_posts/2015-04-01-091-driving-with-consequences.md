@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 091 Driving With Consequences
-categories: driving-game, experimental-game
+tags: driving-game, experimental-game
 ---
 This car game takes the extreme precision of a driving sim, mixes in the breadth of Grand Theft Auto’s worlds, adds a dash of the extreme visual detail found in Gran Truism, and coats it all with a helping of patience and curiosity from The Sims.
 

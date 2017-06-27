@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 277 Thinking Games And Dying Games
-categories: action-game, game-opinion, puzzle-game
+tags: action-game, game-opinion, puzzle-game
 favorite: true
 ---
 There are two types of action/puzzle games in this world, the thinking games and the dying games.

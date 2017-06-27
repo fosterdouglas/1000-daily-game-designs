@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 745 Warmth Simulation Tool
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 I love that there is a Wikipedia article for this: [https://en.wikipedia.org/wiki/Winter_clothing](https://en.wikipedia.org/wiki/Winter_clothing){:target="_blank"}
 

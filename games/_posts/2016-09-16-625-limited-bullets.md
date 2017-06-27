@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 625 Limited Bullets
-categories: experimental-game
+tags: experimental-game
 ---
 I think I've talked about this in the past, but I'm really fascinated by the use of limitations in interactivity.  In this concept, the game has a very limited supply of bullets, "bullets" really can mean any core resource. It's easy to use bullets as an example because guns are (unfortunately) such a prevalent part of gaming.  It's also an easy example because guns are useless without bullets.
 

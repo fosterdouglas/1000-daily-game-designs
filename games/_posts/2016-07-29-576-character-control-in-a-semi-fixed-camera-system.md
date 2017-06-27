@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 576 Character Control In A Semi-Fixed Camera System
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 Recently I talked about [Fixed Cameras In 3D Games](http://www.foster-douglas.com/games/572-fixed-cameras-in-3d-games/){:target="_blank"}, but realized as I was writing it that I actually wanted to talk about the character control aspect, not the camera itself.
 

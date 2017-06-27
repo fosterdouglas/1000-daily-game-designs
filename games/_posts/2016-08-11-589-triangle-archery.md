@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 589 Triangle Archery
-categories: physical-game, sports-game
+tags: physical-game, sports-game
 ---
 A game of team Archery.
 

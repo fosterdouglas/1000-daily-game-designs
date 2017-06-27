@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 134 Stealth Game Sight Cones
-categories: game-mechanic/system
+tags: game-mechanic/system
 ---
 Although I do like the general concept of AI in stealth games having a “vision” cone (and a aural one, in the case of *Mark of the Ninja*), I think there’s some tweaking to be done.  It’s just way too incredibly silly to be able to stand **just** outside of the cone, in front of an enemy, and not be seen.  But as soon as your avatar is touching the cone, you’re spotted.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 112 The Miles We Share
-categories: active-game
+tags: active-game
 ---
 A mobile game where the distance you walk gains you experience, health, or abilities in game.
 

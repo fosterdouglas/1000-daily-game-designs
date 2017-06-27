@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 253 The Perks Of Being The President
-categories: experimental-game, simulation-game
+tags: experimental-game, simulation-game
 ---
 A role-playing game as the President of the United States.
 

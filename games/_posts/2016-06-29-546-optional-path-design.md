@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 546 Optional Path Design
-categories: game-mechanic-system
+tags: game-mechanic-system
 ---
 Recently, I’ve been playing an adventure game recently called *Stories: The Path of Destinies*, which I was introduced to at the PSX conference this past December.  It’s a game with a unique system that asks the player to progress through the story multiple times making different decisions each time to eventually learn the true story.
 

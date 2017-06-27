@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 108 Food And Sleep In RPGs
-categories: game-mechanic/system, role-playing-game
+tags: game-mechanic/system, role-playing-game
 ---
 A mechanic where the food you eat during the day is a significant source of your energy and stamina.  If eating is ignored, much like in real life, performance will suffer.  What you eat also affects how you sleep, which in turn affects your performance ability the following day.
 

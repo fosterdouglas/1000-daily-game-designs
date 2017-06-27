@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 190 Micro-Games During First-Person Shooters
-categories: experimental-game, first-person-game, shooter-game
+tags: experimental-game, first-person-game, shooter-game
 ---
 A game mechanic that recreates the intense focus and concentration required before shooting a target.
 
