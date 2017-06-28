@@ -51,6 +51,7 @@ huehue.projectsMenu = function() {
   }
 
   function openMenuItem(item) {
+    console.log('test');
     currentMenuItem = item.data('index');
     var link = item.data('link');
     var contentElement = item.parent().next();
