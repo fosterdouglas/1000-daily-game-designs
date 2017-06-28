@@ -18,6 +18,6 @@ It is the largest and most in-depth game project we've done, and is still in its
 
 Below are all of the posts written over the course of the game's progress so far:
 
-{% for post in site.categories.underground %}
+{% for post in site.tags['underground'] %}
 <a href="{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
