@@ -19,10 +19,14 @@ huehue.init = function() {
 huehue.topPanel = function() {
   $.get('/js/includes/top-panel.html', function(html) {
     $('body').prepend(html);
+    var $topPanel = $('.top-panel');
+    $topPanel.css('opacity', 0);
     $('.panel-toggle').click(function(e) {
       e.preventDefault();
       $(this).toggleClass('open');
-      $('.top-panel').slideToggle(500, 'easeOutQuint');
+      var opacity = ($(this).hasClass('open')) ? 1 : 0;
+      $topPanel.slideToggle({ duration: 500, queue: false }, 'easeOutQuint');
+      $topPanel.animate({'opacity': opacity }, { duration: 500, queue: false }, 'easeOutQuint');
     });
   });
 }
