@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 763 Pee In A Bottle On A Buss In The Dark
+title: 763 Pee In A Bottle On A Bus In The Dark
 tags: experimental-game
 ---
 In this game, you try to pee in a bottle on a bus in the dark.
