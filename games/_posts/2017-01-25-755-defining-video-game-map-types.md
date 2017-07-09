@@ -2,6 +2,7 @@
 layout: post
 title: 755 Defining Video Game Map Types
 tags: game-mechanic-system, game-opinion
+favorite: true
 ---
 Maps in video games are deeply interesting.  In general, it’s rare that a map actually functions in a coherent way.  That is, in a way that makes sense for anything to function.  They live by their own rules, somewhat.
 
