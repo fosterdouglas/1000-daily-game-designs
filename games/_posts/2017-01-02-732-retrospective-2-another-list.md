@@ -7,7 +7,7 @@ favorite: true
 ---
 [Last year](http://www.foster-douglas.com/games/367-retrospective-the-list/){:target="_blank"} I did this thing where I made a retrospective list of some of my favorite or most meaningful posts of the year.  I think I’ll do it again this year! Here we go:
 
-<a href="http://www.foster-douglas.com/games/382-third-person-blurring/" target="_blank"><h2 style="color:#9B9B9B;">382 Third Person Blurring</h2></a>
+<h2 style="color:#9B9B9B;"><a href="http://www.foster-douglas.com/games/382-third-person-blurring/" target="_blank">382 Third Person Blurring</a></h2>
 I loved this idea, and I still do.  I think it’s an interesting solution to an immersion problem in gaming.
 
 <a href="http://www.foster-douglas.com/games/388-nomnomgalaxy-makes-soup-into-business/" target="_blank"><h2 style="color:#9B9B9B;">388 NomNomGalaxy Makes Soup Into Business</h2></a>
