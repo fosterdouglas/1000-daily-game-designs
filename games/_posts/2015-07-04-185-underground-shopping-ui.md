@@ -6,7 +6,7 @@ favorite: true
 ---
 I’ve recently started working on the visual layout and design for a shopping menu for my iPad game, Underground.  See below for a .GIF of the current progress and images from different states in the design:
 
-![Underground Shopping UI GIF](/img/games/185_Underground_UI.gif "Underground Shopping UI GIF"){: .img-contain }
+![Underground Shopping UI GIF](/img/games/185_Underground_UI.gif "Underground Shopping UI GIF"){: .img-contain .remove-border }
 
 (1) A .GIF of roughly 5 hours of revisions spread out across a few weekends.
 {: .image-caption }
