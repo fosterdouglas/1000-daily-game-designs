@@ -37,6 +37,7 @@ $default-text: $neutral;
 }
 .hover-pink:hover {
   color: pink;
+  transition: .3s all;
 }
 .light {
   color: $light;
