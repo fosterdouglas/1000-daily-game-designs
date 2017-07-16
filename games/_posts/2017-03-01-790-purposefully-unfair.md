@@ -15,6 +15,7 @@ Many old NES games fall into this category.  Gaming was in its infancy, you can�
 5) Because it’s random, there’s the potential for the player to get past it with ease on the first try, which leads to vastly different player experiences with the same section of the game.
 
 ![unfair](/img/games/790_Purposefully_Unfair.jpg "Purposefully Unfair")
+
 Those fucking Medusa heads… (*Castlevania III: Dracula’s Curse* on NES, 1989)
 {: .image-caption }
 

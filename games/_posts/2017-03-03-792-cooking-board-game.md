@@ -8,6 +8,7 @@ more complex version of the japan cooking game board game
 While I was [in Japan](https://notwanderlust.tumblr.com/post/158869161010/day-094-tokyo){:target="_blank"}, I played a cooking board game with my brother.  I forget what it was called, but it was adorable.  You had all of the pieces of a mini kitchen set, and an interesting mechanic where players had to make recipes and season them correctly and not burn the food.
 
 ![cookingboardgame](/img/games/792_Cooking_Board_Game.jpg "Cooking Board Game")
+
 Fake cooking is harder than it sounds...
 {: .image-caption }
 
