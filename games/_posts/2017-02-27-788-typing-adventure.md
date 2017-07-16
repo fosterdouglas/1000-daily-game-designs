@@ -20,7 +20,7 @@ Some brainstorming ideas:
 
 Depending on how it’s framed and written, this could also potentially be considered an educational game, for typing, spelling, and language.  It could also be used slyly to teach advanced vocabulary or grammar.  Or if not, it would probably just be educational regardless, even if not explicitly.
 
-Somehwat based on [this]((http://www.foster-douglas.com/games/781-shifting-types/){:target="_blank"} post from last week.
+Somewhat based on [this](http://www.foster-douglas.com/games/781-shifting-types/){:target="_blank"} post from last week.
 
 (Thanks Kevin!!! So many great ideas, NICE)
 
