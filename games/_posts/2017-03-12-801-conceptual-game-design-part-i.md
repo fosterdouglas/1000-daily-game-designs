@@ -2,6 +2,7 @@
 layout: post
 title: 801 Conceptual Game Design, Part I
 tags: game-design-topic, game-opinion
+favorite: true
 ---
 I’m **800 posts** deep in this bizarre experiment, and occasionally question myself on my own purpose or intention with it all.  It all gets quite existential, really.
 
