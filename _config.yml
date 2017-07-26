@@ -4,5 +4,3 @@ title: "Foster Douglas"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
-gems:
-- jemoji
