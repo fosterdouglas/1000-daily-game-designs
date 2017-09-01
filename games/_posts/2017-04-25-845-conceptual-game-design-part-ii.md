@@ -22,7 +22,7 @@ I might start by thinking about the most recent game I played.  I am playing bet
 
 If it’s the first time I’ve played the game or is relatively new to me, I can often just think about it generally and go from there.  Otherwise, I think about a specific aspect of it.  I’ve played *Diablo III* **a lot**, so let’s find something specific. 
 
-Typically I’ll either think about some aspect that stood out to me.  That might be something special, some amazing moment I had, or something that made me feel inquisitive.  It might also be something I dislike about the game, a bad game design choice, something that annoyed me, or some bug or broken piece.
+Typically I’ll think about some aspect that stood out to me.  That might be something special, some amazing moment I had, or something that made me feel inquisitive.  It might also be something I dislike about the game, a bad game design choice, something that annoyed me, or some bug or broken piece.
 
 Last time I was playing, I remember going through a certain section of the game with one set of abilities, and then later on going through that same section with different abilities.  It’s fun, but I was struggling to decide which of the times through was more effective and efficient (and fun).  *Maybe the game could have better specific tracking of your real-time damage per second, or have some sort of end-of-level recap screen that helps you understand how well you did in reality, not just based on theoretical item stat numbers.*
 
