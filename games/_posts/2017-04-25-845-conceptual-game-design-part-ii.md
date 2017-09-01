@@ -16,7 +16,7 @@ Maybe appropriately, my mind treats this exercise like a playground.  The explic
 
 Sometimes I use certain techniques to kickstart the flow, and other times it sort of happens organically, maybe from practice.  Let’s try kickstarting one right now:
 
-- -
+/ / /
 
 I might start by thinking about the most recent game I played.  I am playing between 3 and 7 games in any given month, so the selection is relatively varied for me.  The most recent thing I played was *Diablo III*.
 
@@ -32,7 +32,7 @@ If that idea came up and it didn’t feel like it was substantial or interesting
 
 Or, if you want to get crazy, grab onto that first idea, jot it down, and then continue down that rabbit hole anyway, seeing if it leads you to any more ideas.
 
-- -
+/ / /
 
 We’ll talk more in a future post about some other reliable go-to ideation methods I have.
 
