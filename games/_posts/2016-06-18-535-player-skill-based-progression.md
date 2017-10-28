@@ -3,7 +3,7 @@ layout: post
 title: 535 Player Skill-Based Progression
 tags: game-mechanic-system
 ---
-\***It’s unfortunate that I have to use guns as a vehicle for this mechanic idea, but it is easiest to think in terms of them since they are so prevalent in gaming.** :(
+**It’s unfortunate that I have to use guns as a vehicle for this mechanic idea, but it is easiest to think in terms of them since they are so prevalent in gaming.**
 
 This mechanic awards progression based on the player’s actual skill at the game’s mechanic, rather than just based on the outcome of actions.
 
