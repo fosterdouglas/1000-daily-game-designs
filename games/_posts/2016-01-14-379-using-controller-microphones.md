@@ -3,7 +3,7 @@ layout: post
 title: 379 Using Controller Microphones
 tags: experimental-game, game-hardware
 ---
-An additional idea that came out of [yesterday’s post] is the idea of using our console’s controller microphones in some more creative ways.
+An additional idea that came out of [yesterday’s post](http://www.foster-douglas.com/games/378-evolved-dialogue-system/){:target="_blank"} is the idea of using our console’s controller microphones in some more creative ways.
 
 In one example, based on playing *Fallout 4*, the microphone is constantly "listening" to the game’s audio output.  When the controller microphone hears a certain piece of NPC dialogue, the game knows that there’s a likely chance that the player also heard that line (since players are typically pretty close to the controller they’re holding).  The game can track this, and use it to its advantage to avoid reusing that dialogue again, enhancing the players unique experience.
 
