@@ -2,6 +2,7 @@
 layout: post
 title: 885 The Apartment
 tags: experimental-game
+favorite: true
 ---
 I did a post in the past called [The Flat](http://www.foster-douglas.com/games/714-the-flat/){:target="_blank"}, about a hyper-compressed and detailed apartment that you could explore and experience a story within.
 
