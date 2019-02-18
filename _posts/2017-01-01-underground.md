@@ -3,7 +3,7 @@ layout: project
 title:  Underground
 category: projects
 ---
-Underground is a game project that my creative partner [Kevin](http://www.kevinmcgillivray.net "Kevin McGillivray") and I have been working on periodically during our free time.  The game is set in modern London, and follows an unexpected adventure with two "uncool" highschool students.  
+Underground is a game project I have been working on sporadically during my free time.  The game is set in modern London, and follows an unexpected adventure with two "uncool" highschool students.  
 
 It is the largest and most in-depth game project we've done, and is still in its early stages of conception.  Below are some images from progress made on the game so far:
 

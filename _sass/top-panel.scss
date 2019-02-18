@@ -3,16 +3,25 @@
  */
 
 .top-panel {
-  background-image: url('../img/foster-portrait.jpg');
+  background-image: url('../img/foster-cura.png');
   background-size: 820px;
-  background-position: -3rem -4rem;
+  background-position: -35rem -12rem;
   background-color: $light;
+  -webkit-filter: saturate(130%);
+  filter: saturate(130%);
 }
 @media (min-width: 30em) {
   .top-panel {
     background-repeat: no-repeat;
-    background-position: center 30%;
+    background-position: 0rem 50%;
   }
+
+  .bio {
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .9;
+  }
+
 }
 .panel-toggle i {
   transition: .5s transform;
@@ -20,4 +29,9 @@
 .panel-toggle.open i {
   transform: rotate(180deg);
   transition: .5s transform;
+}
+
+.bio {
+  margin-left: 20%;
+  opacity: .9;
 }

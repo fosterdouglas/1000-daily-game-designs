@@ -6,10 +6,10 @@
 
   <footer class="cf bg-white bt b--light">
     <div class="mw8 center pa3 cf">
-      <p class="fl w-70 mb0">&copy; {{ site.time | date: '%Y' }} Foster Douglas. <span class="dn di-ns">Site designed by me and developed by a <a class="hover-light" href="http://kevinmcgillivray.net" target="_blank">wizard</a>.</span></p>
+      <p class="fl w-70 mb0">&copy; {{ site.time | date: '%Y' }} Foster Douglas. <span class="dn di-ns">Site designed and developed by me, at my company <a class="hover-neutral light" href="http://sandcastle.co" target="_blank">Sandcastle</a>.</span></p>
       <div class="fl w-30 tr">
-        <a class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %} mr2" href="mailto:{{ site.data.bio.social.email }}"><i class="fa fa-envelope f5"></i></a>
-        <a class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %}" href="http://twitter.com/{{ site.data.bio.social.twitter }}"><i class="fa fa-twitter f5"></i></a>
+        <a class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %} mr2" href="mailto:{{ site.data.bio.social.email }}"><i class="fas fa-envelope"></i></a>
+        <a class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %}" href="http://twitter.com/{{ site.data.bio.social.twitter }}"><i class="fab fa-twitter"></i></a>
       </div>
     </div>
   </footer>
