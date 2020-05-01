@@ -25,7 +25,7 @@ huehue.topPanel = function() {
       e.preventDefault();
       $(this).toggleClass('open');
       var opacity = ($(this).hasClass('open')) ? 1 : 0;
-      $topPanel.slideToggle({ duration: 500, queue: false }, 'easeOutQuint');
+      $topPanel.slideToggle({ duration: 500, queue: false }, 'linear');
       $topPanel.animate({'opacity': opacity }, { duration: 500, queue: false }, 'easeOutQuint');
     });
   });
