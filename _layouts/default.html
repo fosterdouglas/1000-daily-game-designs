@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="{% if page.url contains '/archive' %}pb4 archive{% elsif page.url contains '/about' %}pb0{% else %}pb6{% endif %}">
+  <body class="{% if page.url contains '/archive' %}pb4 archive{% elsif page.url contains '/about' %}pb0{% else %}{% endif %}">
 
 		{% include header.html %}
 

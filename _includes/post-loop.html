@@ -1,22 +1,18 @@
-<div class="dn-l pv4 ph3 ph0-l bt b--light">
-  {% include post-footer-buttons.html %}
-</div>
 
-<div class="fl-l w-30-l pb3 ph3 bt b--light bn-l">
 
-  <h3 class="ttu mb3 neutral"><span style="margin-right: 5px;" class="far fa-calendar-alt"></span> Most Recent Posts</h3>
-  {% for post in site.categories.games limit: 7 %}
-    <ul class="menu list pl0">
-      <li><a class="light hover-neutral" href="{{ post.url }}">{{ post.title }}</a></li>
-    </ul>
-  {% endfor %}
+<div class="fl-l w-25-l pb3 ph3 bt b--light bn-l">
 
-  <h3 class="ttu mb3 neutral"><span style="margin-right: 5px;" class="far fa-heart hover-pink"></span> My Recent Favorites</h3>
+  <h3 class="ttu mb3 light"><span style="margin-right: 5px;" class="far fa-heart hover-pink"></span> Recent Favorites</h3>
   {% assign favoritePosts = site.categories.games | where:'favorite', true %}
-  {% for post in favoritePosts limit: 10 %}
+  {% for post in favoritePosts limit: 8 %}
     <ul class="menu list pl0">
-      <li><a class="light hover-neutral" href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a class="neutral hover-bright" href="{{ post.url }}">{{ post.title }}</a></li>
     </ul>
   {% endfor %}
+
+  <a href="/archive" class="db dib-l br3 bw1 bree tc bright b ba b--bright pt1 pb2 ph4 mb3 hover-bg-bright hover-white hover-b--bright mt2 w-75"><span class="fas fa-dice mr2 fa-lg"></span>1000+ posts!</a>
+
+  <a href="#" class="random-button db dib-l mt2 mt0-l br3 bw1 bree tc light hover-neutral bg-white b ba b--neutral pt1 pb2 ph4 w-75"><span class="fas fa-random mr2"></span>Random post?</a>
+
 
 </div>

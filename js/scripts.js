@@ -108,7 +108,6 @@ huehue.randomButton = function() {
 
   $(document).ready(function() {
     $.get('/js/includes/random-button.html', function(html) {
-      $('.tweet-button').after(html);
       $(".random-button").click(function(e) {
         e.preventDefault();
         var postUrl = getRandomPost();

@@ -9,14 +9,13 @@
 {% assign postArray = thePost.title | split: ' ' %}
 {% assign postNumber = postArray[0] %}
 
-<article class="fr-l w-70-l main-content">
+<article class="fr-l w-70-l pb5 main-content">
 	<h1 class="bg-bright bg-transparent-ns pa3 pb0-ns"><a class="white bright-ns" href="{{ thePost.url }}"><span class="white neutral-ns">{{ postNumber }}</span>{{ thePost.title | remove_first: postNumber }}</a></h1>
   <div class="ph3">
     {{ thePost.content }}
-    <hr class="mv4 short-rule">
-    <p class="bree mb0">{{ thePost.date | date: "%B %-d, %Y" }}</p>
+    <p class="bree mb0 mt3">{{ thePost.date | date: "%B %-d, %Y" }}</p>
     <p class="bree light mb3">{% for tag in thePost.tags %}#{{ tag }} {% endfor %}</p>
-    <div class="bree mv4 measure">
+    <div class="bree mv4 measure" style="display:none;">
       {% capture bio %}{% include bio.md %}{% endcapture %}
       {{ bio | markdownify }}
     </div>
