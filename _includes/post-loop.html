@@ -5,7 +5,7 @@
   <h3 class="ttu mb3 mt3 light"><span style="margin-right: 5px;" class="far fa-heart hover-pink"></span> Recent Favorites</h3>
   {% assign favoritePosts = site.categories.games | where:'favorite', true %}
   {% for post in favoritePosts limit: 8 %}
-    <ul class="menu list pl0">
+    <ul class="menu list pl3 ml2">
       <li><a class="neutral hover-bright" href="{{ post.url }}">{{ post.title }}</a></li>
     </ul>
   {% endfor %}
