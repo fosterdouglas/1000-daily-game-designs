@@ -1,8 +1,8 @@
 
 
-<div class="fl-l w-25-l pb6 ph3 mt4 bt b--light bn-l">
+<div class="fl-l w-25-l pb6 pt1 mt0 bt b--light" style="margin-top: 2px;">
 
-  <h3 class="ttu mb3 light"><span style="margin-right: 5px;" class="far fa-heart hover-pink"></span> Recent Favorites</h3>
+  <h3 class="ttu mb3 mt3 light"><span style="margin-right: 5px;" class="far fa-heart hover-pink"></span> Recent Favorites</h3>
   {% assign favoritePosts = site.categories.games | where:'favorite', true %}
   {% for post in favoritePosts limit: 8 %}
     <ul class="menu list pl0">
