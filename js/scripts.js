@@ -166,7 +166,7 @@ huehue.archiveFilter = function() {
       return '<button class="filter-button dib bree white f5 bg-transparent bn br3 ph3 pb1 pt1" data-month="' + monthIndex + '">' + monthNames[monthIndex - 1] + '</button>';
     }
     function yearButtonTemplate(year) {
-      return '<button class="filter-button bree b f4 white bg-transparent ba b--white br3 bw1 mr2 mb3 ph3 pb1" data-year="' + year + '">' + year + '</button>';
+      return '<button class="filter-button bree b f4 white bg-transparent ba b--white br3 bw1 mr2 mb3 ph3" data-year="' + year + '">' + year + '</button>';
     }
 
     for (var i = 1; i <= 12; i++) {
