@@ -160,10 +160,10 @@ huehue.archiveFilter = function() {
   }
 
   function buildButtons() {
-    var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+    var monthNames = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
 
     function monthButtonTemplate(monthIndex) {
-      return '<button class="filter-button dib bree white f5 bg-transparent bn br3 ph3 pb2 pt1" data-month="' + monthIndex + '">' + monthNames[monthIndex - 1] + '</button>';
+      return '<button class="filter-button dib bree white f5 bg-transparent bn br3 ph3 pb1 pt1" data-month="' + monthIndex + '">' + monthNames[monthIndex - 1] + '</button>';
     }
     function yearButtonTemplate(year) {
       return '<button class="filter-button bree b f4 white bg-transparent ba b--white br3 bw1 mr2 mb3 ph3 pb1" data-year="' + year + '">' + year + '</button>';

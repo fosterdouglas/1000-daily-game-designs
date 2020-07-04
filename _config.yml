@@ -4,4 +4,4 @@ title: "Foster Douglas"
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
-incremental: true
+incremental: false
