@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hueoku - Testing
+title: 1002 Hueoku - Testing
 tags: board-game, classic-game, puzzle-game
 favorite: true
 ---
