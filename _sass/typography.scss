@@ -6,24 +6,24 @@ $bree-serif: "bitter", "Georgia", serif;
 $cronos: "cronos-pro", sans-serif;
 
 html {
-	font-size: 15px;
+  font-size: 15px;
 }
-@media (min-width:768px) {
-	html {
-		font-size: 18px;
-	}
+@media (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
 }
 body {
-	font-family: $cronos;
-	font-size: 1em;
-	line-height: 1.35;
+  font-family: $cronos;
+  font-size: 1em;
+  line-height: 1.35;
   color: $default-text;
-	-webkit-font-smoothing: antialiased;
-	text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 p {
-	margin-top: 0;
-	margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 h1,
 h2,
@@ -33,27 +33,27 @@ h5,
 h6 {
   color: $bright;
   margin-top: 1.5rem;
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
   font-family: $bree-serif;
   font-size: 1rem;
   line-height: 1.35;
   font-weight: bold;
 }
 .cronos {
-	font-family: $cronos;
+  font-family: $cronos;
 }
 .bree {
-	font-family: $bree-serif;
+  font-family: $bree-serif;
 }
 .uppercase {
-	text-transform: uppercase;
+  text-transform: uppercase;
 }
 .bold {
-	font-weight: 900;
+  font-weight: 900;
 }
 h1 {
-	margin-top: 0;
-	margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
   font-size: 1.5rem;
   line-height: 1.1;
 }
@@ -61,85 +61,90 @@ h2 {
   font-size: 1.2rem;
 }
 a {
-	color: $bright;
-  transition: .3s all;
-	text-decoration: none;
+  color: $bright;
+  transition: 0.3s all;
+  text-decoration: none;
 }
 a:hover {
   color: $bright;
   text-decoration: none;
-  transition: .3s all;
+  transition: 0.3s all;
 }
 .transition {
-	transition: .3s color;
+  transition: 0.3s color;
 }
 .transition:hover {
-	transition: .3s color;
+  transition: 0.3s color;
 }
 .main-content a:hover {
   color: $light;
   text-decoration: none;
-  transition: .3s all;
+  transition: 0.3s all;
 }
 
 .post-content a {
-	color: $fs-blue;
+  color: $fs-blue;
 }
 .post-content a:hover {
-	color: $light;
+  color: $light;
 }
 ol li,
 ul li {
   margin-top: 0px;
-	margin-bottom: .75rem;
+  margin-bottom: 0.75rem;
 }
 blockquote {
   border-left: none;
-  font-size: .9rem;
+  font-size: 0.9rem;
   line-height: 1.35;
-  padding-left: .75rem;
-  padding-right: .75rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
 }
 hr {
-	border-top: 1px solid $light;
-	border-bottom: none;
-	border-left: none;
+  border-top: 1px solid $light;
+  border-bottom: none;
+  border-left: none;
 }
 .short-rule {
-	max-width: 300px;
-	margin-left: 15px;
+  max-width: 300px;
+  margin-left: 15px;
 }
 .measure {
-	max-width: 28em;
+  max-width: 28em;
 }
 
 /* Used for emphasis text on game posts */
 
 .emphasis {
-	margin-top: 2rem;
-	margin-bottom: 0;
-	padding-top: 2rem;
-	border-top: 1px solid $light;
-	font-family: $bree-serif;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  padding-top: 2rem;
+  border-top: 1px solid $light;
+  font-family: $bree-serif;
+}
+
+.emphasis-bottom {
+  border-top: 1px solid $light;
+  margin-top: 2rem;
 }
 
 /* Used for captioning images */
 
 .image-caption {
-	font-size: .75rem;
-	text-align: center;
-	margin-top: -.5rem;
-	margin-bottom: 2rem;
-	margin-left: auto;
-	margin-right: auto;
-	width: 75%;
-	color: rgb(181, 181, 181);
-	line-height: .8rem
+  font-size: 0.75rem;
+  text-align: center;
+  margin-top: -0.5rem;
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  color: rgb(181, 181, 181);
+  line-height: 0.8rem;
 }
 
 .wf-loading {
-	opacity: 0;
+  opacity: 0;
 }
 .wf-active {
-	opacity: 1;
+  opacity: 1;
 }

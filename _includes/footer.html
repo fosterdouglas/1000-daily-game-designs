@@ -1,11 +1,31 @@
-<div class="fixed bottom-0 w-100 {% if page.url contains '/about' %}dn{% endif %}">
-
+<div
+  class="fixed bottom-0 w-100 {% if page.url contains '/about' %}dn{% endif %}"
+>
   <footer class="cf bg-white bt b--light">
     <div class="mw8 center pa3 cf">
-      <p class="fl w-70 mb0">&copy; {{ site.time | date: '%Y' }} Foster Douglas. <span class="dn di-ns">Site designed and developed by me, at <a class="hover-neutral light" href="http://sandcastle.co" target="_blank">Sandcastle</a>.</span></p>
+      <p class="fl w-70 mb0">
+        &copy; {{ site.time | date: '%Y' }} Foster Douglas.
+        <span class="dn di-ns"
+          >Site designed and developed by me, via
+          <a
+            class="hover-neutral light"
+            href="http://sandcastle.co"
+            target="_blank"
+            >Sandcastle</a
+          >.</span
+        >
+      </p>
       <div class="fl w-30 tr">
-        <a class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %} mr2" href="mailto:{{ site.data.bio.social.email }}"><i class="fas fa-envelope"></i></a>
-        <a class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %}" href="http://twitter.com/{{ site.data.bio.social.twitter }}"><i class="fab fa-twitter"></i></a>
+        <a
+          class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %} mr2"
+          href="mailto:{{ site.data.bio.social.email }}"
+          ><i class="fas fa-envelope"></i
+        ></a>
+        <a
+          class="light {% if page.url contains '/projects' %}hover-fs-blue{% else %}hover-bright{% endif %}"
+          href="http://twitter.com/{{ site.data.bio.social.twitter }}"
+          ><i class="fab fa-twitter"></i
+        ></a>
       </div>
     </div>
   </footer>

@@ -12,7 +12,7 @@ layout: null
   <id>{{ site.url }}</id>
   <author>
     <name>Foster Douglas</name>
-    <email>fosterstilp@me.com</email>
+    <email>foster@sandcastle.co</email>
   </author>
 
   {% for post in site.categories.games %}

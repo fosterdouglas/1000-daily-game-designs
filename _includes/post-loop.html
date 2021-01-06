@@ -1,18 +1,29 @@
+<div class="fl-l w-25-l pb6-ns pb5 mt0 pl3" style="margin-top: 2px">
+  <div class="pl4-ns pr0-ns dn db-ns">
+    <hr />
+  </div>
+  <a
+    href="/archive"
+    class="db dib-l br3 bw1 bree tc bright b ba b--bright pv2 ph4 mb3 hover-bg-bright hover-white hover-b--bright mt2 w-80-ns w-50 mr3 center"
+    ><span class="fas fa-dice mr2 fa-lg"></span>Game Archive!</a
+  >
 
+  <a
+    href="#"
+    class="random-button db dib-l mt2 mt0-l br3 bw1 bree tc light hover-neutral bg-white b ba b--neutral pv2 ph4 w-80-ns w-50 mr3 mr3 center"
+    ><span class="fas fa-random mr2"></span>Random Post?</a
+  >
 
-<div class="fl-l w-25-l pb6-ns pb5 pt1 mt0 bt b--light pl3" style="margin-top: 2px;">
-
-  <h3 class="ttu mb3 mt3 light"><span style="margin-right: 5px;" class="far fa-heart hover-pink"></span> Recent Favorites</h3>
-  {% assign favoritePosts = site.categories.games | where:'favorite', true %}
-  {% for post in favoritePosts limit: 8 %}
-    <ul class="menu f6 bree list pl3 ml2">
-      <li><a class="neutral hover-bright" href="{{ post.url }}">{{ post.title }}</a></li>
-    </ul>
+  <h3 class="ttu mb3 mt3 light">
+    <span style="margin-right: 5px" class="far fa-heart hover-pink"></span>
+    Favorite Posts
+  </h3>
+  {% assign favoritePosts = site.categories.games | where:'favorite', true %} {%
+  for post in favoritePosts limit: 200 %}
+  <ul class="menu f6 bree list pl3 ml2">
+    <li>
+      <a class="neutral hover-bright" href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  </ul>
   {% endfor %}
-
-  <a href="/archive" class="db dib-l br3 bw1 bree tc bright b ba b--bright pv2 ph4 mb3 hover-bg-bright hover-white hover-b--bright mt2 w-70-ns mr3 mr0-ns"><span class="fas fa-dice mr2 fa-lg"></span>1000+ posts!</a>
-
-  <a href="#" class="random-button db dib-l mt2 mt0-l br3 bw1 bree tc light hover-neutral bg-white b ba b--neutral pv2 ph4 w-70-ns mr3 mr0-ns"><span class="fas fa-random mr2"></span>Random post?</a>
-
-
 </div>

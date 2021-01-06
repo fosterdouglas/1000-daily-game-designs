@@ -1,9 +1,9 @@
 # Site settings
-title: "Foster Douglas"
+title: "1000 DGD"
 
 # Build settings
 markdown: kramdown
-kramdown:  
+kramdown:
   parse_block_html: true
 permalink: /:categories/:title/
 incremental: false
