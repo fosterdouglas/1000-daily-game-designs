@@ -1,7 +1,7 @@
-$neutral: #9B9B9B;
-$bright: #D65858;
-$light: #DFDFDF;
-$white: #FFF;
+$neutral: #9b9b9b;
+$bright: #497aa5;
+$light: #dfdfdf;
+$white: #fff;
 $fs-blue: #555;
 
 $default-text: $neutral;
@@ -15,13 +15,16 @@ $default-text: $neutral;
 .hover-bg-bright:hover {
   background-color: $bright;
 }
+.hover-bg-neutral:hover {
+  background-color: $neutral;
+}
 .bg-light {
   background-color: $light;
 }
 .neutral {
   color: $neutral;
 }
-@media(min-width: 30em) {
+@media (min-width: 30em) {
   .neutral-ns {
     color: $neutral;
   }
@@ -37,10 +40,10 @@ $default-text: $neutral;
 }
 .hover-pink:hover {
   color: pink;
-  transition: .3s all;
+  transition: 0.3s all;
 }
 .hover-pink {
-  transition: .3s all;
+  transition: 0.3s all;
 }
 .light {
   color: $light;
@@ -51,6 +54,10 @@ $default-text: $neutral;
 .b--bright,
 .hover-b--bright:hover {
   border-color: $bright;
+}
+.b--neutral,
+.hover-b--neutral:hover {
+  border-color: $neutral;
 }
 .fs-blue {
   color: $fs-blue;
@@ -64,9 +71,12 @@ $default-text: $neutral;
 .bright {
   color: $bright;
 }
-@media(min-width: 30em) {
+@media (min-width: 30em) {
   .bright-ns {
     color: $bright;
+  }
+  .fs-blue-ns {
+    color: $fs-blue;
   }
   .bg-transparent-ns {
     background-color: transparent;
