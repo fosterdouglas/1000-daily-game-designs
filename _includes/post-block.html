@@ -4,19 +4,20 @@ endfor %} {% else %} {% assign thePost = page %} {% endif %} {% assign postArray
 = thePost.title | split: ' ' %} {% assign postNumber = postArray[0] %}
 
 <article class="fr-l w-70-l pb5-ns pb2 mb1 main-content">
-  <h1 class="bg-bright bg-transparent-ns pa3 pt3 mt1 pb2-ns">
-    <a class="white fs-blue-ns" href="{{ thePost.url }}"
-      ><span class="white bright-ns">{{ postNumber }}</span>{{ thePost.title |
-      remove_first: postNumber }}</a
-    >
+  <h1 class="bg-bright bg-transparent-ns pa3 pt3 mt1 mb0 pb0">
+    <a class="white fs-blue-ns" href="{{ thePost.url }}">
+      <span class="white bright-ns">{{ postNumber }}</span>
+      {{ thePost.title | remove_first: postNumber }}
+    </a>
   </h1>
+  <p class="bree light pl3 pr3 mb3 mt1">
+    by Foster Douglas on {{ thePost.date | date: "%B %-d, %Y" }}
+  </p>
   <div class="ph3">
     {{ thePost.content }}
-    <p class="bree mb0 mt3">{{ thePost.date | date: "%B %-d, %Y" }}</p>
     <p class="bree light mb3">
       {% for tag in thePost.tags %}#{{ tag }} {% endfor %}
     </p>
-    <div class="emphasis-bottom"></div>
     <div class="bree mv4 measure" style="display: none">
       {% capture bio %}{% include bio.md %}{% endcapture %} {{ bio | markdownify
       }}
